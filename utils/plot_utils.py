@@ -41,8 +41,11 @@ def create_basic_plot(df_filtered, x, y):
         hover_data={"Suburb": True},
         template="seaborn"
     )
+
+    if "_" in x:
+        x = x.title().replace("_", " ")
     fig.update_layout(
-        #title=f"Suburb {stat.replace('_', ' ').title()} Distribution by State", 
+        title=f"{x} by {y}", 
         template="seaborn"
     )
     st.plotly_chart(fig)

@@ -26,23 +26,25 @@ prop_select = st.sidebar.selectbox(
 )
 
 df_prop = df_prop_select(prop_select)
-df_prop_cols = df_prop.columns[1:]
-
-x_select = st.sidebar.selectbox(
-    "X axis:", 
-    df_prop_cols,
-)
-
-y_select = st.sidebar.selectbox(
-    "Y axis:", 
-    df_prop_cols,
-)
 
 df_filtered = merge_suburb(
     st.session_state.df_suburbs, 
     df_prop, 
     state_select
 )
+
+df_filtered_cols = df_filtered.columns[1:]
+
+x_select = st.sidebar.selectbox(
+    "X axis:", 
+    df_filtered_cols,
+)
+
+y_select = st.sidebar.selectbox(
+    "Y axis:", 
+    df_filtered_cols,
+)
+
 st.write(f"### {prop_select} in {state_select}")
 create_basic_plot(
     df_filtered,
