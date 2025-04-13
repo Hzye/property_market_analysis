@@ -2,6 +2,7 @@ import streamlit as st
 from components.sidebar import render_sidebar
 from utils.data_loader import load_data
 from utils.plot_utils import create_distplot_by_state
+import os
 
 st.set_page_config(
     page_title="AusProp", 
@@ -16,9 +17,18 @@ if 'df_suburbs' not in st.session_state:
 def main():
     render_sidebar()
 
+
     st.title("🏠 Australian Property Market Analysis")
 
-    df_suburbs, df_houses, df_town_houses, df_units = load_data()
+    year_months = os.listdir("data_inv")[:-1][::-1]
+    #year_months = [x[:4]+" "+x[4:] for x in year_months]
+    year_month_select = st.sidebar.selectbox(
+        "Choose year and month:", 
+        year_months,
+        index=0
+    )
+
+    df_suburbs, df_houses, df_town_houses, df_units = load_data(year_month_select)
 
     st.session_state.df_suburbs = df_suburbs
     st.session_state.df_houses = df_houses
