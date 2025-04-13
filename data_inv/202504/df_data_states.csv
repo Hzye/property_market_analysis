@@ -1,0 +1,10 @@
+name,vacancy_rate,rental_stock,population,rental_pop
+New South Wales,1.17,42509,7480223,27.79
+South Australia,0.51,4495,1676654,25.08
+Western Australia,0.59,7161,2474414,23.98
+Queensland,0.9,21419,4703187,29.39
+Victoria,1.05,32623,5926624,24.77
+Tasmania,0.53,1462,509956,23.11
+Northern Territory,0.73,753,228837,38.0
+Australian Capital Territory,1.16,2282,397403,28.56
+Other Territories,,0,4582,31.65

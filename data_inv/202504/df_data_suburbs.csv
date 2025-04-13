@@ -1,0 +1,2762 @@
+name,vacancy_rate,rental_stock,population,rental_pop,state,region
+Braidwood,0.55,5,1647.0,21.54,New South Wales,Queanbeyan-Palerang Regional
+Karabar,0.83,29,8241.0,26.85,New South Wales,Queanbeyan-Palerang Regional
+Queanbeyan,1.41,48,6236.0,38.85,New South Wales,Queanbeyan-Palerang Regional
+Queanbeyan West,1.24,17,3136.0,29.31,New South Wales,Queanbeyan-Palerang Regional
+Jerrabomberra,0.63,21,9505.0,19.9,New South Wales,Queanbeyan-Palerang Regional
+Googong,1.55,47,2691.0,6.39,New South Wales,Queanbeyan-Palerang Regional
+Bombala,0.39,3,1387.0,20.0,New South Wales,Snowy Monaro Regional
+Cooma,0.8,28,6681.0,25.95,New South Wales,Snowy Monaro Regional
+Jindabyne,2.74,71,2628.0,29.76,New South Wales,Snowy Monaro Regional
+Berridale,2.36,18,1194.0,19.66,New South Wales,Snowy Monaro Regional
+Batemans Bay,1.07,13,1532.0,35.99,New South Wales,Eurobodalla
+Bega,0.76,19,4670.0,28.83,New South Wales,Bega Valley
+Tathra,0.72,8,1676.0,24.95,New South Wales,Bega Valley
+Broulee,1.43,20,1717.0,16.13,New South Wales,Eurobodalla
+Tomakin,,0,1001.0,12.8,New South Wales,Eurobodalla
+Deua,,0,,,New South Wales,Eurobodalla
+Wadbilliga,,0,,,New South Wales,Bega Valley
+Eden,0.28,5,3151.0,26.88,New South Wales,Bega Valley
+Merimbula,0.63,17,3542.0,24.52,New South Wales,Bega Valley
+Tura Beach,0.23,4,3163.0,11.46,New South Wales,Bega Valley
+Moruya,0.36,8,3977.0,20.84,New South Wales,Eurobodalla
+Tuross Head,0.9,16,2241.0,13.05,New South Wales,Eurobodalla
+Narooma,0.4,8,2607.0,20.12,New South Wales,Eurobodalla
+Bermagui,,0,1542.0,17.57,New South Wales,Bega Valley
+Goulburn,0.95,114,22418.0,28.62,New South Wales,Goulburn Mulwaree
+Yass,0.48,15,6506.0,21.05,New South Wales,Yass Valley
+Young,0.54,26,10297.0,26.15,New South Wales,Hilltops
+Avoca Beach,0.8,19,4583.0,12.99,New South Wales,Central Coast
+Copacabana,0.55,8,2730.0,15.43,New South Wales,Central Coast
+Box Head,,0,,,New South Wales,Central Coast
+Macmasters Beach,0.35,3,1293.0,9.27,New South Wales,Central Coast
+Calga,,0,138.0,30.0,New South Wales,Central Coast
+Kulnura,0.73,2,603.0,18.08,New South Wales,Central Coast
+Erina,0.11,3,4779.0,21.49,New South Wales,Central Coast
+Gosford,2.06,56,3500.0,55.23,New South Wales,Central Coast
+Springfield,,0,525.0,4.66,South Australia,Mitcham
+Kariong,0.36,8,6385.0,19.06,New South Wales,Central Coast
+Kincumber,0.18,6,7091.0,22.91,New South Wales,Central Coast
+Picketts Valley,,0,218.0,4.35,New South Wales,Central Coast
+Narara,0.54,17,7930.0,18.22,New South Wales,Central Coast
+Niagara Park,0.18,2,2742.0,24.24,New South Wales,Central Coast
+Lisarow,0.45,9,5141.0,15.72,New South Wales,Central Coast
+Point Clare,0.53,9,3736.0,21.75,New South Wales,Central Coast
+Koolewong,,0,865.0,18.48,New South Wales,Central Coast
+Saratoga,0.63,10,3945.0,13.2,New South Wales,Central Coast
+Davistown,0.07,1,2487.0,17.64,New South Wales,Central Coast
+Terrigal,1.03,61,11347.0,20.38,New South Wales,Central Coast
+North Avoca,0.57,6,2204.0,13.23,New South Wales,Central Coast
+Booker Bay,0.69,6,1328.0,26.24,New South Wales,Central Coast
+Patonga,,0,201.0,6.56,New South Wales,Central Coast
+Wamberal,1.01,27,6550.0,14.91,New South Wales,Central Coast
+Forresters Beach,0.42,6,2895.0,19.93,New South Wales,Central Coast
+Woy Woy,0.57,32,10640.0,31.28,New South Wales,Central Coast
+Blackwall,1.0,10,1886.0,25.75,New South Wales,Central Coast
+Wyoming,0.58,25,10135.0,25.5,New South Wales,Central Coast
+Bateau Bay,0.43,23,12148.0,22.68,New South Wales,Central Coast
+Killarney Vale,0.77,24,7214.0,23.67,New South Wales,Central Coast
+Blue Haven,0.72,17,6378.0,26.33,New South Wales,Central Coast
+San Remo,0.94,17,4351.0,26.92,New South Wales,Central Coast
+Budgewoi,0.85,16,3366.0,23.84,New South Wales,Central Coast
+Buff Point,0.63,10,3506.0,19.01,New South Wales,Central Coast
+Halekulani,0.15,2,2538.0,17.65,New South Wales,Central Coast
+Chittaway Bay,0.63,5,2025.0,18.34,New South Wales,Central Coast
+Tumbi Umbi,0.32,7,5109.0,17.02,New South Wales,Central Coast
+Gorokan,1.07,44,8369.0,29.01,New South Wales,Central Coast
+Kanwal,0.46,8,4100.0,22.64,New South Wales,Central Coast
+Charmhaven,1.62,18,2545.0,25.08,New South Wales,Central Coast
+Jilliby,0.17,1,1644.0,5.66,New South Wales,Central Coast
+Yarramalong,,0,346.0,8.72,New South Wales,Central Coast
+Lake Munmorah,0.53,13,5247.0,14.16,New South Wales,Central Coast
+Mannering Park,0.62,7,2471.0,21.31,New South Wales,Central Coast
+Ourimbah,0.57,9,3955.0,22.75,New South Wales,Central Coast
+Fountaindale,,0,701.0,2.79,New South Wales,Central Coast
+Summerland Point,0.63,8,2495.0,16.45,New South Wales,Central Coast
+Gwandalan,0.81,14,3278.0,15.51,New South Wales,Central Coast
+The Entrance,1.45,49,4004.0,35.32,New South Wales,Central Coast
+Toukley,1.11,27,4554.0,31.98,New South Wales,Central Coast
+Norah Head,,0,1132.0,16.31,New South Wales,Central Coast
+Tuggerah,0.41,2,927.0,32.85,New South Wales,Central Coast
+Kangy Angy,1.45,2,306.0,8.08,New South Wales,Central Coast
+Warnervale,0.35,2,639.0,18.63,New South Wales,Central Coast
+Wadalba,1.77,27,2838.0,37.04,New South Wales,Central Coast
+Wyong,1.19,26,4330.0,36.05,New South Wales,Central Coast
+Bathurst,2.19,90,6928.0,41.48,New South Wales,Bathurst Regional
+Oberon,0.75,13,3252.0,21.35,New South Wales,Oberon
+Condobolin,0.21,5,3490.0,26.2,New South Wales,Lachlan
+Cowra,0.41,21,10060.0,24.67,New South Wales,Cowra
+Forbes,1.27,55,8432.0,23.04,New South Wales,Forbes
+Grenfell,0.27,4,2565.0,18.04,New South Wales,Weddin
+West Wyalong,0.24,4,3146.0,20.71,New South Wales,Bland
+Lithgow,0.95,27,5202.0,28.87,New South Wales,Lithgow
+Mudgee,2.71,149,10925.0,30.75,New South Wales,Mid-Western Regional
+Wollangambe,,0,,,New South Wales,Lithgow
+Wollemi,,0,,,New South Wales,Singleton
+Blayney,0.68,11,3381.0,26.7,New South Wales,Blayney
+Orange,1.28,245,38101.0,29.68,New South Wales,Orange
+Grafton,0.69,35,10409.0,30.18,New South Wales,Clarence Valley
+Maclean,0.68,9,2624.0,29.57,New South Wales,Clarence Valley
+Yamba,0.68,32,6077.0,22.97,New South Wales,Clarence Valley
+Iluka,0.31,6,5269.0,8.59,Western Australia,Joondalup
+Bellingen,0.55,10,3781.0,25.88,New South Wales,Bellingen
+Coffs Harbour,1.08,143,25753.0,34.3,New South Wales,Coffs Harbour
+Coramba,0.29,1,814.0,11.71,New South Wales,Coffs Harbour
+Nana Glen,0.22,1,1049.0,14.39,New South Wales,Coffs Harbour
+Bucca,0.22,1,1031.0,8.17,Queensland,Bundaberg
+Dorrigo,0.43,3,1185.0,18.01,New South Wales,Bellingen
+Korora,1.5,19,2489.0,21.67,New South Wales,Coffs Harbour
+Emerald Beach,0.75,8,2235.0,17.22,New South Wales,Coffs Harbour
+Sawtell,0.67,14,3683.0,26.43,New South Wales,Coffs Harbour
+Boambee,0.15,1,1667.0,11.35,New South Wales,Coffs Harbour
+Urunga,0.72,14,2999.0,25.22,New South Wales,Bellingen
+Woolgoolga,0.93,28,5289.0,24.66,New South Wales,Coffs Harbour
+Arrawarra,,0,526.0,11.83,New South Wales,Coffs Harbour
+Bourke,,0,1915.0,29.93,New South Wales,Bourke
+Brewarrina,,0,1143.0,48.35,New South Wales,Brewarrina
+Cobar,0.37,8,3990.0,28.52,New South Wales,Cobar
+Coonamble,0.2,3,2754.0,23.0,New South Wales,Coonamble
+Nyngan,0.07,1,2160.0,27.09,New South Wales,Bogan
+Warren,0.52,4,1382.0,23.42,New South Wales,Warren
+Walgett,,0,2142.0,37.51,New South Wales,Walgett
+Lightning Ridge,0.12,2,2279.0,23.31,New South Wales,Walgett
+Broken Hill,0.29,29,17816.0,18.34,New South Wales,NSW
+Coonabarabran,0.36,7,3290.0,24.87,New South Wales,Warrumbungle Shire
+Dubbo,1.11,217,38942.0,28.61,New South Wales,Western Plains Regional
+Gilgandra,0.13,2,3124.0,25.68,New South Wales,Gilgandra
+Narromine,0.31,7,4696.0,23.47,New South Wales,Narromine
+Wellington,1.43,29,4083.0,29.19,New South Wales,Western Plains Regional
+Branxton,0.8,8,1990.0,15.59,New South Wales,Singleton
+Greta,0.97,14,2830.0,21.31,New South Wales,Cessnock
+Pokolbin,0.13,1,962.0,10.93,New South Wales,Cessnock
+Cessnock,1.07,76,15179.0,33.03,New South Wales,Cessnock
+Dungog,1.09,11,2027.0,21.14,New South Wales,Dungog
+Kurri Kurri,0.64,18,6038.0,30.64,New South Wales,Cessnock
+Abermain,0.39,4,2340.0,15.67,New South Wales,Cessnock
+Singleton,1.69,42,4995.0,31.03,New South Wales,Singleton
+Maitland,1.21,12,1881.0,31.22,New South Wales,Maitland
+East Maitland,0.9,52,11780.0,32.24,New South Wales,Maitland
+Metford,0.68,13,4764.0,31.75,New South Wales,Maitland
+Aberglasslyn,0.83,20,5405.0,32.88,New South Wales,Maitland
+Telarah,0.64,7,2330.0,30.06,New South Wales,Maitland
+Tenambit,0.13,2,2898.0,29.8,New South Wales,Maitland
+Thornton,0.98,42,8062.0,19.87,New South Wales,Maitland
+Millers Forest,,0,330.0,16.53,New South Wales,Maitland
+Anna Bay,0.42,9,3846.0,17.28,New South Wales,Port Stephens
+Lemon Tree Passage,0.15,2,2598.0,21.58,New South Wales,Port Stephens
+Tanilba Bay,0.2,3,3156.0,21.59,New South Wales,Port Stephens
+Raymond Terrace,0.77,46,12819.0,34.67,New South Wales,Port Stephens
+Seaham,,0,1001.0,5.74,New South Wales,Port Stephens
+Woodville,0.77,8,2000.0,33.3,South Australia,Charles Sturt
+Tea Gardens,0.16,3,2878.0,18.63,New South Wales,Mid-Coast
+Hawks Nest,0.39,6,1221.0,12.98,New South Wales,Mid-Coast
+Williamtown,0.54,2,886.0,10.67,New South Wales,Port Stephens
+Medowie,0.75,34,9567.0,21.3,New South Wales,Port Stephens
+Karuah,1.15,10,1414.0,20.43,New South Wales,Port Stephens
+Muswellbrook,1.01,60,12076.0,34.88,New South Wales,Muswellbrook
+Scone,0.77,21,5622.0,27.51,New South Wales,Upper Hunter Shire
+Dapto,0.51,24,10726.0,21.15,New South Wales,Wollongong
+Avondale,0.25,2,1649.0,23.38,New South Wales,Wollongong
+Horsley,0.34,12,8231.0,13.39,New South Wales,Wollongong
+Kembla Grange,0.96,1,252.0,22.73,New South Wales,Wollongong
+Unanderra,0.74,19,5433.0,38.76,New South Wales,Wollongong
+Mount Kembla,,0,1064.0,4.18,New South Wales,Wollongong
+Berkeley,0.66,23,7602.0,32.49,New South Wales,Wollongong
+Lake Heights,0.59,10,3844.0,24.06,New South Wales,Wollongong
+Cringila,0.99,9,2204.0,21.86,New South Wales,Wollongong
+Port Kembla,0.87,23,5011.0,28.27,New South Wales,Wollongong
+Warrawong,1.03,23,4750.0,41.35,New South Wales,Wollongong
+Windang,0.07,1,2653.0,19.56,New South Wales,Wollongong
+Primbee,0.38,3,1642.0,26.47,New South Wales,Wollongong
+Albion Park,0.64,36,13317.0,15.74,New South Wales,Shellharbour
+Macquarie Pass,,0,,,New South Wales,Shellharbour
+Albion Park Rail,0.38,12,6918.0,24.34,New South Wales,Shellharbour
+Kiama,0.5,22,6884.0,20.6,New South Wales,Kiama
+Kiama Downs,0.56,11,5007.0,12.63,New South Wales,Kiama
+Minnamurra,1.03,4,756.0,12.32,New South Wales,Kiama
+Gerringong,0.74,14,3967.0,16.81,New South Wales,Kiama
+Shellharbour,0.88,16,3564.0,28.04,New South Wales,Shellharbour
+Flinders,0.44,11,6672.0,21.08,New South Wales,Shellharbour
+Oak Flats,0.34,11,6408.0,19.34,New South Wales,Shellharbour
+Warilla,0.64,19,6452.0,36.22,New South Wales,Shellharbour
+Balgownie,0.59,14,5528.0,18.59,New South Wales,Wollongong
+Fairy Meadow,1.07,38,7408.0,37.38,New South Wales,Wollongong
+Corrimal,0.54,18,6516.0,27.66,New South Wales,Wollongong
+Tarrawanna,0.31,3,2073.0,26.95,New South Wales,Wollongong
+Bellambi,0.46,9,3950.0,49.44,New South Wales,Wollongong
+Figtree,0.64,30,11559.0,15.17,New South Wales,Wollongong
+Keiraville,1.57,23,3569.0,32.78,New South Wales,Wollongong
+Helensburgh,0.4,10,6379.0,12.57,New South Wales,Wollongong
+Thirroul,0.79,21,6085.0,17.57,New South Wales,Wollongong
+Austinmer,0.69,8,2564.0,18.79,New South Wales,Wollongong
+Coalcliff,2.08,2,195.0,9.64,New South Wales,Wollongong
+Woonona,0.47,24,12185.0,22.7,New South Wales,Wollongong
+Bulli,0.38,10,6104.0,20.27,New South Wales,Wollongong
+Russell Vale,0.31,2,1545.0,19.22,New South Wales,Wollongong
+Wollongong,2.05,259,18442.0,45.31,New South Wales,Wollongong
+Bulahdelah,0.39,3,1427.0,18.73,New South Wales,Mid-Coast
+Stroud,0.45,2,931.0,13.19,New South Wales,Mid-Coast
+Forster,0.6,53,13744.0,22.28,New South Wales,Mid-Coast
+Tuncurry,0.68,27,6184.0,22.95,New South Wales,Mid-Coast
+Kempsey,1.1,3,475.0,40.47,New South Wales,Kempsey
+Macksville,0.83,11,2592.0,27.29,New South Wales,Nambucca
+Scotts Head,0.49,3,895.0,20.69,New South Wales,Nambucca
+Nambucca Heads,0.79,32,6328.0,29.78,New South Wales,Nambucca
+South West Rocks,0.53,18,4606.0,20.94,New South Wales,Kempsey
+Lord Howe Island,,0,380.0,24.07,New South Wales,NSW
+Laurieton,0.24,3,1991.0,25.65,New South Wales,Port Macquarie-Hastings
+Bonny Hills,0.48,7,2976.0,14.13,New South Wales,Port Macquarie-Hastings
+Port Macquarie,0.81,194,44829.0,28.02,New South Wales,Port Macquarie-Hastings
+Wauchope,0.51,16,6310.0,29.29,New South Wales,Port Macquarie-Hastings
+Gloucester,0.43,7,2979.0,24.9,New South Wales,Mid-Coast
+Old Bar,1.16,30,4390.0,24.35,New South Wales,Mid-Coast
+Manning Point,,0,244.0,9.64,New South Wales,Mid-Coast
+Red Head,0.71,3,510.0,14.55,New South Wales,Mid-Coast
+Taree,0.74,58,16200.0,33.06,New South Wales,Mid-Coast
+Wingham,0.74,18,5376.0,20.44,New South Wales,Mid-Coast
+Albury,1.21,34,4802.0,29.35,New South Wales,Albury
+Lavington,0.9,59,12478.0,33.13,New South Wales,Albury
+Hay,0.15,2,2403.0,22.48,New South Wales,Hay
+Wentworth,0.54,5,1437.0,21.35,New South Wales,Wentworth
+Buronga,0.67,5,1214.0,18.18,New South Wales,Wentworth
+Corowa,0.32,10,5477.0,20.58,New South Wales,Federation
+Deniliquin,0.26,11,7867.0,23.7,New South Wales,Murray River
+Moama,0.26,12,6165.0,21.62,New South Wales,Murray River
+Tocumwal,0.24,4,2685.0,16.64,New South Wales,Berrigan
+Finley,0.49,7,2524.0,21.73,New South Wales,Berrigan
+Jerilderie,0.33,2,1027.0,22.01,New South Wales,Murrumbidgee
+Armidale,1.6,183,23350.0,32.74,New South Wales,Armidale Regional
+Walcha,0.07,1,2552.0,19.44,New South Wales,Walcha
+Glen Innes,0.53,17,6151.0,24.76,New South Wales,Glen Innes Severn
+Inverell,0.73,41,11660.0,29.76,New South Wales,Inverell
+Tenterfield,0.77,19,4059.0,20.84,New South Wales,Tenterfield
+Moree,1.01,47,9309.0,31.86,New South Wales,Moree Plains
+Narrabri,0.19,7,7603.0,26.77,New South Wales,Narrabri
+Gunnedah,0.67,32,9725.0,28.88,New South Wales,Gunnedah
+Quirindi,0.41,7,3443.0,26.72,New South Wales,Liverpool Plains
+Tamworth,4.63,10,185.0,19.23,New South Wales,Tamworth Regional
+Belmont,1.07,87,14051.0,29.03,Victoria,Greater Geelong
+Bennetts Green,,0,13.0,,New South Wales,Lake Macquarie
+Belmont South,0.74,4,1051.0,36.11,New South Wales,Lake Macquarie
+Blacksmiths,0.32,3,1844.0,20.53,New South Wales,Lake Macquarie
+Charlestown,0.62,38,12914.0,22.72,New South Wales,Lake Macquarie
+Dudley,,0,2419.0,13.9,New South Wales,Lake Macquarie
+Glendale,0.4,6,3096.0,25.99,New South Wales,Lake Macquarie
+Cardiff,0.45,13,5830.0,23.54,New South Wales,Lake Macquarie
+Mount Hutton,0.78,14,3533.0,23.45,New South Wales,Lake Macquarie
+Windale,0.37,6,3359.0,66.96,New South Wales,Lake Macquarie
+Redhead,0.38,7,3521.0,14.81,New South Wales,Lake Macquarie
+Swansea,0.5,15,5056.0,26.76,New South Wales,Lake Macquarie
+Caves Beach,0.55,10,4054.0,15.43,New South Wales,Lake Macquarie
+Valentine,0.49,11,5511.0,9.87,New South Wales,Lake Macquarie
+Eleebana,0.08,2,5764.0,9.14,New South Wales,Lake Macquarie
+Warners Bay,0.65,25,7616.0,21.53,New South Wales,Lake Macquarie
+Boolaroo,1.58,16,1042.0,25.16,New South Wales,Lake Macquarie
+Bolton Point,0.34,3,2117.0,36.9,New South Wales,Lake Macquarie
+Teralba,0.52,6,1585.0,22.24,New South Wales,Lake Macquarie
+Bonnells Bay,0.65,11,3572.0,20.43,New South Wales,Lake Macquarie
+Edgeworth,0.24,8,6206.0,23.59,New South Wales,Lake Macquarie
+Cameron Park,0.61,23,7995.0,20.2,New South Wales,Lake Macquarie
+Morisset,1.19,26,3211.0,25.69,New South Wales,Lake Macquarie
+Cooranbong,0.98,36,5448.0,22.95,New South Wales,Lake Macquarie
+Toronto,0.32,9,5597.0,31.6,New South Wales,Lake Macquarie
+Awaba,,0,400.0,6.77,New South Wales,Lake Macquarie
+Wangi Wangi,0.35,5,2760.0,19.12,New South Wales,Lake Macquarie
+Rathmines,0.12,1,1902.0,12.59,New South Wales,Lake Macquarie
+West Wallsend,0.61,7,2243.0,21.01,New South Wales,Lake Macquarie
+Barnsley,0.15,1,1749.0,15.54,New South Wales,Lake Macquarie
+Killingworth,,0,679.0,7.21,New South Wales,Lake Macquarie
+Adamstown,1.34,42,6047.0,35.86,New South Wales,Newcastle
+Kotara,0.57,11,3926.0,15.02,New South Wales,Newcastle
+Beresfield,1.01,17,3181.0,26.58,New South Wales,Newcastle
+Hexham,,0,146.0,23.81,Victoria,Moyne
+Hamilton,0.09,5,9974.0,21.23,Victoria,Southern Grampians
+Broadmeadow,2.14,20,1596.0,36.77,New South Wales,Newcastle
+Lambton,1.1,26,4910.0,31.69,New South Wales,Newcastle
+New Lambton,0.85,40,10043.0,26.67,New South Wales,Newcastle
+Fletcher,0.67,17,5136.0,18.65,New South Wales,Newcastle
+Minmi,0.79,2,740.0,12.66,New South Wales,Newcastle
+Mayfield,0.78,5,1451.0,43.8,Tasmania,Launceston
+Warabrook,0.69,6,1976.0,32.74,New South Wales,Newcastle
+Merewether,1.07,57,10964.0,30.22,New South Wales,Newcastle
+The Junction,2.19,12,1049.0,30.43,New South Wales,Newcastle
+Newcastle,3.1,90,2754.0,37.25,New South Wales,Newcastle
+Cooks Hill,2.27,48,3619.0,45.45,New South Wales,Newcastle
+Kooragang,,0,,,New South Wales,Newcastle
+Shortland,1.06,25,3907.0,32.23,New South Wales,Newcastle
+Jesmond,1.9,34,3047.0,56.02,New South Wales,Newcastle
+Stockton,0.62,12,4160.0,26.25,New South Wales,Newcastle
+Fullerton Cove,,0,568.0,4.45,New South Wales,Port Stephens
+Wallsend,0.94,59,12468.0,31.82,New South Wales,Newcastle
+Elermore Vale,0.61,16,5522.0,24.77,New South Wales,Newcastle
+Waratah,1.21,27,4495.0,40.92,New South Wales,Newcastle
+North Lambton,2.57,39,3312.0,34.11,New South Wales,Newcastle
+Wickham,0.1,1,2294.0,69.14,Western Australia,Karratha
+Carrington,,0,189.0,11.43,Queensland,Tablelands
+Tighes Hill,1.11,9,1680.0,31.1,New South Wales,Newcastle
+Ballina,0.67,37,8650.0,36.84,New South Wales,Ballina
+Bangalow,0.88,10,2016.0,22.68,New South Wales,Byron
+Brunswick Heads,0.22,3,1741.0,30.73,New South Wales,Byron
+Ocean Shores,0.6,16,5136.0,23.21,New South Wales,Byron
+Byron Bay,0.84,32,5516.0,23.26,New South Wales,Byron
+Evans Head,0.51,11,2852.0,30.43,New South Wales,Richmond Valley
+Lennox Head,0.71,28,6409.0,19.58,New South Wales,Ballina
+Skennars Head,0.66,5,1159.0,15.67,New South Wales,Ballina
+Mullumbimby,0.35,8,3591.0,24.14,New South Wales,Byron
+Casino,0.55,29,10913.0,31.36,New South Wales,Richmond Valley
+Goonellabah,0.68,42,12898.0,27.47,New South Wales,Lismore
+Kyogle,0.71,8,2200.0,26.46,New South Wales,Kyogle
+Lismore,0.7,13,3578.0,36.92,New South Wales,Lismore
+Kingscliff,1.25,53,7465.0,25.71,New South Wales,Tweed
+Fingal Head,0.76,3,590.0,25.37,New South Wales,Tweed
+Murwillumbah,0.43,14,7027.0,27.83,New South Wales,Tweed
+Pottsville,0.69,20,6700.0,22.91,New South Wales,Tweed
+Tweed Heads,0.48,28,8176.0,28.62,New South Wales,Tweed
+Banora Point,0.33,24,16169.0,19.2,New South Wales,Tweed
+Terranora,0.23,3,2923.0,9.52,New South Wales,Tweed
+North Tumbulgum,,0,256.0,20.87,New South Wales,Tweed
+Tweed Heads South,0.43,19,7616.0,28.97,New South Wales,Tweed
+Leeton,0.55,22,8620.0,25.67,New South Wales,Leeton
+Narrandera,0.57,13,4373.0,22.05,New South Wales,Narrandera
+Tumbarumba,0.3,3,1859.0,21.05,New South Wales,Snowy Valleys
+Tumut,0.36,11,6229.0,25.71,New South Wales,Snowy Valleys
+Cootamundra,0.56,20,6784.0,21.86,New South Wales,Gundagai
+Gundagai,0.23,2,1672.0,21.41,New South Wales,Gundagai
+Junee,0.83,17,4921.0,23.86,New South Wales,Junee
+Temora,0.75,19,4695.0,21.59,New South Wales,Temora
+Wagga Wagga,2.81,116,7101.0,41.32,New South Wales,Wagga Wagga
+Berry,0.71,11,2666.0,18.53,New South Wales,Shoalhaven
+Kangaroo Valley,0.16,1,880.0,11.97,New South Wales,Shoalhaven
+Callala Bay,0.68,9,2192.0,16.84,New South Wales,Shoalhaven
+Currarong,,0,449.0,4.54,New South Wales,Shoalhaven
+Culburra Beach,0.58,13,2877.0,13.88,New South Wales,Shoalhaven
+Ettrema,,0,,,New South Wales,Shoalhaven
+Sassafras,0.24,1,1065.0,7.2,Victoria,Yarra Ranges
+Budawang,,0,17.0,23.53,New South Wales,Shoalhaven
+Huskisson,0.56,5,787.0,24.93,New South Wales,Shoalhaven
+Vincentia,0.57,16,3293.0,14.02,New South Wales,Shoalhaven
+North Nowra,0.51,13,5794.0,24.33,New South Wales,Shoalhaven
+Bomaderry,0.27,9,6663.0,29.48,New South Wales,Shoalhaven
+Nowra,0.76,38,9193.0,38.71,New South Wales,Shoalhaven
+St Georges Basin,0.56,10,2911.0,16.55,New South Wales,Shoalhaven
+Erowal Bay,0.45,2,624.0,10.76,New South Wales,Shoalhaven
+Sussex Inlet,0.69,20,3578.0,13.55,New South Wales,Shoalhaven
+Berrara,,0,300.0,3.52,New South Wales,Shoalhaven
+Tomerong,0.17,1,1070.0,10.07,New South Wales,Shoalhaven
+Wandandian,,0,328.0,2.83,New South Wales,Shoalhaven
+Woollamia,,0,567.0,5.9,New South Wales,Shoalhaven
+Ulladulla,0.29,11,6617.0,23.11,New South Wales,Shoalhaven
+Bowral,0.89,50,10333.0,18.28,New South Wales,Wingecarribee
+Colo Vale,0.71,5,1613.0,16.44,New South Wales,Wingecarribee
+Mittagong,1.34,40,5767.0,22.77,New South Wales,Wingecarribee
+Moss Vale,0.86,40,8576.0,24.64,New South Wales,Wingecarribee
+Berrima,0.5,2,670.0,9.86,New South Wales,Wingecarribee
+Robertson,0.59,11,4976.0,27.69,Queensland,Brisbane
+Fitzroy Falls,1.61,2,220.0,3.49,New South Wales,Wingecarribee
+Baulkham Hills,1.01,143,37055.0,19.47,New South Wales,The Hills Shire
+Bella Vista,0.75,21,7835.0,11.03,New South Wales,The Hills Shire
+Glenhaven,0.29,7,6506.0,14.48,New South Wales,The Hills Shire
+West Pennant Hills,0.35,20,16375.0,10.95,New South Wales,The Hills Shire
+Castle Hill,1.03,179,39587.0,21.29,New South Wales,The Hills Shire
+Cherrybrook,0.75,47,18762.0,14.08,New South Wales,Hornsby
+Kellyville,1.0,103,27974.0,17.05,New South Wales,The Hills Shire
+Kenthurst,0.48,8,5037.0,10.02,New South Wales,The Hills Shire
+Wisemans Ferry,,0,221.0,20.91,New South Wales,The Hills Shire
+Galston,0.25,3,3139.0,14.62,New South Wales,Hornsby
+Laughtondale,1.85,1,82.0,8.51,New South Wales,Hornsby
+Bilpin,,0,668.0,13.75,New South Wales,Hawkesbury
+St Albans,0.79,121,37311.0,29.95,Victoria,Brimbank
+Kurrajong Heights,0.19,1,1340.0,7.39,New South Wales,Hawkesbury
+Ebenezer,0.29,1,987.0,10.27,New South Wales,Hawkesbury
+Pitt Town,0.43,5,3038.0,8.37,New South Wales,Hawkesbury
+McGraths Hill,1.0,9,2552.0,18.34,New South Wales,Hawkesbury
+Box Hill,3.84,340,11391.0,48.8,Victoria,Whitehorse
+Nelson,,0,188.0,5.86,Victoria,Glenelg
+Rouse Hill,2.61,166,7965.0,19.23,New South Wales,The Hills Shire
+Beaumont Hills,0.52,14,9038.0,14.15,New South Wales,The Hills Shire
+Kings Park,,0,8197.0,20.22,Victoria,Brimbank
+Marayong,1.3,40,7712.0,34.97,New South Wales,Blacktown
+Doonside,0.67,34,13451.0,40.06,New South Wales,Blacktown
+Woodcroft,0.31,14,11154.0,16.62,South Australia,Onkaparinga
+Lalor Park,1.03,35,7660.0,36.1,New South Wales,Blacktown
+Kings Langley,0.6,20,9348.0,11.3,New South Wales,Blacktown
+Blacktown,1.42,281,47175.0,36.66,New South Wales,Blacktown
+Seven Hills,1.15,91,19331.0,29.22,New South Wales,Blacktown
+Prospect,0.92,61,13275.0,28.63,South Australia,Prospect
+Toongabbie,1.71,109,14332.0,27.81,New South Wales,Parramatta
+Glenwood,0.92,43,16126.0,18.31,New South Wales,Blacktown
+Acacia Gardens,0.51,6,3800.0,15.31,New South Wales,Blacktown
+Quakers Hill,1.62,156,27075.0,26.65,New South Wales,Blacktown
+Kellyville Ridge,1.49,51,10471.0,19.36,New South Wales,Blacktown
+The Ponds,1.06,52,11733.0,19.26,New South Wales,Blacktown
+Marsden Park,2.35,115,1009.0,19.05,New South Wales,Blacktown
+Shanes Park,,0,407.0,25.2,New South Wales,Blacktown
+Riverstone,1.15,54,7245.0,28.48,New South Wales,Blacktown
+Colebee,1.43,17,1932.0,10.31,New South Wales,Blacktown
+Schofields,2.25,162,4980.0,22.18,New South Wales,Blacktown
+Stanhope Gardens,1.2,37,9160.0,18.2,New South Wales,Blacktown
+Parklea,0.71,5,3462.0,20.53,New South Wales,Blacktown
+Bidwill,0.32,5,4283.0,63.41,New South Wales,Blacktown
+Hebersham,1.17,23,5688.0,36.0,New South Wales,Blacktown
+Emerton,0.83,7,2255.0,48.67,New South Wales,Blacktown
+Glendenning,1.25,20,5130.0,25.33,New South Wales,Blacktown
+Dean Park,1.35,15,3224.0,24.46,New South Wales,Blacktown
+Hassall Grove,1.64,23,4512.0,23.82,New South Wales,Blacktown
+Plumpton,0.97,28,9211.0,22.76,New South Wales,Blacktown
+Lethbridge Park,1.43,27,4753.0,47.65,New South Wales,Blacktown
+Tregear,1.23,18,3885.0,52.85,New South Wales,Blacktown
+Mount Druitt,1.48,93,16728.0,43.97,New South Wales,Blacktown
+Whalan,1.06,24,5970.0,44.53,New South Wales,Blacktown
+Rooty Hill,0.75,40,14711.0,26.69,New South Wales,Blacktown
+Minchinbury,0.59,11,5623.0,17.54,New South Wales,Blacktown
+Banksmeadow,62.5,5,,,New South Wales,Botany Bay
+Botany,1.38,85,10821.0,29.91,New South Wales,Botany Bay
+Pagewood,0.34,5,3803.0,22.83,New South Wales,Botany Bay
+Hillsdale,2.87,83,5504.0,47.3,New South Wales,Botany Bay
+Daceyville,0.15,1,1209.0,69.76,New South Wales,Botany Bay
+Eastlakes,1.77,58,6913.0,46.58,New South Wales,Botany Bay
+Mascot,3.59,405,14771.0,42.07,New South Wales,Botany Bay
+Petersham,2.48,112,8111.0,42.22,New South Wales,Inner West
+Stanmore,1.85,69,7939.0,39.07,New South Wales,Inner West
+Sydenham,0.86,34,10837.0,28.93,Victoria,Brimbank
+Tempe,0.91,13,3554.0,23.39,New South Wales,Inner West
+St Peters,0.57,8,3217.0,24.87,South Australia,Norwood Payneham St Peters
+Marrickville,1.75,225,26592.0,39.47,New South Wales,Inner West
+Darlinghurst,2.49,177,11316.0,45.46,New South Wales,Sydney
+Erskineville,2.9,160,8016.0,43.27,New South Wales,Sydney
+Alexandria,3.06,159,8269.0,43.17,New South Wales,Sydney
+Glebe,1.99,141,11529.0,48.57,New South Wales,Sydney
+Forest Lodge,3.25,99,4588.0,49.91,New South Wales,Sydney
+Potts Point,3.22,175,9425.0,48.97,New South Wales,Sydney
+Woolloomooloo,2.04,54,4010.0,55.09,New South Wales,Sydney
+Surry Hills,2.87,284,16417.0,51.13,New South Wales,Sydney
+Camperdown,2.72,166,10340.0,54.68,New South Wales,Sydney
+Darlington,,0,3655.0,8.23,Western Australia,Mundaring
+Chippendale,6.6,334,8615.0,59.85,New South Wales,Sydney
+Pyrmont,2.58,174,12810.0,52.03,New South Wales,Sydney
+Redfern,2.22,180,13216.0,50.59,New South Wales,Sydney
+Rosebery,4.07,294,10112.0,36.13,New South Wales,Sydney
+Beaconsfield,0.52,15,6718.0,14.55,Victoria,Cardinia
+Millers Point,1.68,24,1481.0,28.85,New South Wales,Sydney
+Haymarket,7.49,281,7355.0,53.68,New South Wales,Sydney
+Ultimo,4.36,171,8841.0,57.74,New South Wales,Sydney
+Waterloo,3.55,380,14619.0,58.47,New South Wales,Sydney
+Zetland,6.28,588,10073.0,52.59,New South Wales,Sydney
+Bondi,2.05,113,10045.0,45.43,New South Wales,Waverley
+Tamarama,1.02,8,1628.0,35.73,New South Wales,Waverley
+Bronte,1.55,48,6729.0,31.13,New South Wales,Waverley
+Bondi Beach,2.28,165,11650.0,46.08,New South Wales,Waverley
+North Bondi,1.82,75,9165.0,35.56,New South Wales,Waverley
+Bondi Junction,2.53,139,9443.0,40.29,New South Wales,Waverley
+Waverly,,0,55.0,,New South Wales,Upper Hunter Shire
+Centennial Park,2.18,29,2373.0,47.53,New South Wales,Randwick
+Dover Heights,0.93,14,3801.0,16.93,New South Wales,Waverley
+Paddington,2.01,137,12912.0,37.59,New South Wales,Woollahra
+Moore Park,,0,26.0,38.46,New South Wales,Sydney
+Rose Bay,1.88,95,10053.0,37.64,New South Wales,Woollahra
+Vaucluse,1.05,42,9340.0,22.28,New South Wales,Woollahra
+Watsons Bay,0.73,3,848.0,25.52,New South Wales,Woollahra
+Woollahra,1.65,65,7406.0,29.92,New South Wales,Woollahra
+Bellevue Hill,1.64,82,10717.0,28.7,New South Wales,Woollahra
+Double Bay,2.43,66,4643.0,33.13,New South Wales,Woollahra
+Darling Point,1.76,46,4185.0,26.22,New South Wales,Woollahra
+Kingsford,2.18,140,15486.0,48.88,New South Wales,Randwick
+Maroubra,1.72,242,30690.0,36.93,New South Wales,Randwick
+Randwick,1.81,265,29992.0,44.15,New South Wales,Randwick
+Coogee,1.75,135,15210.0,44.95,New South Wales,Randwick
+Clovelly,1.03,22,4736.0,33.38,New South Wales,Randwick
+Malabar,0.58,9,5422.0,30.92,New South Wales,Randwick
+La Perouse,1.81,3,401.0,43.33,New South Wales,Randwick
+Matraville,0.9,37,9804.0,31.17,New South Wales,Randwick
+Chifley,1.18,16,3237.0,28.0,New South Wales,Randwick
+South Coogee,0.74,18,5507.0,44.75,New South Wales,Randwick
+Bass Hill,0.84,28,9070.0,28.83,New South Wales,Canterbury-Bankstown
+Georges Hall,0.56,18,9047.0,15.44,New South Wales,Canterbury-Bankstown
+Chullora,,0,,,New South Wales,Canterbury-Bankstown
+Condell Park,0.71,30,11570.0,23.6,New South Wales,Canterbury-Bankstown
+Padstow,0.94,52,13307.0,27.09,New South Wales,Canterbury-Bankstown
+Revesby,1.09,63,14183.0,31.02,New South Wales,Canterbury-Bankstown
+Yagoona,0.95,65,18017.0,31.12,New South Wales,Canterbury-Bankstown
+Birrong,0.64,7,3107.0,27.04,New South Wales,Canterbury-Bankstown
+Bankstown,1.42,204,32115.0,41.6,New South Wales,Canterbury-Bankstown
+Greenacre,0.73,63,24367.0,29.33,New South Wales,Canterbury-Bankstown
+Milperra,0.47,7,3954.0,9.06,New South Wales,Canterbury-Bankstown
+Picnic Point,0.38,9,6157.0,12.34,New South Wales,Canterbury-Bankstown
+Belmore,1.78,105,12721.0,38.53,New South Wales,Canterbury-Bankstown
+Belfield,0.92,21,6321.0,27.0,New South Wales,Canterbury-Bankstown
+Punchbowl,0.35,1,463.0,36.36,Tasmania,Launceston
+Roselands,1.59,75,11574.0,25.15,New South Wales,Canterbury-Bankstown
+Lakemba,2.04,123,17019.0,50.47,New South Wales,Canterbury-Bankstown
+Wiley Park,1.69,63,10126.0,50.7,New South Wales,Canterbury-Bankstown
+Campsie,1.99,223,24538.0,47.73,New South Wales,Canterbury-Bankstown
+Canterbury,0.71,23,8052.0,18.75,Victoria,Boroondara
+Earlwood,1.07,75,17744.0,18.06,New South Wales,Canterbury-Bankstown
+Kingsgrove,0.64,32,12452.0,23.0,New South Wales,Canterbury-Bankstown
+Narwee,1.28,30,5621.0,37.35,New South Wales,Canterbury-Bankstown
+Beverly Hills,0.97,39,10157.0,25.27,New South Wales,Georges River
+Oatley,0.77,32,10487.0,18.8,New South Wales,Georges River
+Hurstville Grove,0.62,6,2662.0,12.68,New South Wales,Georges River
+Peakhurst,0.94,48,10542.0,21.65,New South Wales,Georges River
+Lugarno,0.19,4,5609.0,8.34,New South Wales,Georges River
+Riverwood,1.13,63,12094.0,47.98,New South Wales,Canterbury-Bankstown
+South Hurstville,1.26,27,5137.0,25.5,New South Wales,Georges River
+Blakehurst,0.52,14,6219.0,12.89,New South Wales,Georges River
+Hurstville,1.94,281,29821.0,41.1,New South Wales,Georges River
+Mortdale,1.26,59,10422.0,31.47,New South Wales,Georges River
+Penshurst,1.3,67,12783.0,33.1,New South Wales,Georges River
+Bardwell Park,0.58,5,2238.0,13.84,New South Wales,Rockdale
+Kogarah,2.13,189,15121.0,44.22,New South Wales,Rockdale
+Kogarah Bay,0.45,4,2027.0,11.99,New South Wales,Georges River
+Carlton,4.22,629,18539.0,63.71,Victoria,Melbourne
+Allawah,1.14,27,5705.0,42.01,New South Wales,Georges River
+Monterey,1.41,29,4532.0,27.04,New South Wales,Rockdale
+Brighton-le-Sands,1.67,69,8330.0,37.43,New South Wales,Rockdale
+Kyeemagh,1.08,4,919.0,12.18,New South Wales,Rockdale
+Rockdale,1.88,139,15534.0,41.22,New South Wales,Rockdale
+Banksia,1.08,13,3387.0,18.51,New South Wales,Rockdale
+Sans Souci,1.16,57,10301.0,22.03,New South Wales,Rockdale
+Ramsgate,1.15,7,1116.0,28.15,New South Wales,Rockdale
+Arncliffe,2.42,126,10588.0,35.93,New South Wales,Rockdale
+Bardwell Valley,0.45,4,2320.0,16.12,New South Wales,Rockdale
+Bexley,1.46,105,19727.0,23.67,New South Wales,Rockdale
+Wolli Creek,4.05,241,6396.0,52.47,New South Wales,Rockdale
+Concord,1.15,64,14528.0,22.17,New South Wales,Canada Bay
+Mortlake,0.13,1,1373.0,17.15,Victoria,Moyne
+Cabarita,0.24,2,1956.0,17.66,New South Wales,Canada Bay
+Drummoyne,1.52,94,11946.0,31.64,New South Wales,Canada Bay
+Rodd Point,0.94,5,1377.0,12.18,New South Wales,Canada Bay
+Five Dock,1.47,64,9352.0,30.3,New South Wales,Canada Bay
+Abbotsford,2.58,152,8188.0,48.16,Victoria,Yarra
+Concord West,1.51,35,5913.0,19.97,New South Wales,Canada Bay
+North Strathfield,1.55,30,4763.0,42.26,New South Wales,Canada Bay
+Rhodes,5.21,363,11908.0,53.26,New South Wales,Canada Bay
+Balmain,1.57,84,10449.0,36.36,New South Wales,Inner West
+Lilyfield,0.81,28,7618.0,32.25,New South Wales,Inner West
+Rozelle,1.51,67,8721.0,33.34,New South Wales,Inner West
+Leichhardt,1.87,135,14627.0,35.05,New South Wales,Inner West
+Ashbury,0.58,8,3327.0,10.59,New South Wales,Canterbury-Bankstown
+Croydon Park,1.06,48,11015.0,29.22,New South Wales,Burwood
+Enfield,0.93,26,5333.0,37.15,South Australia,Port Adelaide Enfield
+Dulwich Hill,1.96,142,13713.0,39.11,New South Wales,Inner West
+Lewisham,1.57,38,3163.0,37.84,New South Wales,Inner West
+Haberfield,0.93,23,6451.0,17.14,New South Wales,Inner West
+Homebush,3.88,209,7013.0,44.21,New South Wales,Strathfield
+Strathfield South,1.49,35,3543.0,30.76,New South Wales,Strathfield
+Ashfield,1.93,216,23842.0,45.65,New South Wales,Inner West
+Croydon,0.77,104,26949.0,23.91,Victoria,Maroondah
+Strathfield,2.02,211,25808.0,37.47,New South Wales,Strathfield
+Lane Cove North,1.87,121,11440.0,39.13,New South Wales,Lane Cove
+St Leonards,4.54,231,5494.0,53.56,New South Wales,Willoughby
+Naremburn,1.33,37,5881.0,31.03,New South Wales,Willoughby
+Artarmon,2.58,107,9519.0,44.91,New South Wales,Willoughby
+Castle Cove,0.8,8,2558.0,11.73,New South Wales,Willoughby
+Northbridge,1.09,26,6340.0,17.35,New South Wales,Willoughby
+Chatswood,2.37,282,24910.0,41.43,New South Wales,Willoughby
+Greenwich,1.22,31,5612.0,27.79,New South Wales,Lane Cove
+Riverview,0.38,4,3353.0,9.18,New South Wales,Lane Cove
+Lane Cove,1.72,101,10811.0,32.74,New South Wales,Lane Cove
+Willoughby,1.6,52,6537.0,25.71,New South Wales,Willoughby
+Asquith,1.93,54,3373.0,16.25,New South Wales,Hornsby
+Mount Colah,1.03,30,7101.0,12.3,New South Wales,Hornsby
+Berowra,0.36,6,4717.0,11.65,New South Wales,Hornsby
+Brooklyn,1.18,14,1855.0,36.65,Victoria,Brimbank
+Cowan,0.42,1,649.0,6.67,New South Wales,Hornsby
+Normanhurst,0.77,17,5287.0,19.5,New South Wales,Hornsby
+Thornleigh,0.8,27,8468.0,18.52,New South Wales,Hornsby
+Westleigh,0.38,6,4461.0,6.57,New South Wales,Hornsby
+Hornsby,1.53,157,22166.0,39.45,New South Wales,Hornsby
+Waitara,2.16,87,5935.0,43.38,New South Wales,Hornsby
+Gordon,1.53,59,7665.0,27.04,New South Wales,Ku-ring-gai
+Killara,1.25,53,10568.0,21.92,New South Wales,Ku-ring-gai
+Lindfield,1.56,72,9792.0,23.02,New South Wales,Ku-ring-gai
+Roseville,1.76,71,10084.0,19.84,New South Wales,Ku-ring-gai
+Pymble,1.38,65,11051.0,16.01,New South Wales,Ku-ring-gai
+St Ives,0.8,57,17300.0,13.86,New South Wales,Ku-ring-gai
+Turramurra,1.14,58,11922.0,17.06,New South Wales,Ku-ring-gai
+Warrawee,1.53,18,2992.0,18.02,New South Wales,Ku-ring-gai
+Cremorne,1.83,110,11227.0,38.28,New South Wales,North Sydney
+Cammeray,1.4,51,7003.0,38.1,New South Wales,North Sydney
+Crows Nest,2.16,65,4798.0,44.81,New South Wales,North Sydney
+Waverton,1.29,21,3020.0,39.34,New South Wales,North Sydney
+Neutral Bay,2.03,123,10485.0,44.35,New South Wales,North Sydney
+Kirribilli,1.93,61,3821.0,47.79,New South Wales,North Sydney
+North Sydney,2.71,177,7704.0,47.28,New South Wales,North Sydney
+Lavender Bay,2.47,15,947.0,40.64,New South Wales,North Sydney
+Mosman,1.3,180,28482.0,29.25,New South Wales,Mosman
+Balgowlah,0.94,34,7961.0,27.78,New South Wales,Northern Beaches
+Clontarf,0.79,5,1739.0,7.22,New South Wales,Northern Beaches
+Seaforth,0.78,20,7141.0,14.46,New South Wales,Northern Beaches
+Manly,1.59,141,15864.0,40.26,New South Wales,Northern Beaches
+Fairlight,1.08,30,5843.0,29.38,New South Wales,Northern Beaches
+Avalon,1.69,2,292.0,6.12,Victoria,Greater Geelong
+Palm Beach,1.26,115,14655.0,33.56,Queensland,Gold Coast
+Bayview,0.17,3,3621.0,16.44,New South Wales,Northern Beaches
+Elanora Heights,0.5,8,4354.0,10.53,New South Wales,Northern Beaches
+Newport,0.95,56,12916.0,25.26,Victoria,Hobsons Bay
+Mona Vale,0.64,29,10672.0,19.28,New South Wales,Northern Beaches
+North Narrabeen,0.37,9,5853.0,15.36,New South Wales,Northern Beaches
+Beacon Hill,0.31,8,7459.0,12.22,New South Wales,Northern Beaches
+Narraweena,0.64,17,6610.0,29.21,New South Wales,Northern Beaches
+Cromer,0.39,12,7593.0,15.9,New South Wales,Northern Beaches
+Forestville,0.65,21,8329.0,19.04,New South Wales,Northern Beaches
+Killarney Heights,0.73,11,4467.0,10.74,New South Wales,Northern Beaches
+Freshwater,0.91,37,8864.0,32.63,New South Wales,Northern Beaches
+Brookvale,0.55,9,3158.0,38.35,New South Wales,Northern Beaches
+Manly Vale,0.88,25,6160.0,35.16,New South Wales,Northern Beaches
+Allambie Heights,0.56,15,7006.0,16.77,New South Wales,Northern Beaches
+Terrey Hills,0.28,3,3037.0,14.0,New South Wales,Northern Beaches
+Duffys Forest,0.61,1,480.0,10.88,New South Wales,Northern Beaches
+Belrose,0.64,22,8776.0,9.94,New South Wales,Northern Beaches
+Collaroy,0.94,32,7870.0,27.06,New South Wales,Northern Beaches
+Collaroy Plateau,0.57,9,4767.0,9.76,New South Wales,Northern Beaches
+North Curl Curl,0.51,7,4116.0,15.29,New South Wales,Northern Beaches
+Dee Why,1.02,119,21520.0,40.5,New South Wales,Northern Beaches
+Frenchs Forest,0.6,29,13474.0,12.27,New South Wales,Northern Beaches
+Oxford Falls,,0,140.0,9.3,New South Wales,Northern Beaches
+Narrabeen,1.01,44,8207.0,36.92,New South Wales,Northern Beaches
+Wheeler Heights,0.56,6,2992.0,10.18,New South Wales,Northern Beaches
+Camden,1.13,17,3225.0,30.17,New South Wales,Camden
+Ellis Lane,,0,859.0,6.12,New South Wales,Camden
+Currans Hill,0.57,11,5302.0,26.26,New South Wales,Camden
+Elderslie,,0,150.0,18.18,Tasmania,Southern Midlands
+Narellan,0.43,7,3612.0,27.52,New South Wales,Camden
+Harrington Park,0.45,17,10657.0,11.7,New South Wales,Camden
+Mount Annan,0.36,14,11700.0,16.73,New South Wales,Camden
+Spring Farm,0.69,26,4302.0,20.27,New South Wales,Camden
+Bradbury,0.92,35,8804.0,27.43,New South Wales,Campbelltown
+Wedderburn,,0,935.0,8.01,Victoria,Loddon
+Campbelltown,1.72,130,12571.0,41.86,New South Wales,Campbelltown
+Woodbine,0.83,8,2738.0,21.59,New South Wales,Campbelltown
+Claymore,0.83,11,2649.0,68.94,New South Wales,Campbelltown
+Eagle Vale,0.81,16,5785.0,24.53,New South Wales,Campbelltown
+Raby,0.44,9,5945.0,17.75,New South Wales,Campbelltown
+Leumeah,0.87,35,9835.0,34.0,New South Wales,Campbelltown
+Minto Heights,,0,385.0,12.38,New South Wales,Campbelltown
+Minto,1.12,55,12551.0,33.33,New South Wales,Campbelltown
+St Andrews,0.46,9,5731.0,20.8,New South Wales,Campbelltown
+Rosemeadow,0.86,26,7858.0,30.01,New South Wales,Campbelltown
+Glen Alpine,0.21,3,4561.0,5.65,New South Wales,Campbelltown
+Denham Court,0.89,33,1983.0,14.44,New South Wales,Campbelltown
+Bardia,2.4,41,1604.0,29.14,New South Wales,Campbelltown
+Glenfield,1.14,42,9635.0,27.95,New South Wales,Campbelltown
+Ingleburn,0.91,55,15039.0,28.91,New South Wales,Campbelltown
+Macquarie Fields,0.87,45,13718.0,37.38,New South Wales,Campbelltown
+Bargo,0.29,5,4394.0,15.72,New South Wales,Wollondilly
+Douglas Park,0.2,1,1354.0,8.16,New South Wales,Wollondilly
+Appin,0.59,6,2624.0,13.46,New South Wales,Wollondilly
+Picton,0.66,14,4819.0,17.32,New South Wales,Wollondilly
+Tahmoor,1.32,43,5067.0,26.71,New South Wales,Wollondilly
+Buxton,0.53,4,2034.0,10.56,New South Wales,Wollondilly
+The Oaks,0.59,6,2523.0,14.63,New South Wales,Wollondilly
+Oakdale,0.22,2,1849.0,13.74,New South Wales,Wollondilly
+Blackheath,0.43,13,4401.0,16.37,New South Wales,Blue Mountains
+Megalong Valley,,0,149.0,8.14,New South Wales,Blue Mountains
+Blaxland,0.14,4,7447.0,15.97,New South Wales,Blue Mountains
+Warrimoo,0.21,2,2450.0,10.0,New South Wales,Blue Mountains
+Lapstone,0.28,1,961.0,12.28,New South Wales,Blue Mountains
+Katoomba,0.59,29,7960.0,25.05,New South Wales,Blue Mountains
+Leura,0.55,15,4648.0,16.56,New South Wales,Blue Mountains
+Lawson,0.48,6,2619.0,17.4,New South Wales,Blue Mountains
+Hazelbrook,0.43,9,4979.0,13.1,New South Wales,Blue Mountains
+Linden,0.49,1,498.0,7.89,New South Wales,Blue Mountains
+Springwood,0.66,26,9142.0,26.81,Queensland,Logan
+Winmalee,0.42,10,6200.0,11.25,New South Wales,Blue Mountains
+Wentworth Falls,0.32,10,6072.0,16.23,New South Wales,Blue Mountains
+Cambridge Park,1.49,42,6729.0,28.43,New South Wales,Penrith
+Emu Plains,0.45,15,8415.0,17.95,New South Wales,Penrith
+Leonay,0.43,4,2517.0,9.99,New South Wales,Penrith
+Glenmore Park,0.84,74,23010.0,20.68,New South Wales,Penrith
+Regentville,1.3,4,811.0,19.51,New South Wales,Penrith
+Jamisontown,1.32,34,5493.0,33.02,New South Wales,Penrith
+South Penrith,0.83,39,11788.0,23.62,New South Wales,Penrith
+Kingswood,0.39,4,2309.0,22.61,South Australia,Mitcham
+Werrington,1.59,44,4024.0,42.3,New South Wales,Penrith
+Mulgoa,1.16,8,1901.0,11.87,New South Wales,Penrith
+Luddenham,0.88,6,1829.0,11.6,New South Wales,Penrith
+Orchard Hills,0.62,4,1879.0,12.95,New South Wales,Penrith
+Penrith,2.04,201,13292.0,46.28,New South Wales,Penrith
+Warragamba,0.97,5,1237.0,16.73,New South Wales,Wollondilly
+Silverdale,0.49,9,3675.0,6.57,New South Wales,Wollondilly
+Cranebrook,0.57,32,15764.0,24.58,New South Wales,Penrith
+Castlereagh,,0,1173.0,14.48,New South Wales,Penrith
+Jordan Springs,1.29,50,5158.0,32.87,New South Wales,Penrith
+Llandilo,,0,1633.0,20.92,New South Wales,Penrith
+Richmond,1.99,339,27707.0,47.32,Victoria,Yarra
+Clarendon,,0,615.0,9.61,South Australia,Onkaparinga
+Windsor,1.79,83,7279.0,48.04,Victoria,Stonnington
+Bligh Park,0.68,16,6360.0,33.64,New South Wales,Hawkesbury
+Yarramundi,,0,840.0,2.56,New South Wales,Hawkesbury
+Londonderry,1.14,15,3904.0,16.68,New South Wales,Penrith
+Erskine Park,0.47,10,6434.0,15.81,New South Wales,Penrith
+St Clair,0.8,13,1712.0,39.46,South Australia,Charles Sturt
+Colyton,1.23,40,8432.0,26.2,New South Wales,Penrith
+Oxley Park,2.24,38,3111.0,34.1,New South Wales,Penrith
+St Marys,1.98,126,12199.0,43.12,New South Wales,Penrith
+North St Marys,1.89,30,3926.0,42.64,New South Wales,Penrith
+Auburn,1.79,242,37368.0,42.08,New South Wales,Cumberland
+Berala,1.2,37,9053.0,37.1,New South Wales,Cumberland
+Lidcombe,3.55,378,19624.0,35.97,New South Wales,Cumberland
+Regents Park,0.88,34,10963.0,25.22,Queensland,Logan
+Newington,1.88,39,5805.0,28.71,New South Wales,Parramatta
+Wentworth Point,4.12,341,7001.0,50.92,New South Wales,Parramatta
+Sydney Olympic Park,5.25,116,1740.0,51.69,New South Wales,Parramatta
+Ermington,1.18,60,10739.0,35.68,New South Wales,Parramatta
+Rydalmere,1.3,38,6640.0,34.97,New South Wales,Parramatta
+Oatlands,0.64,13,5659.0,22.46,New South Wales,Parramatta
+Dundas Valley,0.65,15,5408.0,32.72,New South Wales,Parramatta
+Carlingford,1.53,166,24392.0,25.54,New South Wales,Parramatta
+Chester Hill,0.69,35,12816.0,34.47,New South Wales,Canterbury-Bankstown
+Sefton,0.77,17,5811.0,28.63,New South Wales,Canterbury-Bankstown
+Fairfield,1.34,94,18080.0,49.8,New South Wales,Fairfield
+Granville,1.75,123,15332.0,44.98,New South Wales,Cumberland
+Clyde,1.84,123,2115.0,20.08,Victoria,Casey
+Guildford,1.14,99,22329.0,38.65,New South Wales,Cumberland
+South Granville,0.83,18,5497.0,40.98,New South Wales,Cumberland
+Guildford West,1.57,30,4915.0,24.85,New South Wales,Cumberland
+Merrylands West,1.51,41,6589.0,38.14,New South Wales,Cumberland
+Greystanes,0.91,76,22803.0,16.79,New South Wales,Cumberland
+Merrylands,1.46,193,29647.0,40.31,New South Wales,Cumberland
+Holroyd,0.63,3,1275.0,46.75,New South Wales,Cumberland
+Pemulwuy,1.66,35,5013.0,18.72,New South Wales,Cumberland
+South Wentworthville,2.05,54,6205.0,30.79,New South Wales,Cumberland
+North Parramatta,1.88,107,13246.0,48.16,New South Wales,Parramatta
+North Rocks,1.26,44,7962.0,12.67,New South Wales,Parramatta
+Northmead,1.5,75,11206.0,33.07,New South Wales,Parramatta
+Constitution Hill,1.53,24,3966.0,34.65,New South Wales,Parramatta
+Winston Hills,0.41,18,11666.0,12.03,New South Wales,Parramatta
+Pendle Hill,1.83,55,7247.0,41.49,New South Wales,Cumberland
+Girraween,1.92,42,5589.0,28.69,New South Wales,Cumberland
+Wentworthville,2.49,147,11315.0,40.78,New South Wales,Cumberland
+Westmead,2.78,213,16306.0,58.04,New South Wales,Parramatta
+Parramatta,3.46,532,25793.0,59.44,New South Wales,Parramatta
+Rosehill,3.2,74,3809.0,51.59,New South Wales,Parramatta
+Harris Park,3.61,86,5798.0,61.39,New South Wales,Parramatta
+Pennant Hills,0.67,20,7285.0,19.02,New South Wales,Hornsby
+Cheltenham,0.96,110,22297.0,22.66,Victoria,Kingston
+North Epping,0.44,7,4528.0,11.66,New South Wales,Hornsby
+Gladesville,1.93,119,11826.0,32.73,New South Wales,Ryde
+Huntleys Point,,0,145.0,17.07,New South Wales,Hunters Hill
+Hunters Hill,1.15,39,9529.0,19.92,New South Wales,Hunters Hill
+Woolwich,1.19,4,819.0,18.33,New South Wales,Hunters Hill
+Macquarie Park,2.93,249,8140.0,59.28,New South Wales,Ryde
+Marsfield,1.62,90,13295.0,37.11,New South Wales,Ryde
+North Ryde,1.52,90,10859.0,21.92,New South Wales,Ryde
+East Ryde,1.22,11,2453.0,9.83,New South Wales,Ryde
+West Ryde,1.69,103,13397.0,40.98,New South Wales,Ryde
+Meadowbank,2.2,75,4413.0,54.86,New South Wales,Ryde
+Putney,0.79,12,4101.0,13.69,New South Wales,Ryde
+Denistone,0.51,7,3748.0,16.32,New South Wales,Ryde
+Eastwood,1.45,113,17868.0,31.99,New South Wales,Ryde
+Ryde,2.21,345,26500.0,37.47,New South Wales,Ryde
+Ashcroft,0.53,7,3582.0,43.19,New South Wales,Liverpool
+Busby,1.32,20,4284.0,40.67,New South Wales,Liverpool
+Miller,0.5,7,3242.0,51.53,New South Wales,Liverpool
+Austral,2.19,134,3026.0,25.72,New South Wales,Liverpool
+Greendale,0.4,1,605.0,1.3,Victoria,Moorabool
+Badgerys Creek,,0,226.0,34.38,New South Wales,Liverpool
+Cecil Hills,0.61,12,7016.0,12.92,New South Wales,Liverpool
+Green Valley,0.57,22,12519.0,24.15,New South Wales,Liverpool
+Hinchinbrook,0.42,14,11227.0,19.45,New South Wales,Liverpool
+Hoxton Park,0.29,4,4354.0,21.09,New South Wales,Liverpool
+Carnes Hill,0.33,3,2044.0,11.68,New South Wales,Liverpool
+Horningsea Park,0.47,5,3732.0,18.59,New South Wales,Liverpool
+West Hoxton,0.54,15,10013.0,14.25,New South Wales,Liverpool
+Middleton Grange,0.77,18,5176.0,22.29,New South Wales,Liverpool
+Cobbitty,1.74,35,2066.0,13.92,New South Wales,Camden
+Bringelly,0.5,4,2510.0,18.19,New South Wales,Camden
+Gledswood Hills,,33,21.0,,New South Wales,Camden
+Gregory Hills,1.18,52,4984.0,19.15,New South Wales,Camden
+Leppington,1.27,54,3497.0,24.67,New South Wales,Camden
+Catherine Field,0.95,18,1652.0,12.05,New South Wales,Camden
+Oran Park,1.86,123,4765.0,28.21,New South Wales,Camden
+Bonnyrigg Heights,0.67,14,7304.0,15.9,New South Wales,Fairfield
+Bonnyrigg,0.32,11,8667.0,39.9,New South Wales,Fairfield
+Bossley Park,0.65,31,14585.0,23.55,New South Wales,Fairfield
+Abbotsbury,0.3,4,4248.0,7.77,New South Wales,Fairfield
+Cabramatta,0.74,56,21782.0,43.06,New South Wales,Fairfield
+Lansvale,0.93,8,2569.0,19.29,New South Wales,Fairfield
+Cabramatta West,0.87,20,7222.0,33.9,New South Wales,Fairfield
+Mount Pritchard,0.91,32,9955.0,27.84,New South Wales,Fairfield
+Canley Vale,0.81,28,10209.0,36.12,New South Wales,Fairfield
+Canley Heights,0.88,33,10974.0,32.46,New South Wales,Fairfield
+Edensor Park,0.75,23,9775.0,21.81,New South Wales,Fairfield
+Greenfield Park,0.59,9,5092.0,21.77,New South Wales,Fairfield
+Prairiewood,0.48,6,3242.0,26.91,New South Wales,Fairfield
+Horsley Park,0.58,4,1833.0,16.03,New South Wales,Fairfield
+Kemps Creek,0.84,7,2269.0,24.6,New South Wales,Penrith
+Smithfield,0.8,37,11971.0,35.18,New South Wales,Fairfield
+Wetherill Park,0.97,20,6134.0,19.29,New South Wales,Fairfield
+St Johns Park,0.64,12,6122.0,15.86,New South Wales,Fairfield
+Wakeley,0.52,8,4744.0,19.01,New South Wales,Fairfield
+Casula,0.63,36,15664.0,25.74,New South Wales,Liverpool
+Chipping Norton,0.69,23,9007.0,16.68,New South Wales,Liverpool
+Moorebank,1.31,53,9748.0,16.44,New South Wales,Liverpool
+Holsworthy,1.7,29,5476.0,29.51,New South Wales,Campbelltown
+Wattle Grove,0.67,20,8958.0,27.34,New South Wales,Liverpool
+Lurnea,1.01,35,9314.0,34.13,New South Wales,Liverpool
+Cartwright,0.61,7,2375.0,46.58,New South Wales,Liverpool
+Warwick Farm,1.53,51,5886.0,54.75,New South Wales,Liverpool
+Edmondson Park,1.6,85,2272.0,21.9,New South Wales,Liverpool
+Liverpool,2.15,303,27087.0,47.2,New South Wales,Liverpool
+Prestons,0.7,33,15310.0,16.02,New South Wales,Liverpool
+Gymea,1.2,44,7587.0,28.45,New South Wales,Sutherland Shire
+Grays Point,0.58,6,3123.0,5.09,New South Wales,Sutherland Shire
+Miranda,1.18,100,15284.0,29.76,New South Wales,Sutherland Shire
+Yowie Bay,0.53,6,3072.0,8.03,New South Wales,Sutherland Shire
+Sylvania,0.84,38,10480.0,19.45,New South Wales,Sutherland Shire
+Taren Point,0.54,5,1733.0,16.86,New South Wales,Sutherland Shire
+Caringbah,1.23,78,11666.0,33.52,New South Wales,Sutherland Shire
+Caringbah South,0.42,22,12241.0,10.12,New South Wales,Sutherland Shire
+Cronulla,1.79,183,18070.0,34.66,New South Wales,Sutherland Shire
+Kurnell,1.22,11,2275.0,13.19,New South Wales,Sutherland Shire
+Bundeena,0.73,7,1919.0,11.48,New South Wales,Sutherland Shire
+Port Hacking,0.74,3,1093.0,5.6,New South Wales,Sutherland Shire
+Dolans Bay,,0,596.0,5.61,New South Wales,Sutherland Shire
+Woolooware,1.48,39,3967.0,17.86,New South Wales,Sutherland Shire
+Burraneer,0.36,5,3586.0,8.69,New South Wales,Sutherland Shire
+Heathcote,0.21,5,6012.0,13.04,New South Wales,Sutherland Shire
+Waterfall,,0,495.0,9.55,New South Wales,Sutherland Shire
+Illawong,0.32,8,7275.0,7.51,New South Wales,Sutherland Shire
+Alfords Point,0.2,2,3107.0,4.57,New South Wales,Sutherland Shire
+Menai,0.41,15,10302.0,16.61,New South Wales,Sutherland Shire
+Lucas Heights,,0,,,New South Wales,Sutherland Shire
+Woronora,0.26,2,2192.0,9.87,New South Wales,Sutherland Shire
+Oyster Bay,0.16,3,5490.0,7.38,New South Wales,Sutherland Shire
+Como,0.92,73,14136.0,35.29,Western Australia,South Perth
+Jannali,0.84,23,6189.0,24.3,New South Wales,Sutherland Shire
+Royal National Park,,0,29.0,33.33,New South Wales,Sutherland Shire
+Sutherland,1.3,79,10812.0,38.47,New South Wales,Sutherland Shire
+Kirrawee,1.18,58,9282.0,22.61,New South Wales,Sutherland Shire
+Engadine,0.24,16,17376.0,12.15,New South Wales,Sutherland Shire
+Loftus,0.26,4,4128.0,8.97,New South Wales,Sutherland Shire
+Yarrawarrah,0.11,1,2732.0,6.6,New South Wales,Sutherland Shire
+Woronora Heights,,0,2855.0,3.38,New South Wales,Sutherland Shire
+Alfredton,1.7,84,9224.0,24.93,Victoria,Ballarat
+Ballarat,,0,5326.0,32.79,Victoria,Ballarat
+Buninyong,0.39,6,3714.0,13.24,Victoria,Ballarat
+Delacombe,0.48,15,6301.0,22.23,Victoria,Ballarat
+Smythes Creek,1.13,13,1466.0,4.23,Victoria,Golden Plains
+Wendouree,0.79,43,10447.0,33.73,Victoria,Ballarat
+Miners Rest,0.55,8,3095.0,15.12,Victoria,Ballarat
+Ballarat East,1.37,43,5622.0,32.81,Victoria,Ballarat
+Warrenheip,0.72,3,676.0,13.62,Victoria,Ballarat
+Ballarat North,0.84,17,3923.0,27.08,Victoria,Ballarat
+Invermay,1.13,21,3055.0,43.45,Tasmania,Launceston
+Canadian,0.97,18,3607.0,27.33,Victoria,Ballarat
+Mount Clear,1.2,19,3389.0,32.32,Victoria,Ballarat
+Sebastopol,1.14,61,10032.0,35.26,Victoria,Ballarat
+Redan,0.83,15,2881.0,39.93,Victoria,Ballarat
+Creswick,0.34,6,3168.0,16.85,Victoria,Hepburn
+Clunes,0.29,3,1725.0,11.55,Victoria,Hepburn
+Daylesford,0.4,9,2548.0,17.71,Victoria,Hepburn
+Avoca,0.57,14,4904.0,23.08,Queensland,Bundaberg
+Beaufort,0.2,2,1540.0,14.61,Victoria,Pyrenees
+Bendigo,2.11,70,5516.0,33.34,Victoria,Greater Bendigo
+California Gully,0.56,12,4358.0,28.9,Victoria,Greater Bendigo
+Eaglehawk,0.47,13,5692.0,26.33,Victoria,Greater Bendigo
+East Bendigo,1.42,19,2092.0,31.55,Victoria,Greater Bendigo
+Kennington,1.26,36,5643.0,31.3,Victoria,Greater Bendigo
+Flora Hill,1.47,29,3955.0,44.57,Victoria,Greater Bendigo
+Spring Gully,0.33,5,3002.0,19.46,Victoria,Greater Bendigo
+Kangaroo Flat,0.47,26,10399.0,25.41,Victoria,Greater Bendigo
+Golden Square,0.67,30,8825.0,28.73,Victoria,Greater Bendigo
+Maiden Gully,0.1,2,4985.0,7.64,Victoria,Greater Bendigo
+Strathfieldsaye,0.57,16,5430.0,12.6,Victoria,Greater Bendigo
+White Hills,0.42,7,3221.0,28.22,Victoria,Greater Bendigo
+Ascot,1.27,19,2571.0,21.89,Western Australia,Belmont
+Castlemaine,0.25,10,6759.0,21.53,Victoria,Mount Alexander
+Kyneton,0.37,14,6947.0,19.16,Victoria,Macedon Ranges
+Woodend,0.24,7,5804.0,14.62,Victoria,Macedon Ranges
+Bannockburn,0.29,7,5285.0,11.75,Victoria,Golden Plains
+Winchelsea,0.31,4,1953.0,19.17,Victoria,Surf Coast
+Geelong,2.68,96,5208.0,33.36,Victoria,Greater Geelong
+Geelong West,1.85,69,6965.0,33.45,Victoria,Greater Geelong
+Hamlyn Heights,1.11,35,6292.0,24.23,Victoria,Greater Geelong
+Highton,1.15,102,18957.0,19.9,Victoria,Greater Geelong
+Lara,0.51,49,16354.0,20.46,Victoria,Greater Geelong
+Leopold,0.38,24,12817.0,16.35,Victoria,Greater Geelong
+Newcomb,1.56,39,4505.0,32.46,Victoria,Greater Geelong
+Moolap,0.13,1,1371.0,10.53,Victoria,Greater Geelong
+North Geelong,0.78,11,2971.0,36.45,Victoria,Greater Geelong
+Bell Park,0.98,28,5009.0,25.78,Victoria,Greater Geelong
+Charlemont,2.69,39,362.0,17.35,Victoria,Greater Geelong
+Corio,0.71,48,15293.0,33.18,Victoria,Greater Geelong
+Lovely Banks,0.29,3,2301.0,15.42,Victoria,Greater Geelong
+Grovedale,0.76,51,14304.0,23.89,Victoria,Greater Geelong
+Mount Duneed,3.11,85,1577.0,12.48,Victoria,Greater Geelong
+Norlane,1.29,63,8310.0,42.11,Victoria,Greater Geelong
+Clifton Springs,0.85,31,7520.0,16.19,Victoria,Greater Geelong
+Lorne,0.17,4,1109.0,6.8,Victoria,Surf Coast
+Anglesea,0.25,9,2545.0,7.6,Victoria,Surf Coast
+Portarlington,0.23,10,3625.0,14.32,Victoria,Greater Geelong
+Point Lonsdale,0.49,16,2686.0,7.87,Victoria,Greater Geelong
+Queenscliff,1.61,28,3374.0,39.61,New South Wales,Northern Beaches
+Torquay,0.57,55,13260.0,16.86,Victoria,Surf Coast
+Barwon Heads,0.5,12,3873.0,11.6,Victoria,Greater Geelong
+Armstrong Creek,2.59,161,4248.0,22.46,Victoria,Greater Geelong
+Ocean Grove,0.53,57,14163.0,15.68,Victoria,Greater Geelong
+Alexandra,0.13,2,2692.0,16.86,Victoria,Murrindindi
+Euroa,0.41,8,3278.0,19.08,Victoria,Strathbogie
+Kilmore,0.73,33,7956.0,21.78,Victoria,Mitchell
+Broadford,0.44,10,4316.0,19.36,Victoria,Mitchell
+Nagambie,0.46,8,1880.0,19.82,Victoria,Strathbogie
+Seymour,0.5,18,6327.0,27.25,Victoria,Mitchell
+Yea,0.57,6,1586.0,18.65,Victoria,Murrindindi
+Benalla,0.63,38,10325.0,24.54,Victoria,Benalla
+Rutherglen,0.22,3,2387.0,20.39,Victoria,Indigo
+Wangaratta,0.63,60,18100.0,25.45,Victoria,Wangaratta
+Beechworth,0.38,8,3862.0,18.91,Victoria,Indigo
+Bright,0.16,3,2399.0,17.73,Victoria,Alpine
+Mount Beauty,0.67,4,822.0,19.08,Victoria,Alpine
+Chiltern,0.13,1,1601.0,11.79,Victoria,Indigo
+Indigo Valley,,0,329.0,10.53,Victoria,Indigo
+Myrtleford,0.23,4,3195.0,19.63,Victoria,Alpine
+Towong,,0,134.0,13.79,Victoria,Towong
+West Wodonga,0.64,43,14573.0,33.14,Victoria,Wodonga
+Yackandandah,0.23,2,1810.0,15.65,Victoria,Indigo
+Baranduda,1.11,17,2368.0,15.8,Victoria,Wodonga
+Leneva,0.44,4,849.0,23.05,Victoria,Wodonga
+Wodonga,0.84,80,18947.0,33.02,Victoria,Wodonga
+Drouin,0.5,35,12348.0,22.36,Victoria,Baw Baw
+Warragul,0.94,88,15753.0,20.82,Victoria,Baw Baw
+Bairnsdale,0.83,34,7582.0,29.46,Victoria,East Gippsland
+Bruthen,0.24,1,814.0,13.21,Victoria,East Gippsland
+Omeo,1.01,3,404.0,14.0,Victoria,East Gippsland
+Lake King,,0,91.0,11.76,Western Australia,Lake Grace
+Lakes Entrance,0.44,14,4808.0,19.9,Victoria,East Gippsland
+Orbost,,0,2230.0,20.07,Victoria,East Gippsland
+Paynesville,0.52,13,3478.0,18.55,Victoria,East Gippsland
+Foster,0.5,6,1842.0,18.55,Victoria,South Gippsland
+French Island,,0,114.0,3.85,Victoria,Vic
+Korumburra,0.29,7,4475.0,19.97,Victoria,South Gippsland
+Leongatha,0.41,12,5656.0,22.36,Victoria,South Gippsland
+Wilsons Promontory,,0,9.0,100.0,Victoria,South Gippsland
+Wonthaggi,0.43,14,4966.0,27.57,Victoria,Bass Coast
+Inverloch,0.53,26,5438.0,12.83,Victoria,Bass Coast
+Churchill,0.96,23,4785.0,25.48,Victoria,Latrobe
+Moe,0.49,27,8772.0,28.13,Victoria,Latrobe
+Newborough,0.61,22,6759.0,22.61,Victoria,Latrobe
+Morwell,1.36,103,13770.0,27.11,Victoria,Latrobe
+Yallourn North,0.27,2,1544.0,12.34,Victoria,Latrobe
+Glengarry,0.18,1,1086.0,11.06,Victoria,Wellington
+Traralgon,0.77,100,24940.0,23.63,Victoria,Latrobe
+Longford,0.43,9,3863.0,24.6,Tasmania,Northern Midlands
+Loch Sport,0.22,4,812.0,3.26,Victoria,Wellington
+Maffra,0.43,11,5282.0,21.13,Victoria,Wellington
+Rosedale,0.23,2,1658.0,16.25,Victoria,Wellington
+Sale,0.78,58,13671.0,27.83,Victoria,Wellington
+Yarram,,0,2139.0,23.85,Victoria,Wellington
+Brunswick East,1.65,143,11504.0,46.84,Victoria,Moreland
+Brunswick West,1.79,150,14156.0,41.36,Victoria,Moreland
+Pascoe Vale South,0.89,40,10067.0,18.63,Victoria,Moreland
+Brunswick,1.37,198,24470.0,43.72,Victoria,Moreland
+Coburg,1.05,131,26180.0,30.58,Victoria,Moreland
+Alphington,1.12,36,5080.0,28.93,Victoria,Yarra
+Thornbury,1.12,107,18564.0,37.38,Victoria,Darebin
+Northcote,1.06,128,24562.0,33.57,Victoria,Darebin
+Ascot Vale,1.11,81,14754.0,36.2,Victoria,Moonee Valley
+Flemington,1.55,72,7716.0,51.26,Victoria,Melbourne
+Moonee Ponds,1.41,123,14253.0,31.65,Victoria,Moonee Valley
+Aberfeldie,0.7,12,3895.0,21.22,Victoria,Moonee Valley
+Essendon,1.51,160,20600.0,31.89,Victoria,Moonee Valley
+Docklands,3.62,428,10962.0,47.41,Victoria,Melbourne
+East Melbourne,2.49,83,4960.0,41.44,Victoria,Melbourne
+Parkville,2.87,89,7405.0,52.95,Victoria,Melbourne
+South Yarra,2.36,439,25154.0,50.25,Victoria,Stonnington
+West Melbourne,3.84,222,5517.0,49.96,Victoria,Melbourne
+North Melbourne,2.52,264,14935.0,54.89,Victoria,Melbourne
+South Wharf,,0,107.0,15.79,Victoria,Melbourne
+Southbank,4.46,798,18709.0,47.94,Victoria,Melbourne
+Albert Park,0.87,28,6216.0,31.57,Victoria,Port Phillip
+Elwood,1.65,156,15550.0,45.05,Victoria,Port Phillip
+Port Melbourne,1.42,140,16176.0,38.18,Victoria,Melbourne
+St Kilda East,2.0,142,13097.0,43.93,Victoria,Port Phillip
+South Melbourne,1.94,177,10921.0,45.19,Victoria,Port Phillip
+St Kilda,2.06,318,20224.0,47.49,Victoria,Port Phillip
+Armadale,1.19,81,13619.0,33.59,Western Australia,Armadale
+Prahran,2.71,232,12984.0,46.44,Victoria,Stonnington
+Toorak,1.46,112,12909.0,27.1,Victoria,Stonnington
+Carlton North,1.16,36,6305.0,44.0,Victoria,Yarra
+Princes Hill,0.49,5,2128.0,40.04,Victoria,Yarra
+Collingwood,1.99,117,8510.0,53.33,Victoria,Yarra
+Fitzroy,1.42,86,10444.0,49.81,Victoria,Yarra
+Fitzroy North,1.11,76,12334.0,42.65,Victoria,Yarra
+Clifton Hill,0.89,28,6337.0,33.36,Victoria,Yarra
+Balwyn,1.11,68,13308.0,22.6,Victoria,Boroondara
+Balwyn North,1.04,85,20403.0,16.81,Victoria,Boroondara
+Camberwell,1.2,115,22079.0,23.75,Victoria,Boroondara
+Glen Iris,1.11,134,25271.0,26.26,Victoria,Boroondara
+Hawthorn East,1.94,156,14324.0,37.36,Victoria,Boroondara
+Kew East,0.69,19,6637.0,21.8,Victoria,Boroondara
+Hawthorn,2.08,273,23514.0,43.94,Victoria,Boroondara
+Kew,1.03,117,24595.0,26.64,Victoria,Boroondara
+Bulleen,0.73,36,10882.0,17.48,Victoria,Manningham
+Doncaster,1.28,169,20950.0,24.58,Victoria,Manningham
+Templestowe,0.64,42,16622.0,12.48,Victoria,Manningham
+Templestowe Lower,0.63,37,13429.0,14.88,Victoria,Manningham
+Doncaster East,0.98,129,28360.0,19.92,Victoria,Manningham
+Blackburn,0.96,66,13944.0,22.36,Victoria,Whitehorse
+Blackburn South,0.69,31,10794.0,21.44,Victoria,Whitehorse
+Box Hill North,1.11,60,11866.0,29.02,Victoria,Whitehorse
+Burwood East,1.22,66,10269.0,23.47,Victoria,Whitehorse
+Mont Albert,0.66,15,4843.0,25.02,Victoria,Whitehorse
+Beaumaris,0.67,40,13350.0,11.52,Victoria,Bayside
+Brighton East,0.84,61,15992.0,19.34,Victoria,Bayside
+Hampton,0.85,56,13391.0,21.88,Victoria,Bayside
+Sandringham,0.7,38,10246.0,21.93,Victoria,Bayside
+Black Rock,0.68,20,6157.0,17.34,Victoria,Bayside
+Bentleigh,1.1,89,16155.0,23.65,Victoria,Glen Eira
+McKinnon,1.46,40,6062.0,26.7,Victoria,Glen Eira
+Carnegie,1.5,145,17387.0,39.41,Victoria,Glen Eira
+Caulfield,0.98,25,5597.0,29.22,Victoria,Glen Eira
+Elsternwick,1.15,62,10349.0,32.1,Victoria,Glen Eira
+Hughesdale,1.23,43,7557.0,32.08,Victoria,Monash
+Murrumbeena,1.42,69,9931.0,34.02,Victoria,Glen Eira
+Ormond,1.52,60,8415.0,36.09,Victoria,Glen Eira
+Glen Huntly,1.71,46,5034.0,45.6,Victoria,Glen Eira
+Bentleigh East,1.17,155,27632.0,20.22,Victoria,Glen Eira
+Aspendale Gardens,0.26,6,6528.0,9.67,Victoria,Kingston
+Waterways,0.4,3,2454.0,8.45,Victoria,Kingston
+Braeside,,0,22.0,50.0,Victoria,Kingston
+Carrum,0.68,15,3983.0,28.34,Victoria,Kingston
+Patterson Lakes,0.44,15,7561.0,13.91,Victoria,Kingston
+Chelsea,1.11,47,7769.0,28.5,Victoria,Kingston
+Bonbeach,0.62,22,6420.0,27.25,Victoria,Kingston
+Chelsea Heights,0.36,8,5339.0,13.13,Victoria,Kingston
+Edithvale,0.68,21,5802.0,22.93,Victoria,Kingston
+Aspendale,0.77,24,6949.0,16.1,Victoria,Kingston
+Mentone,0.85,57,12958.0,30.2,Victoria,Kingston
+Moorabbin,1.13,36,5894.0,24.27,Victoria,Kingston
+Heatherton,0.45,5,2912.0,23.84,Victoria,Kingston
+Moorabbin Airport,,0,,,Victoria,Kingston
+Mordialloc,,0,8166.0,27.34,Victoria,Kingston
+Parkdale,0.55,30,11745.0,20.4,Victoria,Kingston
+Malvern,1.2,60,10062.0,26.36,Victoria,Stonnington
+Malvern East,2.03,219,21710.0,29.08,Victoria,Stonnington
+Bundoora,1.11,133,28651.0,24.86,Victoria,Whittlesea
+Greensborough,0.65,57,20816.0,15.81,Victoria,Banyule
+Heidelberg,1.24,47,6226.0,33.93,Victoria,Banyule
+Rosanna,1.0,38,8498.0,20.74,Victoria,Banyule
+Heidelberg West,1.15,40,5547.0,46.07,Victoria,Banyule
+Ivanhoe,1.35,104,12171.0,27.33,Victoria,Banyule
+Ivanhoe East,0.69,13,3817.0,17.75,Victoria,Banyule
+Eaglemont,0.59,10,3873.0,16.23,Victoria,Banyule
+Montmorency,0.51,20,8968.0,16.0,Victoria,Banyule
+Briar Hill,0.34,5,3149.0,16.63,Victoria,Banyule
+Viewbank,0.41,11,6914.0,12.3,Victoria,Banyule
+Yallambie,0.21,3,4114.0,25.0,Victoria,Banyule
+Watsonia,0.73,18,5216.0,26.73,Victoria,Banyule
+Kingsbury,1.34,22,3779.0,39.17,Victoria,Darebin
+Preston,1.11,193,32851.0,34.51,Victoria,Darebin
+Reservoir,1.08,272,50482.0,31.9,Victoria,Darebin
+Eltham,0.31,23,18317.0,11.44,Victoria,Nillumbik
+Hurstbridge,0.22,3,3449.0,8.48,Victoria,Nillumbik
+Panton Hill,0.25,1,1059.0,6.74,Victoria,Nillumbik
+Plenty,0.24,2,2362.0,3.7,Victoria,Nillumbik
+Yarrambat,,0,1586.0,5.81,Victoria,Nillumbik
+Research,0.41,4,2651.0,7.59,Victoria,Nillumbik
+North Warrandyte,,0,2957.0,5.29,Victoria,Nillumbik
+Wattle Glen,0.15,1,1964.0,6.62,Victoria,Nillumbik
+Diamond Creek,0.22,10,11733.0,9.44,Victoria,Nillumbik
+Mill Park,0.72,80,29713.0,19.26,Victoria,Whittlesea
+Thomastown,0.59,52,20522.0,24.26,Victoria,Whittlesea
+Wallan,1.16,77,11073.0,17.52,Victoria,Mitchell
+Whittlesea,0.39,9,5616.0,16.42,Victoria,Whittlesea
+Epping,1.05,146,32392.0,25.48,Victoria,Whittlesea
+South Morang,0.76,72,24060.0,19.04,Victoria,Whittlesea
+Wollert,1.56,176,9054.0,18.21,Victoria,Whittlesea
+Doreen,0.72,66,21296.0,20.38,Victoria,Nillumbik
+Lalor,0.83,75,22595.0,23.02,Victoria,Whittlesea
+Mernda,1.3,103,16454.0,24.52,Victoria,Whittlesea
+Airport West,1.01,42,7567.0,22.24,Victoria,Moonee Valley
+Keilor,0.3,7,5857.0,10.29,Victoria,Brimbank
+Niddrie,1.12,29,5485.0,21.46,Victoria,Moonee Valley
+Essendon West,1.08,8,1437.0,21.81,Victoria,Moonee Valley
+Strathmore,0.95,33,8425.0,14.35,Victoria,Moonee Valley
+Avondale Heights,1.04,55,11631.0,16.58,Victoria,Moonee Valley
+Keilor East,0.72,45,14519.0,16.44,Victoria,Moonee Valley
+Gisborne,0.71,32,8998.0,14.93,Victoria,Macedon Ranges
+Macedon,,0,2038.0,7.62,Victoria,Macedon Ranges
+Riddells Creek,0.28,5,3947.0,8.76,Victoria,Macedon Ranges
+Romsey,0.36,8,4748.0,12.54,Victoria,Macedon Ranges
+Coburg North,0.9,34,7599.0,26.19,Victoria,Moreland
+Fawkner,0.97,56,14042.0,25.43,Victoria,Moreland
+Gowanbrae,0.44,5,2769.0,12.98,Victoria,Moreland
+Hadfield,0.75,22,5604.0,21.86,Victoria,Moreland
+Glenroy,1.35,150,22245.0,31.42,Victoria,Moreland
+Oak Park,1.16,38,6205.0,25.15,Victoria,Moreland
+Pascoe Vale,1.12,99,17052.0,29.43,Victoria,Moreland
+Sunbury,0.67,125,36082.0,19.09,Victoria,Hume
+Diggers Rest,1.39,41,2763.0,15.92,Victoria,Melton
+Broadmeadows,1.33,68,11962.0,39.69,Victoria,Hume
+Campbellfield,0.31,6,5059.0,21.56,Victoria,Hume
+Coolaroo,0.24,3,3182.0,26.11,Victoria,Hume
+Gladstone Park,0.51,17,8341.0,17.55,Victoria,Hume
+Westmeadows,0.8,22,5846.0,18.97,Victoria,Hume
+Greenvale,0.75,61,15467.0,8.25,Victoria,Hume
+Bulla,0.32,1,676.0,6.84,Victoria,Hume
+Meadow Heights,0.77,38,14843.0,27.7,Victoria,Hume
+Melbourne Airport,,0,98.0,,Victoria,Hume
+Tullamarine,1.49,49,6609.0,30.29,Victoria,Hume
+Craigieburn,1.29,274,50347.0,25.3,Victoria,Hume
+Mickleham,2.37,154,3142.0,6.56,Victoria,Hume
+Yuroke,,0,141.0,,Victoria,Hume
+Somerton,,0,276.0,24.8,New South Wales,Tamworth Regional
+Roxburgh Park,0.61,41,21816.0,18.93,Victoria,Hume
+Bayswater,0.48,35,14435.0,25.6,Western Australia,Bayswater
+Knoxfield,0.58,20,7464.0,19.92,Victoria,Knox
+Scoresby,0.57,14,6023.0,18.61,Victoria,Knox
+Lysterfield,0.13,3,6665.0,6.46,Victoria,Yarra Ranges
+Rowville,0.39,49,33674.0,14.04,Victoria,Knox
+Wantirna,0.55,32,13817.0,18.93,Victoria,Knox
+Wantirna South,0.8,67,19276.0,19.56,Victoria,Knox
+Boronia,0.56,61,22196.0,23.71,Victoria,Knox
+Ferntree Gully,0.43,50,26424.0,18.78,Victoria,Knox
+Upper Ferntree Gully,0.3,4,3412.0,12.13,Victoria,Knox
+The Basin,0.34,6,4417.0,10.75,Victoria,Knox
+Donvale,0.42,21,12345.0,14.68,Victoria,Manningham
+Park Orchards,0.08,1,3823.0,3.35,Victoria,Manningham
+Warrandyte,0.36,7,5500.0,7.33,Victoria,Manningham
+Wonga Park,0.15,2,3798.0,6.22,Victoria,Manningham
+Bayswater North,0.47,18,8789.0,21.9,Victoria,Maroondah
+Croydon Hills,0.47,8,4986.0,10.29,Victoria,Maroondah
+Warranwood,0.24,4,4804.0,8.46,Victoria,Maroondah
+Ringwood,0.99,91,17469.0,34.32,Victoria,Maroondah
+Ringwood East,0.99,46,10264.0,26.29,Victoria,Maroondah
+Ringwood North,0.21,8,9829.0,11.14,Victoria,Maroondah
+Croydon South,0.57,12,4570.0,16.3,Victoria,Maroondah
+Forest Hill,0.77,36,10624.0,24.86,Victoria,Whitehorse
+Nunawading,0.9,49,11881.0,25.89,Victoria,Whitehorse
+Vermont,0.65,27,10443.0,16.23,Victoria,Whitehorse
+Vermont South,0.46,21,11674.0,12.78,Victoria,Whitehorse
+Belgrave,0.32,5,3933.0,8.87,Victoria,Yarra Ranges
+Selby,0.33,2,1656.0,6.7,Victoria,Yarra Ranges
+Chirnside Park,0.38,17,9863.0,11.99,Victoria,Yarra Ranges
+Healesville,0.29,10,7463.0,17.84,Victoria,Yarra Ranges
+Yarra Glen,0.25,3,2864.0,13.63,Victoria,Yarra Ranges
+Kilsyth,0.53,30,10891.0,18.16,Victoria,Yarra Ranges
+Lilydale,0.33,26,16530.0,18.95,Victoria,Yarra Ranges
+Coldstream,0.34,3,2165.0,11.28,Victoria,Yarra Ranges
+Monbulk,0.21,3,3578.0,16.07,Victoria,Yarra Ranges
+Silvan,,0,1250.0,7.93,Victoria,Yarra Ranges
+Montrose,0.04,1,6763.0,10.62,Victoria,Yarra Ranges
+Mooroolbark,0.58,55,21958.0,17.1,Victoria,Yarra Ranges
+Mount Dandenong,0.36,2,1249.0,7.55,Victoria,Yarra Ranges
+Olinda,,0,1741.0,11.63,Victoria,Yarra Ranges
+Mount Evelyn,0.14,5,9700.0,9.52,Victoria,Yarra Ranges
+Upwey,0.46,12,6650.0,10.0,Victoria,Yarra Ranges
+Tecoma,0.11,1,2076.0,15.27,Victoria,Yarra Ranges
+Seville,0.1,1,2385.0,7.56,Victoria,Yarra Ranges
+Emerald,0.74,51,14350.0,33.01,Queensland,Central Highlands
+Cockatoo,0.3,5,4257.0,10.18,Victoria,Cardinia
+Officer,1.83,141,7137.0,22.78,Victoria,Cardinia
+Bunyip,0.44,5,2469.0,11.78,Victoria,Cardinia
+Garfield,,0,1785.0,9.01,Victoria,Cardinia
+Koo Wee Rup,0.45,7,3584.0,18.35,Victoria,Cardinia
+Pakenham,0.88,193,46420.0,28.58,Victoria,Cardinia
+Berwick,0.93,191,47671.0,20.21,Victoria,Casey
+Doveton,0.71,32,9359.0,35.67,Victoria,Casey
+Hallam,,0,10850.0,22.44,Victoria,Casey
+Narre Warren North,0.16,4,7680.0,4.35,Victoria,Casey
+Endeavour Hills,0.63,56,24296.0,15.86,Victoria,Casey
+Narre Warren,0.81,88,26616.0,23.0,Victoria,Casey
+Cranbourne,1.07,96,20087.0,26.78,Victoria,Casey
+Cranbourne South,0.64,12,1676.0,8.53,Victoria,Casey
+Cranbourne West,0.75,55,15032.0,19.17,Victoria,Casey
+Lynbrook,0.71,19,8528.0,15.26,Victoria,Casey
+Lyndhurst,0.92,27,6722.0,14.55,Victoria,Greater Dandenong
+Pearcedale,0.21,3,3818.0,8.04,Victoria,Casey
+Tooradin,0.14,1,1569.0,14.74,Victoria,Casey
+Narre Warren South,0.47,44,30316.0,13.91,Victoria,Casey
+Clyde North,2.05,251,8155.0,20.73,Victoria,Casey
+Cranbourne East,1.01,83,16191.0,18.33,Victoria,Casey
+Cranbourne North,1.02,80,20109.0,20.6,Victoria,Casey
+Hampton Park,0.69,64,25529.0,23.78,Victoria,Casey
+Clarinda,0.79,23,7484.0,21.12,Victoria,Kingston
+Oakleigh South,0.79,35,9256.0,20.33,Victoria,Monash
+Clayton South,1.49,91,12639.0,36.06,Victoria,Kingston
+Dandenong North,0.73,62,22458.0,24.95,Victoria,Greater Dandenong
+Dingley Village,0.24,10,10322.0,10.07,Victoria,Kingston
+Noble Park North,0.67,20,7467.0,24.9,Victoria,Greater Dandenong
+Springvale,0.96,82,21713.0,34.3,Victoria,Greater Dandenong
+Springvale South,0.36,16,12767.0,23.34,Victoria,Greater Dandenong
+Noble Park,1.07,140,30997.0,36.15,Victoria,Greater Dandenong
+Dandenong,1.43,178,29901.0,46.71,Victoria,Greater Dandenong
+Keysborough,0.78,82,25792.0,16.03,Victoria,Greater Dandenong
+Ashwood,0.98,32,6883.0,33.09,Victoria,Monash
+Chadstone,1.29,58,8641.0,34.51,Victoria,Monash
+Glen Waverley,1.19,206,40325.0,22.6,Victoria,Monash
+Mount Waverley,0.82,122,33610.0,20.76,Victoria,Monash
+Mulgrave,0.57,46,19369.0,19.43,Victoria,Monash
+Oakleigh,1.17,47,7887.0,28.67,Victoria,Monash
+Huntingdale,0.43,14,8689.0,16.66,Western Australia,Gosnells
+Wheelers Hill,0.61,51,19749.0,14.27,Victoria,Monash
+Notting Hill,1.78,32,3054.0,51.41,Victoria,Monash
+Clayton,3.32,295,19352.0,53.89,Victoria,Monash
+Ardeer,1.06,16,3104.0,26.72,Victoria,Brimbank
+Albion,1.7,40,4733.0,38.63,Victoria,Brimbank
+Cairnlea,0.65,20,9661.0,11.45,Victoria,Brimbank
+Delahey,0.54,16,8344.0,20.51,Victoria,Brimbank
+Keilor Downs,0.7,27,9995.0,17.01,Victoria,Brimbank
+Sunshine,1.29,56,9765.0,34.84,Victoria,Brimbank
+Sunshine North,0.86,43,11697.0,24.59,Victoria,Brimbank
+Sunshine West,0.69,50,18583.0,24.38,Victoria,Brimbank
+Taylors Lakes,0.26,14,15517.0,9.55,Victoria,Brimbank
+Deer Park,0.63,43,18125.0,26.6,Victoria,Brimbank
+Derrimut,,0,8265.0,20.14,Victoria,Brimbank
+Altona,1.04,63,10767.0,28.29,Victoria,Hobsons Bay
+Altona Meadows,0.71,56,19158.0,25.08,Victoria,Hobsons Bay
+Altona North,0.83,56,12156.0,26.48,Victoria,Hobsons Bay
+Seabrook,0.94,17,5128.0,16.68,Victoria,Hobsons Bay
+Williamstown,0.98,65,13972.0,22.36,Victoria,Hobsons Bay
+Braybrook,1.09,52,9195.0,43.81,Victoria,Maribyrnong
+Footscray,2.46,301,16341.0,49.9,Victoria,Maribyrnong
+Maribyrnong,1.77,110,12220.0,34.32,Victoria,Maribyrnong
+Seddon,1.02,25,5128.0,34.26,Victoria,Maribyrnong
+Kingsville,,0,3946.0,35.86,Victoria,Maribyrnong
+West Footscray,1.19,68,11449.0,37.35,Victoria,Maribyrnong
+Tottenham,0.27,1,451.0,19.73,New South Wales,Lachlan
+Yarraville,1.34,99,14964.0,28.88,Victoria,Maribyrnong
+Bacchus Marsh,0.66,25,6395.0,24.76,Victoria,Moorabool
+Melton West,0.48,30,17590.0,22.21,Victoria,Melton
+Rockbank,3.08,115,1532.0,23.34,Victoria,Melton
+Mount Cottrell,1.04,5,567.0,15.6,Victoria,Melton
+Taylors Hill,0.52,23,14919.0,10.4,Victoria,Melton
+Burnside,0.51,11,4750.0,10.29,Victoria,Melton
+Burnside Heights,0.95,17,6068.0,17.83,Victoria,Melton
+Caroline Springs,0.7,59,24209.0,20.74,Victoria,Melton
+Brookfield,1.62,60,9211.0,25.63,Victoria,Melton
+Eynesbury,1.91,39,2575.0,7.57,Victoria,Melton
+Exford,,0,104.0,,Victoria,Melton
+Hillside,,0,63.0,16.67,Western Australia,Narrogin
+Kurunjang,1.06,42,10068.0,20.67,Victoria,Melton
+Toolern Vale,0.67,2,723.0,11.2,Victoria,Melton
+Melton,1.39,54,8069.0,28.28,Victoria,Melton
+Melton South,2.0,123,11518.0,27.81,Victoria,Melton
+Hoppers Crossing,0.95,137,38701.0,21.83,Victoria,Wyndham
+Laverton,1.75,44,4915.0,38.34,Victoria,Hobsons Bay
+Werribee,1.44,331,40343.0,27.79,Victoria,Wyndham
+Point Cook,1.79,392,49936.0,27.14,Victoria,Wyndham
+Quandong,,0,,,Victoria,Wyndham
+Tarneit,2.37,613,34566.0,27.08,Victoria,Wyndham
+Truganina,2.31,390,20686.0,26.54,Victoria,Wyndham
+Wyndham Vale,2.42,274,23273.0,25.0,Victoria,Wyndham
+Carrum Downs,0.68,69,20708.0,25.81,Victoria,Frankston
+Frankston,1.05,199,36095.0,33.95,Victoria,Frankston
+Frankston North,0.92,25,5760.0,37.68,Victoria,Frankston
+Frankston South,0.35,27,18201.0,18.35,Victoria,Frankston
+Langwarrin,0.39,37,22586.0,17.64,Victoria,Frankston
+Skye,0.23,7,8094.0,17.69,Victoria,Frankston
+Sandhurst,0.28,5,4983.0,14.05,Victoria,Frankston
+Dromana,0.6,31,5801.0,15.1,Victoria,Mornington Peninsula
+Hastings,0.45,22,9605.0,33.22,Victoria,Mornington Peninsula
+Somers,0.25,3,1670.0,7.88,Victoria,Mornington Peninsula
+Mount Eliza,0.49,35,17886.0,8.65,Victoria,Mornington Peninsula
+Mount Martha,0.44,39,18551.0,11.74,Victoria,Mornington Peninsula
+Rosebud,0.54,52,13194.0,18.35,Victoria,Mornington Peninsula
+McCrae,0.71,16,2824.0,10.71,Victoria,Mornington Peninsula
+Somerville,0.17,8,11338.0,18.03,Victoria,Mornington Peninsula
+Mornington,0.61,77,23987.0,21.12,Victoria,Mornington Peninsula
+Ararat,0.74,31,8293.0,23.95,Victoria,Ararat
+Horsham,0.58,44,14541.0,25.91,Victoria,Horsham
+St Arnaud,0.08,1,2190.0,18.52,Victoria,Northern Grampians
+Stawell,0.64,20,6030.0,23.0,Victoria,Northern Grampians
+Irymple,0.44,12,5324.0,15.0,Victoria,Mildura
+Merbein,0.15,2,2716.0,20.47,Victoria,Mildura
+Red Cliffs,0.67,17,5065.0,21.03,Victoria,Mildura
+Mildura,1.14,198,32740.0,31.47,Victoria,Mildura
+Gannawarra,,0,90.0,50.0,Victoria,Gannawarra
+Kerang,0.19,4,3899.0,19.53,Victoria,Gannawarra
+Robinvale,,0,3087.0,29.25,Victoria,Swan Hill
+Swan Hill,0.34,18,10904.0,28.44,Victoria,Swan Hill
+Echuca,0.35,26,14042.0,24.95,Victoria,Campaspe
+Kyabram,0.36,13,7337.0,22.41,Victoria,Campaspe
+Lockington,,0,810.0,16.53,Victoria,Campaspe
+Gunbower,,0,559.0,10.36,Victoria,Campaspe
+Rochester,0.19,3,3115.0,16.83,Victoria,Campaspe
+Rushworth,0.25,2,1330.0,12.92,Victoria,Campaspe
+Cobram,0.35,12,6017.0,24.57,Victoria,Moira
+Numurkah,0.18,4,4474.0,22.5,Victoria,Moira
+Yarrawonga,0.81,42,7930.0,20.09,Victoria,Moira
+Mooroopna,0.53,22,7938.0,26.9,Victoria,Greater Shepparton
+Shepparton,1.1,164,31193.0,31.28,Victoria,Greater Shepparton
+Kialla,0.54,19,6819.0,13.25,Victoria,Greater Shepparton
+Portland,0.52,28,9709.0,24.89,Victoria,Glenelg
+Colac,0.44,21,9048.0,24.42,Victoria,Colac-Otway
+Warrnambool,0.54,88,29661.0,27.63,Victoria,Warrnambool
+Alexandra Hills,0.57,37,16256.0,20.81,Queensland,Redland
+Gumdale,0.27,2,2121.0,9.94,Queensland,Brisbane
+Birkdale,0.48,29,14500.0,20.32,Queensland,Redland
+Capalaba,0.57,43,17335.0,24.2,Queensland,Redland
+Thorneside,0.57,10,3764.0,28.88,Queensland,Redland
+Wellington Point,0.39,19,12348.0,20.24,Queensland,Redland
+Cleveland,0.62,50,14797.0,30.1,Queensland,Redland
+Ormiston,0.6,17,5789.0,19.04,Queensland,Redland
+Redland Bay,0.5,35,14959.0,22.01,Queensland,Redland
+Sheldon,,0,1699.0,6.06,Queensland,Redland
+Mount Cotton,0.33,8,6832.0,15.57,Queensland,Redland
+Thornlands,0.49,36,14692.0,22.24,Queensland,Redland
+Victoria Point,0.53,37,15020.0,25.86,Queensland,Redland
+North Stradbroke Island,,0,134.0,17.27,Queensland,Redland
+Southern Moreton Bay Islands,,0,,,Queensland,Gold Coast
+Lytton,,0,5.0,,Queensland,Brisbane
+Lota,0.38,5,3254.0,23.02,Queensland,Brisbane
+Manly West,0.48,24,11972.0,24.12,Queensland,Brisbane
+Murarrie,0.97,20,4304.0,29.67,Queensland,Brisbane
+Tingalpa,0.66,24,8295.0,24.83,Queensland,Brisbane
+Wakerley,0.66,21,8451.0,23.69,Queensland,Brisbane
+Wynnum,1.07,67,12913.0,32.52,Queensland,Brisbane
+Wynnum West,0.52,28,12289.0,28.87,Queensland,Brisbane
+Hemmant,0.8,9,2382.0,23.28,Queensland,Brisbane
+Bald Hills,0.85,23,6504.0,23.7,Queensland,Brisbane
+Bridgeman Downs,0.56,24,8441.0,12.87,Queensland,Brisbane
+Carseldine,0.71,31,9538.0,27.03,Queensland,Brisbane
+Everton Park,1.69,79,8868.0,32.68,Queensland,Brisbane
+McDowall,1.21,37,7236.0,18.2,Queensland,Brisbane
+Aspley,0.81,44,12113.0,24.15,Queensland,Brisbane
+Chermside,1.45,96,9320.0,54.76,Queensland,Brisbane
+Chermside West,0.94,26,6457.0,20.04,Queensland,Brisbane
+Geebung,0.94,18,4628.0,24.33,Queensland,Brisbane
+Kedron,1.32,61,9354.0,38.05,Queensland,Brisbane
+Gordon Park,1.05,21,4234.0,38.4,Queensland,Brisbane
+Stafford,1.19,41,6562.0,43.2,Queensland,Brisbane
+Stafford Heights,1.22,35,6831.0,24.9,Queensland,Brisbane
+Wavell Heights,0.9,36,9690.0,24.85,Queensland,Brisbane
+Boondall,0.95,38,9223.0,25.59,Queensland,Brisbane
+Brisbane Airport,,0,,,Queensland,Brisbane
+Pinkenba,,0,368.0,30.65,Queensland,Brisbane
+Northgate,0.2,5,6225.0,26.54,South Australia,Port Adelaide Enfield
+Virginia,0.74,7,2205.0,21.66,Queensland,Brisbane
+Nudgee,1.54,28,3575.0,22.18,Queensland,Brisbane
+Banyo,0.66,17,5863.0,27.46,Queensland,Brisbane
+Nundah,1.32,99,12144.0,49.5,Queensland,Brisbane
+Bracken Ridge,0.68,45,16936.0,23.34,Queensland,Brisbane
+Deagon,1.5,27,3680.0,28.34,Queensland,Brisbane
+Sandgate,0.75,16,4902.0,31.23,Queensland,Brisbane
+Shorncliffe,0.74,6,1872.0,26.79,Queensland,Brisbane
+Taigum,0.54,20,6494.0,34.78,Queensland,Brisbane
+Fitzgibbon,1.28,35,5657.0,31.59,Queensland,Brisbane
+Zillmere,1.38,61,8969.0,48.76,Queensland,Brisbane
+Camp Hill,1.01,47,11199.0,25.31,Queensland,Brisbane
+Cannon Hill,1.36,45,5534.0,27.23,Queensland,Brisbane
+Carina,1.16,65,11016.0,31.52,Queensland,Brisbane
+Carina Heights,1.09,37,6725.0,39.59,Queensland,Brisbane
+Carindale,0.76,46,15734.0,14.31,Queensland,Brisbane
+Annerley,2.01,115,11332.0,47.29,Queensland,Brisbane
+Coorparoo,1.56,136,16282.0,39.6,Queensland,Brisbane
+Dutton Park,2.69,30,2027.0,51.5,Queensland,Brisbane
+Greenslopes,1.55,74,8933.0,49.04,Queensland,Brisbane
+Holland Park,0.99,34,8113.0,32.42,Queensland,Brisbane
+Holland Park West,1.42,40,6376.0,31.0,Queensland,Brisbane
+Woolloongabba,2.66,140,5634.0,49.44,Queensland,Brisbane
+Yeronga,1.34,47,6538.0,37.11,Queensland,Brisbane
+Eight Mile Plains,0.93,59,15321.0,31.75,Queensland,Brisbane
+Mount Gravatt,1.04,18,3366.0,36.98,Queensland,Brisbane
+Rochedale,0.84,24,3176.0,14.6,Queensland,Brisbane
+Burbank,,0,1053.0,10.86,Queensland,Brisbane
+Upper Mount Gravatt,1.52,73,9237.0,35.99,Queensland,Brisbane
+Wishart,0.78,31,10703.0,21.02,Queensland,Brisbane
+Coopers Plains,1.56,37,5484.0,40.44,Queensland,Brisbane
+Moorooka,1.16,58,10370.0,35.9,Queensland,Brisbane
+Salisbury,0.54,22,8207.0,38.75,South Australia,Salisbury
+Nathan,1.67,6,1187.0,28.99,Queensland,Brisbane
+Tarragindi,0.92,38,10783.0,18.9,Queensland,Brisbane
+Algester,0.92,33,8426.0,26.19,Queensland,Brisbane
+Calamvale,1.28,87,17122.0,30.15,Queensland,Brisbane
+Stretton,0.86,13,4335.0,9.47,Queensland,Brisbane
+Pallara,1.09,29,517.0,17.26,Queensland,Brisbane
+Willawong,1.75,2,173.0,21.74,Queensland,Brisbane
+Parkinson,0.68,27,10879.0,19.34,Queensland,Brisbane
+Drewvale,0.43,6,4481.0,21.37,Queensland,Brisbane
+Rocklea,1.13,8,1594.0,36.89,Queensland,Brisbane
+Acacia Ridge,1.4,45,7427.0,41.14,Queensland,Brisbane
+Kuraby,0.71,20,8108.0,23.93,Queensland,Brisbane
+Runcorn,1.09,60,14595.0,33.62,Queensland,Brisbane
+Sunnybank,1.84,62,8700.0,31.58,Queensland,Brisbane
+Sunnybank Hills,1.02,67,18092.0,25.0,Queensland,Brisbane
+Jindalee,0.85,17,5314.0,18.05,Queensland,Brisbane
+Mount Ommaney,0.32,3,2361.0,13.47,Queensland,Brisbane
+Middle Park,1.28,27,4149.0,28.13,Victoria,Port Phillip
+Jamboree Heights,0.68,8,3093.0,23.5,Queensland,Brisbane
+Riverhills,0.56,9,4044.0,25.25,Queensland,Brisbane
+Seventeen Mile Rocks,0.6,6,2721.0,21.39,Queensland,Brisbane
+Sinnamon Park,0.63,20,6414.0,16.64,Queensland,Brisbane
+Westlake,0.39,6,4368.0,11.3,Queensland,Brisbane
+Bellbowrie,0.51,10,5456.0,13.8,Queensland,Brisbane
+Moggill,0.6,11,4642.0,21.87,Queensland,Brisbane
+Kenmore Hills,0.12,1,2401.0,13.31,Queensland,Brisbane
+Chapel Hill,0.75,28,10116.0,13.79,Queensland,Brisbane
+Fig Tree Pocket,0.88,13,4050.0,11.46,Queensland,Brisbane
+Kenmore,1.07,40,8962.0,15.46,Queensland,Brisbane
+Pinjarra Hills,,0,607.0,16.39,Queensland,Brisbane
+Pullenvale,0.19,2,3182.0,7.04,Queensland,Brisbane
+Chelmer,0.65,7,2997.0,16.86,Queensland,Brisbane
+Graceville,0.64,11,4629.0,22.03,Queensland,Brisbane
+Corinda,0.72,17,5069.0,27.34,Queensland,Brisbane
+Indooroopilly,2.23,148,12244.0,41.15,Queensland,Brisbane
+Sherwood,1.03,29,5314.0,34.5,Queensland,Brisbane
+St Lucia,4.28,198,12575.0,48.19,Queensland,Brisbane
+Taringa,2.35,108,8377.0,45.98,Queensland,Brisbane
+Enoggera,0.93,22,5159.0,37.83,Queensland,Brisbane
+Enoggera Reservoir,,0,27.0,,Queensland,Brisbane
+Keperra,0.58,18,6814.0,30.91,Queensland,Brisbane
+Mitchelton,0.95,37,8551.0,33.72,Queensland,Brisbane
+The Gap,0.35,4,1712.0,43.33,Northern Territory,Alice Springs
+Upper Kedron,0.57,12,4175.0,28.17,Queensland,Brisbane
+Ferny Grove,0.47,10,5733.0,20.77,Queensland,Brisbane
+Brisbane City,5.23,352,9457.0,46.49,Queensland,Brisbane
+Fortitude Valley,2.67,174,6979.0,55.56,Queensland,Brisbane
+Highgate Hill,1.82,56,6190.0,45.36,Queensland,Brisbane
+Kangaroo Point,2.68,165,8059.0,47.37,Queensland,Brisbane
+New Farm,1.68,123,12545.0,45.42,Queensland,Brisbane
+South Brisbane,4.29,292,7193.0,52.64,Queensland,Brisbane
+Spring Hill,2.99,95,5973.0,51.97,Queensland,Brisbane
+West End,,0,513.0,18.98,Western Australia,Greater Geraldton
+Balmoral,1.64,29,3894.0,31.69,Queensland,Brisbane
+Bulimba,1.6,56,6840.0,35.23,Queensland,Brisbane
+East Brisbane,2.58,86,5930.0,45.6,Queensland,Brisbane
+Hawthorne,1.51,34,4984.0,36.09,Queensland,Brisbane
+Morningside,1.61,90,10477.0,41.71,Queensland,Brisbane
+Norman Park,1.56,44,6289.0,30.85,Queensland,Brisbane
+Alderley,1.29,39,6116.0,36.42,Queensland,Brisbane
+Clayfield,1.24,67,10559.0,38.19,Queensland,Brisbane
+Grange,0.67,20,5913.0,23.77,South Australia,Charles Sturt
+Hendra,1.41,28,4619.0,22.32,Queensland,Brisbane
+Kelvin Grove,3.61,143,7929.0,56.42,Queensland,Brisbane
+Herston,2.56,26,2219.0,50.0,Queensland,Brisbane
+Newmarket,1.87,44,4980.0,42.2,Queensland,Brisbane
+Newstead,0.81,22,5364.0,27.77,Tasmania,Launceston
+Bowen Hills,2.09,75,3225.0,62.85,Queensland,Brisbane
+Wilston,1.06,17,3931.0,31.16,Queensland,Brisbane
+Wooloowin,1.31,28,3946.0,43.4,Queensland,Brisbane
+Lutwyche,1.69,50,3456.0,51.42,Queensland,Brisbane
+Ashgrove,1.05,55,13038.0,24.48,Queensland,Brisbane
+Auchenflower,2.52,73,5872.0,40.89,Queensland,Brisbane
+Bardon,0.82,31,9505.0,21.5,Queensland,Brisbane
+Milton,3.12,55,2276.0,46.5,Queensland,Brisbane
+Toowong,2.92,182,10826.0,45.93,Queensland,Brisbane
+Brinsmead,0.76,17,5364.0,21.43,Queensland,Cairns
+Clifton Beach,1.23,21,3147.0,34.05,Queensland,Cairns
+Kewarra Beach,0.87,26,5648.0,25.4,Queensland,Cairns
+Stratford,0.45,7,2620.0,13.11,Victoria,Wellington
+Redlynch,0.58,24,9726.0,23.64,Queensland,Cairns
+Trinity Beach,1.61,54,5481.0,32.37,Queensland,Cairns
+Yorkeys Knob,1.19,20,2757.0,43.18,Queensland,Cairns
+Machans Beach,0.53,3,1052.0,20.86,Queensland,Cairns
+Bentley Park,0.64,22,8016.0,34.41,Queensland,Cairns
+Cairns City,1.77,27,2737.0,27.83,Queensland,Cairns
+Earlville,0.49,12,4031.0,32.12,Queensland,Cairns
+Bayview Heights,0.65,11,4238.0,16.38,Queensland,Cairns
+Edmonton,0.63,32,10752.0,31.38,Queensland,Cairns
+Gordonvale,0.49,15,6666.0,25.8,Queensland,Cairns
+Kanimbla,0.44,5,2667.0,20.95,Queensland,Cairns
+Mooroobool,0.66,20,7221.0,30.82,Queensland,Cairns
+Lamb Range,,0,,,Queensland,Cairns
+Manoora,0.87,29,6030.0,48.38,Queensland,Cairns
+Manunda,0.93,26,5390.0,45.71,Queensland,Cairns
+Mount Sheridan,0.61,21,8279.0,27.15,Queensland,Cairns
+Westcourt,0.9,19,3921.0,51.45,Queensland,Cairns
+Bungalow,1.54,20,2153.0,47.72,Queensland,Cairns
+White Rock,,0,798.0,1.37,New South Wales,Bathurst Regional
+Whitfield,0.98,19,4280.0,26.9,Queensland,Cairns
+Edge Hill,1.09,22,3917.0,34.23,Queensland,Cairns
+Woree,0.73,20,4818.0,40.63,Queensland,Cairns
+Babinda,,0,1254.0,28.78,Queensland,Cairns
+Innisfail,2.21,12,1143.0,48.28,Queensland,Cassowary Coast
+Tully,0.27,3,2395.0,31.31,Queensland,Cassowary Coast
+Yarrabah,,0,2559.0,79.72,Queensland,Yarrabah
+Daintree,,0,130.0,18.92,Queensland,Douglas
+Port Douglas,2.79,73,3503.0,33.62,Queensland,Douglas
+Atherton,0.4,16,7331.0,33.67,Queensland,Tablelands
+Herberton,,0,857.0,23.71,Queensland,Tablelands
+Kuranda,0.18,3,3003.0,20.98,Queensland,Mareeba
+Malanda,0.18,2,1980.0,22.51,Queensland,Tablelands
+Yungaburra,0.3,3,1243.0,17.09,Queensland,Tablelands
+Mareeba,0.33,18,11082.0,26.85,Queensland,Mareeba
+Chinchilla,0.27,9,6614.0,33.47,Queensland,Western Downs
+Goondiwindi,0.27,8,6358.0,30.09,Queensland,Goondiwindi
+Inglewood,0.76,21,5680.0,29.41,Western Australia,Stirling
+Miles,0.66,8,1751.0,28.16,Queensland,Western Downs
+Wandoan,0.85,3,569.0,36.33,Queensland,Western Downs
+Roma,0.43,16,6847.0,32.72,Queensland,Maranoa
+Tara,,0,2304.0,18.38,Queensland,Western Downs
+Jondaryan,,0,381.0,25.79,Queensland,Toowoomba
+Millmerran,,0,1565.0,30.68,Queensland,Toowoomba
+Pittsworth,0.14,2,3293.0,25.28,Queensland,Toowoomba
+Clifton,,0,1448.0,25.58,Queensland,Toowoomba
+Greenmount,0.09,1,2674.0,9.93,Western Australia,Mundaring
+Stanthorpe,0.38,11,5407.0,27.57,Queensland,Southern Downs
+Warwick,0.42,26,12223.0,32.29,Queensland,Southern Downs
+Berserker,0.82,29,6873.0,33.05,Queensland,Rockhampton
+Bouldercombe,,0,1086.0,10.56,Queensland,Rockhampton
+Emu Park,0.84,11,2131.0,21.36,Queensland,Livingstone
+Frenchville,0.58,23,9028.0,24.01,Queensland,Rockhampton
+Glenlee,0.22,1,1233.0,6.05,Queensland,Livingstone
+Rockyview,,0,1617.0,3.63,Queensland,Livingstone
+Gracemere,0.74,35,11317.0,36.17,Queensland,Rockhampton
+Lakes Creek,,0,553.0,14.83,Queensland,Rockhampton
+Mount Morgan,0.54,6,1963.0,23.45,Queensland,Rockhampton
+Norman Gardens,0.61,27,9948.0,26.7,Queensland,Rockhampton
+Park Avenue,0.62,15,5092.0,29.52,Queensland,Rockhampton
+Parkhurst,0.35,5,2481.0,32.62,Queensland,Rockhampton
+Kawana,0.88,17,4427.0,34.48,Queensland,Rockhampton
+Rockhampton,,0,1952.0,36.6,Queensland,Rockhampton
+Rockhampton City,1.28,15,1952.0,36.6,Queensland,Rockhampton
+The Range,0.56,12,5399.0,22.26,Queensland,Rockhampton
+Allenstown,0.55,9,2794.0,36.28,Queensland,Rockhampton
+Yeppoon,0.84,32,6332.0,31.19,Queensland,Livingstone
+Banana,,0,361.0,13.21,Queensland,Banana
+Biloela,0.07,2,5761.0,32.39,Queensland,Banana
+Agnes Water,1.34,24,2206.0,18.6,Queensland,Gladstone
+Miriam Vale,0.68,2,514.0,18.11,Queensland,Gladstone
+Boyne Island,1.07,22,4756.0,26.55,Queensland,Gladstone
+Tannum Sands,1.09,26,5146.0,23.44,Queensland,Gladstone
+Callemondah,,0,23.0,,Queensland,Gladstone
+Clinton,1.28,34,5921.0,29.4,Queensland,Gladstone
+New Auckland,1.66,37,5089.0,34.16,Queensland,Gladstone
+Gladstone,,0,1544.0,40.04,Queensland,Gladstone
+Kin Kora,1.04,12,2581.0,33.45,Queensland,Gladstone
+Sun Valley,1.61,9,1270.0,20.0,Queensland,Gladstone
+South Trees,,0,,,Queensland,Gladstone
+Telina,0.34,3,2141.0,24.1,Queensland,Gladstone
+Toolooa,1.3,6,939.0,32.25,Queensland,Gladstone
+West Gladstone,1.79,48,4726.0,31.09,Queensland,Gladstone
+Broadbeach Waters,0.56,24,7779.0,20.15,Queensland,Gold Coast
+Burleigh Heads,1.12,67,10074.0,27.92,Queensland,Gold Coast
+Burleigh Waters,0.68,41,14311.0,21.39,Queensland,Gold Coast
+Mermaid Beach,1.88,86,6532.0,40.84,Queensland,Gold Coast
+Broadbeach,1.69,89,5512.0,34.15,Queensland,Gold Coast
+Mermaid Waters,0.79,48,12037.0,26.71,Queensland,Gold Coast
+Miami,1.21,50,6852.0,32.2,Queensland,Gold Coast
+Coolangatta,1.05,50,5948.0,33.15,Queensland,Gold Coast
+Currumbin,1.28,22,2926.0,28.12,Queensland,Gold Coast
+Tugun,0.81,28,6589.0,27.82,Queensland,Gold Coast
+Currumbin Waters,0.63,24,9121.0,20.89,Queensland,Gold Coast
+Elanora,0.69,33,12152.0,17.5,Queensland,Gold Coast
+Arundel,0.6,27,10243.0,28.4,Queensland,Gold Coast
+Biggera Waters,1.19,65,8537.0,43.63,Queensland,Gold Coast
+Coombabah,0.57,29,10387.0,29.73,Queensland,Gold Coast
+Labrador,1.4,140,18260.0,43.58,Queensland,Gold Coast
+Paradise Point,0.66,26,6532.0,25.24,Queensland,Gold Coast
+Hollywell,0.3,4,2863.0,21.71,Queensland,Gold Coast
+Runaway Bay,0.77,38,9070.0,25.07,Queensland,Gold Coast
+Guanaba,0.66,2,789.0,9.12,Queensland,Gold Coast
+Springbrook,0.28,1,654.0,14.77,Queensland,Gold Coast
+Tamborine,0.13,2,3945.0,10.84,Queensland,Scenic Rim
+Canungra,0.32,2,1235.0,20.05,Queensland,Scenic Rim
+Currumbin Valley,0.39,3,1846.0,11.61,Queensland,Gold Coast
+Tallebudgera,0.25,3,3666.0,8.29,Queensland,Gold Coast
+Mudgeeraba,0.54,28,13624.0,24.17,Queensland,Gold Coast
+Bonogin,0.26,4,4571.0,6.22,Queensland,Gold Coast
+Reedy Creek,0.49,12,6666.0,23.43,Queensland,Gold Coast
+Andrews,,0,35.0,30.77,South Australia,Northern Areas
+Carrara,0.69,42,12060.0,26.01,Queensland,Gold Coast
+Highland Park,0.47,12,6577.0,19.08,Queensland,Gold Coast
+Nerang,0.62,48,16866.0,33.29,Queensland,Gold Coast
+Mount Nathan,0.22,1,1213.0,6.23,Queensland,Gold Coast
+Pacific Pines,0.82,46,16757.0,35.09,Queensland,Gold Coast
+Gaven,,0,1557.0,15.88,Queensland,Gold Coast
+Worongary,0.26,6,5612.0,13.14,Queensland,Gold Coast
+Tallai,0.44,7,4150.0,9.45,Queensland,Gold Coast
+Coomera,1.72,127,13310.0,54.57,Queensland,Gold Coast
+Helensvale,1.17,87,16861.0,19.93,Queensland,Gold Coast
+Hope Island,0.92,74,11189.0,23.28,Queensland,Gold Coast
+Jacobs Well,0.3,4,1842.0,18.94,Queensland,Gold Coast
+Alberton,0.2,2,1817.0,28.48,South Australia,Port Adelaide Enfield
+Oxenford,0.87,41,11847.0,25.18,Queensland,Gold Coast
+Maudsland,0.43,11,5569.0,21.26,Queensland,Gold Coast
+Stapylton,2.1,5,441.0,55.5,Queensland,Gold Coast
+Yatala,,0,1319.0,6.83,Queensland,Gold Coast
+Pimpama,1.75,145,9396.0,59.41,Queensland,Gold Coast
+Wongawallan,,0,1270.0,10.96,Queensland,Gold Coast
+Upper Coomera,0.81,76,25277.0,40.39,Queensland,Gold Coast
+Willow Vale,1.12,9,2096.0,38.63,Queensland,Gold Coast
+Clear Island Waters,0.75,14,4123.0,21.4,Queensland,Gold Coast
+Merrimac,0.58,17,7069.0,41.22,Queensland,Gold Coast
+Varsity Lakes,1.01,73,15024.0,40.6,Queensland,Gold Coast
+Robina,0.89,93,23104.0,31.48,Queensland,Gold Coast
+Ashmore,0.72,41,11913.0,24.73,Queensland,Gold Coast
+Molendinar,0.76,18,6378.0,34.19,Queensland,Gold Coast
+Parkwood,0.6,18,8702.0,27.64,Queensland,Gold Coast
+Southport,1.37,281,31907.0,46.12,Queensland,Gold Coast
+Benowa,0.91,43,8743.0,19.81,Queensland,Gold Coast
+Bundall,1.77,37,4522.0,22.89,Queensland,Gold Coast
+Main Beach,1.49,47,3885.0,24.75,Queensland,Gold Coast
+Surfers Paradise,1.29,256,23689.0,37.1,Queensland,Gold Coast
+Darra,1.32,23,4346.0,35.71,Queensland,Brisbane
+Sumner,0.45,1,591.0,32.7,Queensland,Brisbane
+Durack,0.62,20,7493.0,30.85,Queensland,Brisbane
+Inala,0.36,20,14848.0,47.58,Queensland,Brisbane
+Richlands,1.7,45,3596.0,51.56,Queensland,Brisbane
+Wacol,1.65,6,3760.0,40.85,Queensland,Brisbane
+Doolandella,1.3,35,4819.0,32.54,Queensland,Brisbane
+Forest Lake,0.65,54,22902.0,27.17,Queensland,Brisbane
+Ellen Grove,0.69,10,2904.0,55.41,Queensland,Brisbane
+Boonah,0.24,3,2487.0,22.02,Queensland,Scenic Rim
+Esk,0.41,4,1699.0,20.92,Queensland,Somerset
+Lake Manchester,,0,26.0,,Queensland,Brisbane
+England Creek,,0,29.0,,Queensland,Somerset
+Lowood,0.49,9,4157.0,37.53,Queensland,Somerset
+Rosewood,0.75,12,2835.0,33.75,Queensland,Ipswich
+Brassall,0.79,44,10904.0,41.12,Queensland,Ipswich
+Bundamba,0.92,29,6516.0,37.71,Queensland,Ipswich
+Yamanto,0.88,17,4910.0,31.32,Queensland,Ipswich
+Ipswich,0.73,9,2457.0,44.69,Queensland,Ipswich
+Karalee,0.21,4,4348.0,10.62,Queensland,Ipswich
+Barellan Point,,0,1159.0,10.95,Queensland,Ipswich
+Karana Downs,0.07,1,3859.0,13.31,Queensland,Brisbane
+One Mile,1.09,10,2078.0,36.69,Queensland,Ipswich
+North Ipswich,0.6,12,4520.0,30.26,Queensland,Ipswich
+Tivoli,0.14,1,1480.0,21.77,Queensland,Ipswich
+Raceview,0.65,28,9717.0,40.07,Queensland,Ipswich
+Ripley,2.18,74,1403.0,23.05,Queensland,Ipswich
+Camira,0.61,17,7413.0,17.74,Queensland,Ipswich
+Gailes,0.64,5,1827.0,39.01,Queensland,Ipswich
+Carole Park,,1,,,Queensland,Ipswich
+Collingwood Park,0.49,19,7105.0,32.86,Queensland,Ipswich
+Redbank,1.1,15,1841.0,39.45,Queensland,Ipswich
+Goodna,1.19,48,10466.0,44.23,Queensland,Ipswich
+New Chum,,0,,,Queensland,Ipswich
+Redbank Plains,1.55,149,19303.0,48.83,Queensland,Ipswich
+Springfield Lakes,1.68,106,15310.0,44.41,Queensland,Ipswich
+Augustine Heights,1.59,34,4876.0,41.42,Queensland,Ipswich
+Brookwater,1.37,14,2149.0,20.11,Queensland,Ipswich
+Bellbird Park,1.3,54,6729.0,34.31,Queensland,Ipswich
+Beaudesert,0.55,19,6389.0,40.25,Queensland,Scenic Rim
+Beenleigh,0.75,31,8257.0,45.3,Queensland,Logan
+Eagleby,0.86,53,13329.0,41.91,Queensland,Logan
+Edens Landing,0.73,14,5090.0,30.7,Queensland,Logan
+Holmview,1.45,30,2358.0,44.6,Queensland,Logan
+Mount Warren Park,0.36,9,5792.0,22.89,Queensland,Logan
+Wolffdene,,0,292.0,9.38,Queensland,Logan
+Bahrs Scrub,1.29,35,1923.0,39.91,Queensland,Logan
+Boronia Heights,0.96,30,7861.0,35.28,Queensland,Logan
+Park Ridge,1.81,96,2504.0,16.94,Queensland,Logan
+Browns Plains,1.08,30,6305.0,41.32,Queensland,Logan
+Chambers Flat,0.43,7,2329.0,19.88,Queensland,Logan
+Logan Reserve,2.45,129,3521.0,32.7,Queensland,Logan
+Crestmead,0.91,40,12152.0,37.99,Queensland,Logan
+Hillcrest,1.13,31,5626.0,36.08,Queensland,Logan
+Marsden,1.11,61,14066.0,43.84,Queensland,Logan
+Munruben,0.22,2,2872.0,7.65,Queensland,Logan
+Park Ridge South,0.35,2,1764.0,12.48,Queensland,Logan
+Heritage Park,0.24,4,4970.0,21.97,Queensland,Logan
+Logan Village,0.5,10,4422.0,10.89,Queensland,Logan
+New Beith,0.17,3,4072.0,4.81,Queensland,Logan
+Greenbank,1.23,67,7696.0,11.82,Queensland,Logan
+North Maclean,0.36,2,1535.0,17.6,Queensland,Logan
+Jimboomba,0.5,21,13205.0,15.38,Queensland,Logan
+Yarrabilba,1.95,96,3578.0,40.47,Queensland,Logan
+Bethania,0.68,21,5385.0,25.14,Queensland,Logan
+Waterford,0.89,20,5481.0,39.67,Queensland,Logan
+Cornubia,0.55,15,7318.0,12.66,Queensland,Logan
+Carbrook,,0,1218.0,12.41,Queensland,Logan
+Loganholme,0.56,16,6297.0,25.11,Queensland,Logan
+Tanah Merah,0.7,13,4752.0,22.97,Queensland,Logan
+Loganlea,1.07,42,7325.0,49.87,Queensland,Logan
+Shailer Park,0.63,28,11756.0,17.13,Queensland,Logan
+Waterford West,0.73,22,6436.0,35.02,Queensland,Logan
+Daisy Hill,0.45,12,6660.0,22.57,Queensland,Logan
+Logan Central,0.93,23,5947.0,47.78,Queensland,Logan
+Rochedale South,0.69,42,15317.0,22.44,Queensland,Logan
+Priestdale,,0,132.0,,Queensland,Logan
+Slacks Creek,0.73,30,10435.0,37.97,Queensland,Logan
+Underwood,1.05,26,6338.0,27.58,Queensland,Logan
+Woodridge,0.96,50,12581.0,48.73,Queensland,Logan
+Bowen,0.57,33,10383.0,29.67,Queensland,Whitsunday
+Nebo,0.84,4,754.0,27.87,Queensland,Isaac
+Clermont,0.22,4,3029.0,26.58,Queensland,Isaac
+Collinsville,1.75,15,1248.0,19.43,Queensland,Whitsunday
+Moranbah,2.58,115,8738.0,51.51,Queensland,Isaac
+Andergrove,1.05,45,9423.0,31.3,Queensland,Mackay
+East Mackay,0.95,17,3564.0,30.18,Queensland,Mackay
+Eimeo,1.24,17,3235.0,25.6,Queensland,Mackay
+Rural View,0.77,17,4793.0,31.15,Queensland,Mackay
+Eungella Hinterland,,0,,,Queensland,Mackay
+Mackay,1.72,40,3655.0,44.24,Queensland,Mackay
+Mackay Harbour,0.56,3,549.0,26.97,Queensland,Mackay
+Mount Pleasant,0.68,24,6685.0,20.75,Western Australia,Melville
+Glenella,0.66,11,4519.0,22.19,Queensland,Mackay
+North Mackay,0.8,25,5928.0,32.74,Queensland,Mackay
+Ooralea,0.84,12,3363.0,25.06,Queensland,Mackay
+Bakers Creek,0.29,2,1159.0,20.74,Queensland,Mackay
+Sarina,0.23,6,5524.0,22.35,Queensland,Mackay
+Calen,,0,392.0,20.44,Queensland,Mackay
+Shoal Point,1.41,7,973.0,17.37,Queensland,Mackay
+Bucasia,0.75,16,4773.0,30.48,Queensland,Mackay
+Slade Point,0.86,13,3347.0,27.69,Queensland,Mackay
+South Mackay,0.45,15,6709.0,32.45,Queensland,Mackay
+Walkerston,0.22,3,3408.0,21.82,Queensland,Mackay
+Eton,,0,675.0,15.33,Queensland,Mackay
+West Mackay,0.88,26,6208.0,28.99,Queensland,Mackay
+Whitsundays,,0,2267.0,34.43,Queensland,Whitsunday
+Cape Conway,,0,,,Queensland,Whitsunday
+Proserpine,1.24,20,3564.0,30.35,Queensland,Whitsunday
+Beachmere,0.43,10,4107.0,30.22,Queensland,Moreton Bay
+Sandstone Point,0.33,7,3958.0,17.58,Queensland,Moreton Bay
+Burpengary,1.06,77,14021.0,24.35,Queensland,Moreton Bay
+Caboolture,1.15,152,26430.0,41.24,Queensland,Moreton Bay
+Elimbah,0.2,3,3963.0,10.24,Queensland,Moreton Bay
+Morayfield,1.54,184,21394.0,38.63,Queensland,Moreton Bay
+Wamuran,0.09,1,3199.0,11.93,Queensland,Moreton Bay
+Kilcoy,0.59,5,1897.0,32.8,Queensland,Somerset
+Woodford,0.73,9,3462.0,17.58,Queensland,Moreton Bay
+D'Aguilar,0.39,3,1211.0,16.78,Queensland,Moreton Bay
+Deception Bay,1.17,96,19849.0,35.95,Queensland,Moreton Bay
+Narangba,0.81,65,18576.0,22.46,Queensland,Moreton Bay
+Upper Caboolture,0.84,17,4213.0,25.52,Queensland,Moreton Bay
+Margate,0.72,29,7405.0,38.2,Queensland,Moreton Bay
+Woody Point,0.88,24,4424.0,38.01,Queensland,Moreton Bay
+Redcliffe,0.82,50,10378.0,39.44,Queensland,Moreton Bay
+Rothwell,0.65,22,7162.0,39.16,Queensland,Moreton Bay
+Kippa-Ring,0.69,29,9790.0,32.11,Queensland,Moreton Bay
+Moreton Island,4.71,4,242.0,9.21,Queensland,Brisbane
+Scarborough,0.83,79,15470.0,32.8,Western Australia,Stirling
+Albany Creek,0.4,27,15769.0,16.1,Queensland,Moreton Bay
+Cashmere,0.13,2,4915.0,6.85,Queensland,Moreton Bay
+Dayboro,,0,2116.0,10.92,Queensland,Moreton Bay
+Eatons Hill,0.23,6,7974.0,12.19,Queensland,Moreton Bay
+Samford Valley,0.09,1,3072.0,4.17,Queensland,Moreton Bay
+Murrumba Downs,0.64,30,10679.0,29.67,Queensland,Moreton Bay
+Griffin,1.29,73,6838.0,50.28,Queensland,Moreton Bay
+Dakabin,0.88,20,3540.0,40.3,Queensland,Moreton Bay
+Kallangur,0.95,89,20402.0,35.3,Queensland,Moreton Bay
+Mango Hill,1.27,76,8442.0,40.56,Queensland,Moreton Bay
+North Lakes,0.93,82,21668.0,38.58,Queensland,Moreton Bay
+Bray Park,0.53,21,10250.0,25.66,Queensland,Moreton Bay
+Lawnton,0.73,23,5659.0,33.88,Queensland,Moreton Bay
+Petrie,0.79,28,8679.0,23.67,Queensland,Moreton Bay
+Strathpine,0.9,40,9506.0,23.41,Queensland,Moreton Bay
+Brendale,0.76,12,2759.0,48.71,Queensland,Moreton Bay
+Aurukun,,0,1271.0,70.98,Queensland,Aurukun
+Kowanyama,,0,947.0,84.59,Queensland,Kowanyama
+Pormpuraaw,,0,747.0,75.18,Queensland,Pormpuraaw
+Tablelands,,0,210.0,15.09,Northern Territory,Barkly
+Carpentaria,,0,,,Queensland,Carpentaria
+Mount Isa,6.48,7,116.0,49.3,Queensland,Mount Isa
+Barcaldine,0.53,5,1421.0,23.05,Queensland,Barcaldine
+Blackall,1.03,9,1414.0,22.28,Queensland,Blackall-Tambo
+Charleville,,0,3337.0,26.06,Queensland,Murweh
+Longreach,0.41,9,2967.0,30.11,Queensland,Longreach
+Buderim,0.49,69,29356.0,23.7,Queensland,Sunshine Coast
+Mountain Creek,0.53,24,11258.0,35.64,Queensland,Sunshine Coast
+Sippy Downs,0.6,28,10293.0,38.12,Queensland,Sunshine Coast
+Aroona,0.23,3,3283.0,15.65,Queensland,Sunshine Coast
+Currimundi,0.63,18,6780.0,26.27,Queensland,Sunshine Coast
+Buddina,1.0,21,3886.0,28.98,Queensland,Sunshine Coast
+Minyama,0.22,3,2540.0,17.01,Queensland,Sunshine Coast
+Caloundra,0.46,13,3915.0,31.96,Queensland,Sunshine Coast
+Kings Beach,1.58,40,2785.0,32.1,Queensland,Sunshine Coast
+Golden Beach,0.55,19,5571.0,27.22,Queensland,Sunshine Coast
+Pelican Waters,0.47,18,6282.0,13.45,Queensland,Sunshine Coast
+Moffat Beach,0.43,6,2551.0,26.32,Queensland,Sunshine Coast
+Battery Hill,0.59,7,2535.0,29.67,Queensland,Sunshine Coast
+Parrearra,0.34,8,4462.0,30.21,Queensland,Sunshine Coast
+Warana,0.89,15,3687.0,30.84,Queensland,Sunshine Coast
+Wurtulla,0.56,15,5909.0,26.23,Queensland,Sunshine Coast
+Birtinya,1.91,40,1931.0,63.96,Queensland,Sunshine Coast
+Caloundra West,0.76,23,6292.0,29.72,Queensland,Sunshine Coast
+Meridan Plains,0.61,13,3674.0,38.3,Queensland,Sunshine Coast
+Coolum Beach,0.74,39,8503.0,26.52,Queensland,Sunshine Coast
+Marcoola,1.18,23,3176.0,38.59,Queensland,Sunshine Coast
+Mudjimba,0.94,12,2545.0,28.93,Queensland,Sunshine Coast
+Maroochydore,1.12,147,16796.0,36.61,Queensland,Sunshine Coast
+Kuluin,0.16,2,2365.0,23.46,Queensland,Sunshine Coast
+Mooloolaba,0.68,34,7730.0,31.28,Queensland,Sunshine Coast
+Alexandra Headland,0.97,24,3955.0,31.39,Queensland,Sunshine Coast
+Noosa Heads,0.98,32,4485.0,18.58,Queensland,Noosa
+Noosaville,0.86,46,8129.0,23.06,Queensland,Noosa
+Sunshine Beach,1.36,24,2461.0,22.74,Queensland,Noosa
+Tewantin,0.4,23,10920.0,26.37,Queensland,Noosa
+Peregian Beach,1.12,28,3792.0,22.78,Queensland,Noosa
+Marcus Beach,0.51,2,752.0,18.5,Queensland,Noosa
+Peregian Springs,0.54,21,7063.0,31.88,Queensland,Sunshine Coast
+Beerwah,0.34,11,6769.0,28.29,Queensland,Sunshine Coast
+Glass House Mountains,0.25,6,5067.0,16.01,Queensland,Sunshine Coast
+Landsborough,0.28,6,3808.0,22.29,Queensland,Sunshine Coast
+Palmwoods,0.49,16,5673.0,20.2,Queensland,Sunshine Coast
+Bli Bli,0.14,6,7799.0,18.29,Queensland,Sunshine Coast
+Diddillibah,0.48,4,1404.0,15.3,Queensland,Sunshine Coast
+Rosemount,0.13,1,1588.0,13.27,Queensland,Sunshine Coast
+Eumundi,0.7,7,2219.0,14.49,Queensland,Sunshine Coast
+Yandina,0.21,3,2372.0,24.58,Queensland,Sunshine Coast
+Nambour,0.52,31,11185.0,36.49,Queensland,Sunshine Coast
+Cambooya,0.84,9,1586.0,19.97,Queensland,Toowoomba
+Wyreema,0.65,6,1829.0,24.14,Queensland,Toowoomba
+Darling Heights,1.0,20,5189.0,39.53,Queensland,Toowoomba
+Drayton,0.45,4,1710.0,31.48,Queensland,Toowoomba
+Harristown,0.57,26,8557.0,35.34,Queensland,Toowoomba
+Gatton,1.18,38,7102.0,36.16,Queensland,Lockyer Valley
+Highfields,0.27,11,8131.0,15.2,Queensland,Toowoomba
+Middle Ridge,0.7,21,7139.0,18.03,Queensland,Toowoomba
+North Toowoomba,1.15,19,2947.0,34.89,Queensland,Toowoomba
+Harlaxton,0.84,11,2545.0,38.02,Queensland,Toowoomba
+Rangeville,0.88,34,8311.0,23.48,Queensland,Toowoomba
+Toowoomba,,0,2086.0,45.37,Queensland,Toowoomba
+Wilsonton,0.83,26,5960.0,33.33,Queensland,Toowoomba
+Ayr,0.11,5,8740.0,27.02,Queensland,Burdekin
+Charters Towers,,0,2135.0,29.48,Queensland,Charters Towers
+Ingham,0.33,8,4430.0,23.72,Queensland,Hinchinbrook
+Palm Island,,0,2458.0,86.14,Queensland,Palm Island
+Aitkenvale,1.29,32,4790.0,38.19,Queensland,Townsville
+Belgian Gardens,1.17,14,2074.0,33.51,Queensland,Townsville
+Pallarenda,0.54,2,796.0,24.62,Queensland,Townsville
+Bohle Plains,1.16,23,3204.0,48.84,Queensland,Townsville
+Condon,0.89,23,5783.0,32.88,Queensland,Townsville
+Rasmussen,1.34,26,4459.0,37.95,Queensland,Townsville
+Cranbrook,1.0,26,5915.0,27.2,Queensland,Townsville
+Douglas,,0,69.0,,Victoria,West Wimmera
+Garbutt,1.05,14,2394.0,45.94,Queensland,Townsville
+Gulliver,0.8,11,2831.0,29.49,Queensland,Townsville
+Currajong,0.82,11,2553.0,29.3,Queensland,Townsville
+Vincent,1.4,14,2354.0,38.48,Queensland,Townsville
+Heatley,0.65,12,4030.0,32.25,Queensland,Townsville
+Hermit Park,1.18,22,3413.0,40.38,Queensland,Townsville
+Rosslea,1.61,18,1737.0,47.28,Queensland,Townsville
+Hyde Park,0.57,5,1661.0,22.75,South Australia,Unley
+Pimlico,0.95,14,2464.0,45.69,Queensland,Townsville
+Kelso,0.89,37,10533.0,29.16,Queensland,Townsville
+Kirwan,1.12,96,21423.0,32.44,Queensland,Townsville
+Mount Louisa,1.22,44,8825.0,31.97,Queensland,Townsville
+Mundingburra,0.66,11,3626.0,31.53,Queensland,Townsville
+Oonoonba,1.32,16,1670.0,33.67,Queensland,Townsville
+South Townsville,1.54,21,2354.0,41.91,Queensland,Townsville
+Railway Estate,1.63,25,2853.0,32.36,Queensland,Townsville
+Townsville,,0,2908.0,41.88,Queensland,Townsville
+Townsville City,2.64,52,2908.0,41.88,Queensland,Townsville
+North Ward,2.49,80,5066.0,44.98,Queensland,Townsville
+Wulguru,0.64,13,4568.0,27.47,Queensland,Townsville
+Roseneath,,0,156.0,9.59,Queensland,Townsville
+Burdell,2.04,62,5811.0,44.58,Queensland,Townsville
+Mount Low,1.76,36,4650.0,34.8,Queensland,Townsville
+Deeragun,1.3,23,4252.0,33.49,Queensland,Townsville
+Jensen,0.12,1,1478.0,10.4,Queensland,Townsville
+Kepnock,0.82,16,4437.0,31.63,Queensland,Bundaberg
+Bargara,0.84,43,7479.0,25.45,Queensland,Bundaberg
+Burnett Heads,0.46,7,2648.0,21.4,Queensland,Bundaberg
+Branyan,0.39,7,4135.0,15.92,Queensland,Bundaberg
+Kensington,2.48,146,14997.0,50.41,New South Wales,Randwick
+Bundaberg,,0,313.0,22.22,Queensland,Bundaberg
+Bundaberg East,0.74,10,2785.0,32.42,Queensland,Bundaberg
+Kalkie,0.58,7,2690.0,22.5,Queensland,Bundaberg
+Bundaberg North,0.19,5,5452.0,27.32,Queensland,Bundaberg
+Gooburrum,0.15,1,1439.0,9.81,Queensland,Bundaberg
+Millbank,0.48,6,2516.0,34.35,Queensland,Bundaberg
+Svensson Heights,0.94,15,3202.0,32.1,Queensland,Bundaberg
+Norville,0.82,10,2403.0,26.64,Queensland,Bundaberg
+Walkervale,0.6,8,2982.0,28.32,Queensland,Bundaberg
+Avenell Heights,0.48,11,4873.0,31.49,Queensland,Bundaberg
+Gayndah,0.09,1,1983.0,28.72,Queensland,North Burnett
+Mundubbera,0.15,1,1260.0,35.02,Queensland,North Burnett
+Gin Gin,0.49,3,1054.0,28.7,Queensland,Bundaberg
+Kingaroy,0.79,38,10025.0,34.71,Queensland,South Burnett
+Monto,0.42,3,1195.0,21.57,Queensland,North Burnett
+Eidsvold,0.25,1,573.0,27.09,Queensland,North Burnett
+Nanango,0.42,8,3597.0,29.06,Queensland,South Burnett
+Cooloola,,0,3.0,,Queensland,Gympie
+Gympie,0.63,35,10803.0,36.14,Queensland,Gympie
+Kilkivan,,0,713.0,15.33,Queensland,Gympie
+Booral,0.29,2,1540.0,14.92,Queensland,Fraser Coast
+River Heads,1.01,8,1540.0,17.84,Queensland,Fraser Coast
+Craignish,0.39,3,1829.0,13.71,Queensland,Fraser Coast
+Dundowran Beach,0.22,2,2083.0,9.88,Queensland,Fraser Coast
+Pialba,0.8,20,3678.0,35.4,Queensland,Fraser Coast
+Eli Waters,0.71,17,3309.0,26.63,Queensland,Fraser Coast
+Point Vernon,0.49,14,5702.0,25.06,Queensland,Fraser Coast
+Scarness,0.84,20,3517.0,35.33,Queensland,Fraser Coast
+Kawungan,0.56,15,4819.0,24.59,Queensland,Fraser Coast
+Urangan,0.62,43,9765.0,28.45,Queensland,Fraser Coast
+Wondunna,0.68,9,2672.0,18.24,Queensland,Fraser Coast
+Fraser,0.13,1,2031.0,10.59,Australian Capital Territory,ACT
+Tinana,0.26,7,5475.0,17.93,Queensland,Fraser Coast
+Adelaide,1.87,219,15109.0,49.54,South Australia,Adelaide
+North Adelaide,1.43,57,6954.0,38.3,South Australia,Adelaide
+Aldgate,0.07,1,3355.0,6.26,South Australia,Adelaide Hills
+Stirling,0.48,19,9673.0,14.03,Western Australia,Stirling
+Hahndorf,0.17,2,2671.0,14.42,South Australia,Mount Barker
+Echunga,0.21,1,1115.0,12.3,South Australia,Mount Barker
+Lobethal,0.26,3,2524.0,17.65,South Australia,Adelaide Hills
+Woodside,0.59,8,2610.0,20.8,South Australia,Adelaide Hills
+Mount Barker,0.67,66,13843.0,32.15,South Australia,Mount Barker
+Nairne,0.39,9,5043.0,21.72,South Australia,Mount Barker
+Uraidla,0.78,2,577.0,16.32,South Australia,Adelaide Hills
+Summertown,,0,681.0,7.94,South Australia,Adelaide Hills
+Wattle Park,0.13,1,1813.0,10.32,South Australia,Burnside
+Beaumont,0.45,5,2583.0,9.06,South Australia,Burnside
+Glen Osmond,0.39,3,1992.0,10.22,South Australia,Burnside
+Toorak Gardens,0.51,6,2620.0,22.76,South Australia,Burnside
+Athelstone,0.4,16,9154.0,11.74,South Australia,Campbelltown
+Paradise,0.58,20,6778.0,25.05,South Australia,Campbelltown
+Newton,0.62,15,4793.0,24.28,South Australia,Campbelltown
+Rostrevor,0.35,13,7745.0,17.82,South Australia,Campbelltown
+Magill,0.88,41,8857.0,27.64,South Australia,Campbelltown
+Payneham,0.81,11,2289.0,37.89,South Australia,Norwood Payneham St Peters
+Felixstow,0.64,9,2317.0,29.71,South Australia,Norwood Payneham St Peters
+Marden,1.31,20,2308.0,36.59,South Australia,Norwood Payneham St Peters
+Nailsworth,0.21,2,2148.0,31.46,South Australia,Prospect
+Broadview,0.95,21,4126.0,32.22,South Australia,Port Adelaide Enfield
+Walkerville,0.57,8,2693.0,30.17,South Australia,Walkerville
+Goodwood,0.53,8,2984.0,32.01,South Australia,Unley
+Millswood,0.23,2,2140.0,13.63,South Australia,Unley
+Unley,1.19,25,4012.0,31.92,South Australia,Unley
+Parkside,0.88,22,4784.0,32.37,South Australia,Unley
+Gawler,1.12,5,648.0,33.86,South Australia,Gawler
+Lewiston,0.07,1,3082.0,6.57,South Australia,Mallala
+Two Wells,0.26,5,2550.0,13.1,South Australia,Mallala
+Craigmore,0.3,12,10890.0,20.78,South Australia,Playford
+Blakeview,0.9,33,7229.0,30.58,South Australia,Playford
+Davoren Park,1.05,34,6494.0,41.75,South Australia,Playford
+Elizabeth,0.55,3,1028.0,43.66,South Australia,Playford
+Elizabeth East,0.86,18,4441.0,39.14,South Australia,Playford
+Munno Para West,1.34,44,5903.0,40.53,South Australia,Playford
+Angle Vale,0.71,23,2926.0,7.17,South Australia,Playford
+One Tree Hill,0.25,1,1095.0,6.74,South Australia,Playford
+Elizabeth North,0.5,9,3467.0,46.14,South Australia,Playford
+Waterloo Corner,0.64,4,1222.0,10.56,South Australia,Playford
+Blair Athol,0.45,11,4634.0,38.54,South Australia,Port Adelaide Enfield
+Windsor Gardens,0.26,7,5269.0,30.19,South Australia,Port Adelaide Enfield
+Northfield,0.36,7,4635.0,38.33,South Australia,Port Adelaide Enfield
+Valley View,0.5,14,6106.0,16.83,South Australia,Salisbury
+Gilles Plains,0.67,12,3577.0,37.96,South Australia,Port Adelaide Enfield
+Dry Creek,0.73,1,234.0,31.91,South Australia,Salisbury
+Ingle Farm,0.4,18,8822.0,22.51,South Australia,Salisbury
+Para Hills,0.37,11,6555.0,17.76,South Australia,Salisbury
+Parafield,,0,,,South Australia,Salisbury
+Parafield Gardens,0.27,19,16952.0,26.19,South Australia,Salisbury
+Paralowie,0.51,33,16530.0,22.87,South Australia,Salisbury
+Salisbury East,0.56,23,8973.0,23.48,South Australia,Salisbury
+Salisbury North,0.63,28,9884.0,34.3,South Australia,Salisbury
+Mawson Lakes,1.2,67,13298.0,37.02,South Australia,Salisbury
+Globe Derby Park,0.65,1,348.0,17.42,South Australia,Salisbury
+Pooraka,0.51,17,7229.0,26.13,South Australia,Salisbury
+Cavan,,0,52.0,28.57,New South Wales,Yass Valley
+Golden Grove,0.16,7,10232.0,22.45,South Australia,Tea Tree Gully
+Greenwith,0.13,5,8987.0,21.27,South Australia,Tea Tree Gully
+Highbury,0.35,10,6585.0,11.12,South Australia,Tea Tree Gully
+Dernancourt,0.4,7,3853.0,14.43,South Australia,Tea Tree Gully
+Hope Valley,0.43,17,7886.0,28.07,South Australia,Tea Tree Gully
+Modbury,0.58,16,5243.0,29.41,South Australia,Tea Tree Gully
+Modbury Heights,0.34,10,6701.0,15.3,South Australia,Tea Tree Gully
+Redwood Park,0.27,6,5421.0,10.49,South Australia,Tea Tree Gully
+St Agnes,0.57,11,4141.0,15.8,South Australia,Tea Tree Gully
+Ridgehaven,0.58,12,4008.0,23.37,South Australia,Tea Tree Gully
+Edwardstown,0.45,11,4333.0,39.64,South Australia,Marion
+Hallett Cove,0.34,17,12300.0,13.91,South Australia,Marion
+Marino,0.52,5,2183.0,13.42,South Australia,Marion
+Seaview Downs,0.45,5,2678.0,10.27,South Australia,Marion
+Mitchell Park,0.71,21,5465.0,44.67,South Australia,Marion
+Morphettville,0.37,7,3210.0,36.74,South Australia,Marion
+Sheidow Park,0.2,5,6674.0,11.86,South Australia,Marion
+Trott Park,0.41,5,3109.0,13.42,South Australia,Marion
+Warradale,0.43,12,5242.0,22.52,South Australia,Marion
+Belair,0.11,2,4407.0,12.41,South Australia,Mitcham
+Bellevue Heights,0.27,3,2621.0,14.8,South Australia,Mitcham
+Blackwood,0.25,5,4175.0,14.95,South Australia,Mitcham
+Colonel Light Gardens,0.08,1,3350.0,11.42,South Australia,Mitcham
+Panorama,0.66,7,2308.0,14.12,South Australia,Mitcham
+Aberfoyle Park,0.25,11,11045.0,16.85,South Australia,Onkaparinga
+Aldinga,0.24,1,567.0,15.36,South Australia,Onkaparinga
+Christie Downs,0.44,12,5286.0,39.62,South Australia,Onkaparinga
+Christies Beach,0.55,17,5446.0,36.5,South Australia,Onkaparinga
+Coromandel Valley,0.25,4,4206.0,7.13,South Australia,Onkaparinga
+Flagstaff Hill,0.27,11,9951.0,10.0,South Australia,Onkaparinga
+Hackham,0.11,2,4009.0,22.16,South Australia,Onkaparinga
+Onkaparinga Hills,0.3,3,2527.0,3.56,South Australia,Onkaparinga
+Hackham West,0.4,7,3547.0,37.63,South Australia,Onkaparinga
+Huntfield Heights,0.5,9,4046.0,30.57,South Australia,Onkaparinga
+Happy Valley,0.25,12,11220.0,15.49,South Australia,Onkaparinga
+Lonsdale,,0,,,South Australia,Onkaparinga
+McLaren Vale,0.2,4,3839.0,14.58,South Australia,Onkaparinga
+Morphett Vale,0.36,41,23134.0,26.97,South Australia,Onkaparinga
+Reynella,0.41,9,4755.0,19.2,South Australia,Onkaparinga
+Willunga,,0,2309.0,13.14,South Australia,Onkaparinga
+Seaford,0.69,60,16465.0,28.97,Victoria,Frankston
+Seaford Meadows,0.6,12,3849.0,40.25,South Australia,Onkaparinga
+Seaford Rise,0.2,5,6099.0,24.88,South Australia,Onkaparinga
+Moana,0.12,2,2636.0,17.87,South Australia,Onkaparinga
+Beverley,0.8,6,1503.0,33.43,South Australia,Charles Sturt
+Flinders Park,0.76,18,4883.0,22.09,South Australia,Charles Sturt
+Henley Beach,0.55,17,5989.0,27.95,South Australia,Charles Sturt
+Hindmarsh,,0,233.0,48.51,South Australia,Charles Sturt
+Brompton,0.85,16,3538.0,48.44,South Australia,Charles Sturt
+Royal Park,0.67,11,2965.0,26.39,South Australia,Charles Sturt
+Hendon,0.64,4,1174.0,28.65,South Australia,Charles Sturt
+Seaton,0.57,31,10360.0,32.68,South Australia,Charles Sturt
+West Lakes,0.67,24,5792.0,17.41,South Australia,Charles Sturt
+Largs Bay,0.6,11,4080.0,20.75,South Australia,Port Adelaide Enfield
+Semaphore,0.71,10,2767.0,26.1,South Australia,Port Adelaide Enfield
+North Haven,0.33,9,5563.0,15.5,South Australia,Port Adelaide Enfield
+Port Adelaide,1.25,13,1224.0,42.05,South Australia,Port Adelaide Enfield
+Torrens Island,,0,,,South Australia,SA
+Adelaide Airport,,0,,,South Australia,West Torrens
+Fulham,0.15,2,2701.0,20.23,South Australia,West Torrens
+Lockleys,0.34,9,5629.0,21.01,South Australia,West Torrens
+Plympton,0.84,24,4755.0,36.64,South Australia,West Torrens
+West Beach,0.67,17,4966.0,23.75,South Australia,West Torrens
+Angaston,0.26,3,2100.0,24.61,South Australia,Barossa
+Lyndoch,0.1,1,2000.0,16.75,South Australia,Barossa
+Mallala,,0,892.0,13.82,South Australia,Mallala
+Nuriootpa,0.35,12,6314.0,24.15,South Australia,Light
+Tanunda,0.46,11,4582.0,22.89,South Australia,Barossa
+Clare,0.16,3,3161.0,28.05,South Australia,Clare and Gilbert Valleys
+Goyder,,0,30.0,26.67,South Australia,Wakefield
+Wakefield,,0,146.0,18.18,New South Wales,Lake Macquarie
+Jamestown,0.1,1,1568.0,18.15,South Australia,Northern Areas
+Peterborough,0.2,2,1496.0,15.69,South Australia,Peterborough
+Port Pirie,1.33,1,190.0,55.36,South Australia,Port Pirie City and Dists
+Kadina,0.06,1,2849.0,24.03,South Australia,Copper Coast
+Moonta,0.24,1,637.0,26.58,South Australia,Copper Coast
+Wallaroo,0.15,4,3486.0,24.86,South Australia,Copper Coast
+Ceduna,0.58,6,1851.0,33.47,South Australia,Ceduna
+Kimba,,0,626.0,18.06,South Australia,Kimba
+Cleve,0.46,3,939.0,17.9,South Australia,Cleve
+Elliston,,0,372.0,15.97,South Australia,Elliston
+Port Lincoln,0.75,55,14123.0,29.1,South Australia,Port Lincoln
+Whyalla,1.13,22,3639.0,24.4,South Australia,Whyalla
+Coober Pedy,0.19,3,1761.0,19.48,South Australia,SA
+Quorn,0.52,4,1223.0,19.46,South Australia,Flinders Ranges
+Port Augusta,0.78,30,6562.0,32.11,South Australia,Port Augusta
+Roxby Downs,4.5,81,3887.0,48.64,South Australia,Roxby Downs
+Goolwa,0.18,3,2351.0,20.72,South Australia,Alexandrina
+Port Elliot,0.35,6,2096.0,16.13,South Australia,Alexandrina
+Strathalbyn,0.14,5,6503.0,22.09,South Australia,Alexandrina
+Victor Harbor,0.35,11,4232.0,25.64,South Australia,Victor Harbor
+Yankalilla,0.17,1,905.0,21.08,South Australia,Yankalilla
+Grant,,0,13.0,,Queensland,Barcaldine
+Kingston,1.05,43,10544.0,41.1,Queensland,Logan
+Robe,0.23,4,1093.0,10.72,South Australia,Robe
+Millicent,0.55,15,5109.0,22.63,South Australia,Wattle Range
+Naracoorte,0.16,5,5961.0,25.34,South Australia,Naracoorte and Lucindale
+Penola,,0,1596.0,22.65,South Australia,Wattle Range
+Wattle Range,,0,76.0,17.86,South Australia,Wattle Range
+Mount Gambier,0.84,107,25513.0,30.38,South Australia,Mount Gambier
+Barmera,0.37,6,2953.0,26.04,South Australia,Berri and Barmera
+Berri,0.22,5,4085.0,35.62,South Australia,Berri and Barmera
+Karoonda,,0,514.0,16.67,South Australia,Karoonda East Murray
+Lameroo,,0,850.0,17.08,South Australia,Southern Mallee
+Loxton,0.33,8,4559.0,24.78,South Australia,Loxton Waikerie
+Mannum,0.51,9,2644.0,21.6,South Australia,Mid Murray
+Murray Bridge,0.6,46,14558.0,37.19,South Australia,Murray Bridge
+Renmark,0.23,6,4640.0,35.15,South Australia,Renmark Paringa
+Waikerie,0.2,3,2684.0,26.12,South Australia,Loxton Waikerie
+Augusta,0.08,1,1380.0,14.31,Western Australia,Augusta-Margaret River
+Margaret River,0.2,9,7652.0,25.1,Western Australia,Augusta-Margaret River
+Busselton,0.24,3,1870.0,31.34,Western Australia,Busselton
+Australind,0.5,34,14536.0,20.67,Western Australia,Harvey
+Leschenault,0.27,3,2937.0,6.73,Western Australia,Harvey
+Capel,0.43,5,2505.0,18.4,Western Australia,Capel
+College Grove,,0,1575.0,19.34,Western Australia,Bunbury
+Carey Park,0.83,22,5165.0,36.75,Western Australia,Bunbury
+Collie,0.19,7,7584.0,19.83,Western Australia,Collie
+Dardanup,,0,504.0,20.1,Western Australia,Dardanup
+Davenport,,0,174.0,34.0,Northern Territory,Barkly
+Eaton,0.44,17,8479.0,22.8,Western Australia,Dardanup
+Pelican Point,0.78,3,873.0,14.44,Western Australia,Bunbury
+Harvey,0.12,2,3320.0,25.09,Western Australia,Harvey
+East Bunbury,0.38,8,3910.0,27.46,Western Australia,Bunbury
+Waroona,0.21,3,2933.0,19.32,Western Australia,Waroona
+Dalyellup,0.44,18,8995.0,25.54,Western Australia,Capel
+Gelorup,0.12,1,2294.0,5.61,Western Australia,Capel
+Stratham,,0,709.0,6.04,Western Australia,Capel
+South Bunbury,0.57,25,8421.0,27.51,Western Australia,Bunbury
+Bunbury,0.93,21,3737.0,27.86,Western Australia,Bunbury
+Withers,1.18,19,2975.0,37.56,Western Australia,Bunbury
+Usher,0.52,5,2163.0,28.56,Western Australia,Bunbury
+Bridgetown,0.31,5,2805.0,16.7,Western Australia,Bridgetown-Greenbushes
+Boyup Brook,0.36,2,914.0,17.52,Western Australia,Boyup Brook
+Donnybrook,0.15,2,2822.0,17.21,Western Australia,Donnybrook-Balingup
+Balingup,0.5,2,543.0,12.78,Western Australia,Donnybrook-Balingup
+Manjimup,0.05,1,4352.0,25.89,Western Australia,Manjimup
+Pemberton,,0,972.0,17.26,Western Australia,Manjimup
+Dawesville,0.98,34,5826.0,14.21,Western Australia,Mandurah
+Bouvard,0.21,1,826.0,9.59,Western Australia,Mandurah
+Falcon,0.36,12,5162.0,17.36,Western Australia,Mandurah
+Wannanup,0.5,10,3622.0,16.57,Western Australia,Mandurah
+Greenfields,0.7,33,9855.0,27.03,Western Australia,Mandurah
+Halls Head,0.72,48,13869.0,16.91,Western Australia,Mandurah
+Erskine,0.56,16,4666.0,20.48,Western Australia,Mandurah
+Mandurah,1.33,79,7833.0,35.17,Western Australia,Mandurah
+Pinjarra,0.31,7,4903.0,23.17,Western Australia,Murray
+City Beach,0.39,10,6609.0,14.97,Western Australia,Cambridge
+Cottesloe,0.67,25,7372.0,22.98,Western Australia,Cottesloe
+Floreat,0.32,10,7903.0,11.45,Western Australia,Cambridge
+Mosman Park,0.86,37,8750.0,29.35,Western Australia,Mosman Park
+Peppermint Grove,0.62,4,1636.0,21.35,Western Australia,Peppermint Grove
+Nedlands,1.07,48,10195.0,23.95,Western Australia,Nedlands
+Dalkeith,0.72,12,4242.0,16.65,Western Australia,Nedlands
+Crawley,1.69,27,4095.0,51.27,Western Australia,Subiaco
+Swanbourne,0.8,15,4056.0,19.4,Western Australia,Nedlands
+Mount Claremont,0.5,10,4612.0,17.38,Western Australia,Nedlands
+Mount Hawthorn,0.68,23,7549.0,23.04,Western Australia,Vincent
+Leederville,1.12,22,3161.0,39.07,Western Australia,Vincent
+Mount Lawley,0.66,37,11127.0,29.86,Western Australia,Stirling
+North Perth,0.91,42,8748.0,26.32,Western Australia,Vincent
+Subiaco,1.07,61,9196.0,35.95,Western Australia,Subiaco
+Shenton Park,1.1,24,4523.0,30.61,Western Australia,Nedlands
+Wembley,0.72,40,11301.0,31.48,Western Australia,Cambridge
+West Leederville,0.94,20,3973.0,33.65,Western Australia,Cambridge
+Glendalough,0.62,9,2488.0,46.29,Western Australia,Stirling
+East Perth,1.86,140,10602.0,43.35,Western Australia,Perth
+Highgate,1.43,20,2204.0,45.12,Western Australia,Vincent
+Bassendean,0.35,18,10315.0,24.57,Western Australia,Bassendean
+Eden Hill,0.44,7,3455.0,20.15,Western Australia,Bassendean
+Embleton,0.39,6,3162.0,28.91,Western Australia,Bayswater
+Bedford,0.55,14,5433.0,26.01,Western Australia,Bayswater
+Maylands,1.19,99,12582.0,38.28,Western Australia,Bayswater
+Morley,0.42,42,21523.0,24.5,Western Australia,Bayswater
+Noranda,0.27,9,7975.0,13.75,Western Australia,Bayswater
+Chidlow,,0,1827.0,8.4,Western Australia,Mundaring
+Glen Forrest,,0,2778.0,8.53,Western Australia,Mundaring
+Helena Valley,,0,3688.0,12.69,Western Australia,Mundaring
+Koongamia,0.2,1,991.0,29.0,Western Australia,Swan
+Malmalling,,0,,,Western Australia,Mundaring
+Mundaring,0.22,3,3039.0,14.24,Western Australia,Mundaring
+Swan View,0.19,7,7909.0,18.3,Western Australia,Mundaring
+Midvale,0.52,6,1495.0,36.9,Western Australia,Swan
+Avon Valley National Park,,0,,,Western Australia,Swan
+Ballajura,0.25,17,18705.0,16.81,Western Australia,Swan
+Beechboro,0.3,11,9066.0,21.37,Western Australia,Swan
+Bullsbrook,0.37,9,5182.0,12.38,Western Australia,Swan
+Gidgegannup,0.18,2,2745.0,6.75,Western Australia,Swan
+Hazelmere,,0,875.0,14.08,Western Australia,Swan
+Lockridge,0.13,2,3472.0,26.27,Western Australia,Swan
+Kiara,0.27,2,1821.0,17.4,Western Australia,Swan
+Lexia,,0,28.0,57.14,Western Australia,Swan
+Middle Swan,0.29,4,2849.0,24.29,Western Australia,Swan
+Herne Hill,1.44,27,3412.0,33.01,Victoria,Greater Geelong
+Midland,0.77,30,5967.0,45.0,Western Australia,Swan
+Stratton,0.74,10,3326.0,27.82,Western Australia,Swan
+Jane Brook,0.07,1,3488.0,7.73,Western Australia,Swan
+The Vines,0.25,5,4857.0,9.89,Western Australia,Swan
+Aveley,0.78,40,10172.0,17.32,Western Australia,Swan
+Brabham,1.05,41,3308.0,6.35,Western Australia,Swan
+Henley Brook,0.32,5,2516.0,13.92,Western Australia,Swan
+Ellenbrook,0.62,60,22682.0,20.69,Western Australia,Swan
+Craigie,0.79,24,5849.0,21.02,Western Australia,Joondalup
+Beldon,0.4,7,3946.0,18.89,Western Australia,Joondalup
+Currambine,0.34,9,6919.0,21.28,Western Australia,Joondalup
+Kinross,0.2,5,6884.0,17.39,Western Australia,Joondalup
+Duncraig,0.25,15,15270.0,11.36,Western Australia,Joondalup
+Greenwood,0.39,16,9615.0,14.12,Western Australia,Joondalup
+Heathridge,0.46,14,6664.0,20.46,Western Australia,Joondalup
+Connolly,0.07,1,3639.0,13.26,Western Australia,Joondalup
+Hillarys,0.34,15,10813.0,13.64,Western Australia,Joondalup
+Burns Beach,0.57,8,3373.0,7.36,Western Australia,Joondalup
+Joondalup,1.03,43,9089.0,34.85,Western Australia,Joondalup
+Edgewater,0.37,7,4508.0,15.03,Western Australia,Joondalup
+Kingsley,0.25,13,13059.0,12.46,Western Australia,Joondalup
+Mullaloo,0.47,11,5987.0,14.06,Western Australia,Joondalup
+Kallaroo,0.18,4,5177.0,12.17,Western Australia,Joondalup
+Ocean Reef,0.64,19,7846.0,11.76,Western Australia,Joondalup
+Padbury,0.35,13,8186.0,17.38,Western Australia,Joondalup
+Sorrento,0.2,6,7340.0,11.56,Western Australia,Joondalup
+Marmion,0.32,3,2287.0,12.67,Western Australia,Joondalup
+Woodvale,0.36,13,9282.0,10.26,Western Australia,Joondalup
+Balcatta,0.54,29,10386.0,28.61,Western Australia,Stirling
+Hamersley,0.09,2,4981.0,15.32,Western Australia,Stirling
+Balga,0.65,43,12690.0,37.59,Western Australia,Stirling
+Mirrabooka,0.39,11,8107.0,28.32,Western Australia,Stirling
+Herdsman,,0,,,Western Australia,Stirling
+Innaloo,0.92,48,8256.0,33.84,Western Australia,Stirling
+Doubleview,0.75,32,8412.0,28.05,Western Australia,Stirling
+Karrinyup,0.34,14,9283.0,19.09,Western Australia,Stirling
+Gwelup,0.2,4,4542.0,12.36,Western Australia,Stirling
+Carine,0.23,6,6479.0,9.3,Western Australia,Stirling
+Nollamara,0.59,39,11566.0,36.63,Western Australia,Stirling
+Westminster,0.65,22,6200.0,36.01,Western Australia,Stirling
+Osborne Park,0.7,18,4121.0,41.25,Western Australia,Stirling
+Trigg,0.68,8,2791.0,18.42,Western Australia,Stirling
+North Beach,0.11,2,3408.0,29.03,Western Australia,Stirling
+Watermans Bay,0.31,2,1280.0,25.43,Western Australia,Stirling
+Tuart Hill,0.56,24,7016.0,36.5,Western Australia,Stirling
+Joondanna,0.65,19,4839.0,35.74,Western Australia,Stirling
+Wembley Downs,0.53,14,6320.0,15.74,Western Australia,Stirling
+Churchlands,0.79,12,3383.0,21.31,Western Australia,Stirling
+Woodlands,0.32,6,4140.0,15.06,Western Australia,Stirling
+Yokine,0.54,35,11539.0,30.87,Western Australia,Stirling
+Coolbinia,0.46,3,1658.0,14.78,Western Australia,Stirling
+Menora,0.08,1,2589.0,29.19,Western Australia,Stirling
+Dianella,0.33,36,23487.0,22.03,Western Australia,Stirling
+Alexander Heights,0.07,2,7924.0,17.44,Western Australia,Wanneroo
+Koondoola,0.5,8,4055.0,30.06,Western Australia,Wanneroo
+Butler,0.48,25,13273.0,29.12,Western Australia,Wanneroo
+Merriwa,0.51,12,5490.0,33.45,Western Australia,Wanneroo
+Ridgewood,0.37,7,4669.0,27.32,Western Australia,Wanneroo
+Carramar,0.24,6,7168.0,13.65,Western Australia,Wanneroo
+Clarkson,0.62,36,12963.0,28.37,Western Australia,Wanneroo
+Girrawheen,0.44,17,8764.0,28.95,Western Australia,Wanneroo
+Marangaroo,0.08,3,10588.0,17.56,Western Australia,Wanneroo
+Mindarie,0.42,13,7522.0,14.06,Western Australia,Wanneroo
+Quinns Rocks,0.35,12,8737.0,22.07,Western Australia,Wanneroo
+Tapping,0.33,11,9455.0,16.63,Western Australia,Wanneroo
+Ashby,0.39,5,2661.0,15.54,Western Australia,Wanneroo
+Sinagra,0.72,11,2633.0,20.21,Western Australia,Wanneroo
+Alkimos,1.74,88,6269.0,22.48,Western Australia,Wanneroo
+Eglinton,0.71,9,2260.0,18.28,New South Wales,Bathurst Regional
+Carabooda,0.65,1,436.0,10.0,Western Australia,Wanneroo
+Pinjar,,0,100.0,53.13,Western Australia,Wanneroo
+Two Rocks,1.58,31,2995.0,15.21,Western Australia,Wanneroo
+Yanchep,1.11,51,8869.0,19.32,Western Australia,Wanneroo
+Hocking,0.28,7,5913.0,16.18,Western Australia,Wanneroo
+Pearsall,0.44,7,3864.0,23.68,Western Australia,Wanneroo
+Landsdale,0.38,18,12202.0,10.39,Western Australia,Wanneroo
+Madeley,0.24,6,6085.0,19.05,Western Australia,Wanneroo
+Darch,0.26,6,7079.0,14.02,Western Australia,Wanneroo
+Wanneroo,0.4,22,12068.0,20.3,Western Australia,Wanneroo
+Wungong,,0,342.0,18.18,Western Australia,Armadale
+Brookdale,0.6,7,2946.0,26.36,Western Australia,Armadale
+Ashendon,,0,17.0,,Western Australia,Armadale
+Lesley,,0,,,Western Australia,Armadale
+Camillo,0.42,8,4413.0,21.6,Western Australia,Armadale
+Champion Lakes,0.65,7,1121.0,22.18,Western Australia,Armadale
+Kelmscott,0.77,38,10462.0,23.31,Western Australia,Armadale
+Mount Nasura,0.39,5,2982.0,8.83,Western Australia,Armadale
+Mount Richon,0.32,3,1974.0,6.64,Western Australia,Armadale
+Bedfordale,0.2,2,2852.0,4.15,Western Australia,Armadale
+Roleystone,0.23,6,6631.0,5.91,Western Australia,Armadale
+Seville Grove,1.12,44,10268.0,19.97,Western Australia,Armadale
+Harrisdale,0.71,30,9077.0,17.13,Western Australia,Armadale
+Piara Waters,0.72,44,9119.0,14.64,Western Australia,Armadale
+Forrestdale,0.52,6,1074.0,17.96,Western Australia,Armadale
+East Victoria Park,0.94,47,10068.0,35.11,Western Australia,Victoria Park
+Carlisle,0.59,20,6474.0,37.15,Western Australia,Victoria Park
+Perth Airport,,0,,,Western Australia,Belmont
+Victoria Park,1.04,52,8779.0,42.45,Western Australia,Victoria Park
+Lathlain,0.47,8,3361.0,25.34,Western Australia,Victoria Park
+Burswood,1.43,23,2334.0,34.99,Western Australia,Victoria Park
+Cloverdale,0.68,31,8072.0,30.99,Western Australia,Belmont
+Kewdale,0.77,27,6893.0,29.66,Western Australia,Belmont
+Rivervale,1.49,98,10364.0,40.46,Western Australia,Belmont
+Bentley,1.1,51,8780.0,48.7,Western Australia,Canning
+Wilson,0.63,19,6378.0,33.45,Western Australia,Canning
+St James,1.17,28,4906.0,37.76,Western Australia,Canning
+Canning Vale,0.41,48,33059.0,15.97,Western Australia,Canning
+Cannington,0.78,26,5929.0,41.58,Western Australia,Canning
+Queens Park,0.45,13,6657.0,33.95,Western Australia,Canning
+Ferndale,0.38,8,4332.0,19.83,Western Australia,Canning
+Lynwood,0.78,13,3447.0,23.53,Western Australia,Canning
+Riverton,0.84,21,5639.0,25.34,Western Australia,Canning
+Shelley,0.94,19,4520.0,22.89,Western Australia,Canning
+Rossmoyne,0.19,3,3321.0,18.61,Western Australia,Canning
+Welshpool,,0,327.0,8.57,Victoria,South Gippsland
+Willetton,0.72,50,18182.0,18.35,Western Australia,Canning
+Beckenham,0.74,30,7521.0,26.58,Western Australia,Gosnells
+Kenwick,0.56,13,5688.0,23.52,Western Australia,Gosnells
+Langford,0.84,19,5671.0,29.28,Western Australia,Gosnells
+Gosnells,0.65,61,20293.0,25.45,Western Australia,Gosnells
+Southern River,0.51,24,10349.0,14.47,Western Australia,Gosnells
+Maddington,0.85,43,11374.0,25.02,Western Australia,Gosnells
+Orange Grove,,0,749.0,21.17,Western Australia,Gosnells
+Martin,0.45,3,1521.0,14.85,Western Australia,Gosnells
+Thornlie,0.48,45,23154.0,18.5,Western Australia,Gosnells
+Forrestfield,0.3,18,12697.0,21.23,Western Australia,Kalamunda
+High Wycombe,0.37,19,12307.0,18.49,Western Australia,Kalamunda
+Kalamunda,0.24,8,6969.0,13.14,Western Australia,Kalamunda
+Maida Vale,0.22,4,4498.0,10.73,Western Australia,Kalamunda
+Gooseberry Hill,0.29,4,3273.0,6.23,Western Australia,Kalamunda
+Lesmurdie,0.19,6,8440.0,10.56,Western Australia,Kalamunda
+Bickley,,0,678.0,5.44,Western Australia,Kalamunda
+Carmel,,0,775.0,11.26,Western Australia,Kalamunda
+Byford,0.8,62,14910.0,13.56,Western Australia,Serpentine-Jarrahdale
+Mundijong,0.4,2,1236.0,13.74,Western Australia,Serpentine-Jarrahdale
+Serpentine,0.19,2,2321.0,8.2,Western Australia,Serpentine-Jarrahdale
+Jarrahdale,0.19,1,1193.0,10.29,Western Australia,Serpentine-Jarrahdale
+Manning,0.28,5,4141.0,27.84,Western Australia,South Perth
+South Perth,1.12,85,12048.0,33.21,Western Australia,South Perth
+Banjup,0.24,2,2081.0,12.64,Western Australia,Cockburn
+Bibra Lake,0.12,3,5877.0,14.05,Western Australia,Cockburn
+Coolbellup,0.65,21,5324.0,32.74,Western Australia,Cockburn
+Hamilton Hill,0.43,25,10386.0,29.66,Western Australia,Cockburn
+Henderson,,0,17.0,,Western Australia,Cockburn
+North Coogee,0.93,18,2387.0,18.57,Western Australia,Cockburn
+South Lake,0.29,7,5866.0,22.77,Western Australia,Cockburn
+Cockburn Central,1.56,17,1265.0,42.06,Western Australia,Cockburn
+Spearwood,0.61,32,10032.0,24.81,Western Australia,Cockburn
+Success,0.45,20,10145.0,25.37,Western Australia,Cockburn
+Hammond Park,0.7,24,4886.0,22.14,Western Australia,Cockburn
+Yangebup,0.6,19,7480.0,18.05,Western Australia,Cockburn
+Beeliar,0.53,18,7450.0,19.52,Western Australia,Cockburn
+Wattleup,,0,457.0,26.14,Western Australia,Cockburn
+Jandakot,0.39,4,2662.0,12.66,Western Australia,Cockburn
+East Fremantle,0.46,16,7375.0,18.77,Western Australia,East Fremantle
+Fremantle,0.73,40,8211.0,32.15,Western Australia,Fremantle
+Bertram,0.74,16,6210.0,24.1,Western Australia,Kwinana
+Calista,0.5,5,1989.0,30.2,Western Australia,Kwinana
+Postans,,0,,,Western Australia,Kwinana
+Parmelia,1.1,30,6013.0,22.85,Western Australia,Kwinana
+Orelia,0.71,15,4700.0,26.11,Western Australia,Kwinana
+Casuarina,1.47,21,2682.0,21.93,New South Wales,Tweed
+Wandi,0.66,10,2850.0,17.52,Western Australia,Kwinana
+Applecross,1.05,41,6887.0,24.49,Western Australia,Melville
+Ardross,0.42,9,4235.0,18.46,Western Australia,Melville
+Bateman,0.62,9,3716.0,21.56,Western Australia,Melville
+Bicton,0.5,16,6575.0,21.88,Western Australia,Melville
+Palmyra,0.59,23,6954.0,25.13,Western Australia,Melville
+Booragoon,0.41,11,5525.0,16.55,Western Australia,Melville
+Bull Creek,0.32,11,7746.0,22.21,Western Australia,Melville
+Leeming,0.32,13,10725.0,11.67,Western Australia,Melville
+Melville,0.44,12,5696.0,16.36,Western Australia,Melville
+Murdoch,0.53,7,3524.0,28.82,Western Australia,Melville
+Kardinya,0.5,20,8741.0,18.33,Western Australia,Melville
+Willagee,0.48,13,4874.0,33.85,Western Australia,Melville
+Winthrop,0.37,8,5909.0,9.22,Western Australia,Melville
+Cooloongup,0.62,18,6744.0,23.83,Western Australia,Rockingham
+Port Kennedy,0.53,27,13781.0,22.48,Western Australia,Rockingham
+Rockingham,0.89,77,14432.0,28.73,Western Australia,Rockingham
+Safety Bay,0.63,22,7406.0,17.87,Western Australia,Rockingham
+Shoalwater,0.7,17,4104.0,27.12,Western Australia,Rockingham
+Golden Bay,1.12,27,3786.0,17.45,Western Australia,Rockingham
+Secret Harbour,0.54,23,12071.0,20.02,Western Australia,Rockingham
+Waikiki,0.39,20,12398.0,20.88,Western Australia,Rockingham
+Warnbro,0.81,36,10765.0,22.98,Western Australia,Rockingham
+Baldivis,1.1,178,31649.0,20.88,Western Australia,Rockingham
+Karnup,2.01,15,1377.0,12.8,Western Australia,Rockingham
+Albany,0.48,4,1320.0,27.52,Western Australia,Albany
+Bayonet Head,0.26,4,2959.0,21.65,Western Australia,Albany
+Lower King,0.12,1,1834.0,12.84,Western Australia,Albany
+Denmark,0.26,4,2635.0,27.16,Western Australia,Denmark
+Gnowangerup,0.31,1,594.0,28.47,Western Australia,Gnowangerup
+Katanning,0.29,5,3683.0,27.86,Western Australia,Katanning
+Kojonup,0.24,2,1298.0,22.77,Western Australia,Kojonup
+Little Grove,0.3,2,1500.0,14.86,Western Australia,Albany
+Elleker,,0,370.0,7.83,Western Australia,Albany
+McKail,0.07,1,3445.0,22.77,Western Australia,Albany
+Willyung,,0,573.0,20.81,Western Australia,Albany
+Stirling Range National Park,,0,,,Western Australia,Plantagenet
+Chittering,,0,924.0,7.94,Western Australia,Chittering
+Cunderdin,0.2,1,876.0,26.7,Western Australia,Cunderdin
+Dowerin,,0,464.0,23.13,Western Australia,Dowerin
+Gingin,0.5,2,854.0,21.18,Western Australia,Gingin
+Dandaragan,,0,347.0,15.84,Western Australia,Dandaragan
+Merredin,,0,2845.0,28.18,Western Australia,Merredin
+Moora,,0,1778.0,23.42,Western Australia,Moora
+Mukinbudin,,0,353.0,26.11,Western Australia,Mukinbudin
+Northam,0.28,9,6545.0,25.97,Western Australia,Northam
+Toodyay,0.13,1,1409.0,18.68,Western Australia,Toodyay
+York,0.07,1,2534.0,18.32,Western Australia,York
+Brookton,,0,750.0,20.0,Western Australia,Brookton
+Kulin,,0,365.0,26.56,Western Australia,Kulin
+Murray,,0,,,Queensland,Townsville
+Narrogin,,0,4279.0,27.64,Western Australia,Narrogin
+Wagin,0.12,1,1488.0,19.28,Western Australia,Wagin
+Broome,0.99,22,4041.0,37.93,Western Australia,Broome
+Derby,0.32,6,3509.0,40.57,Western Australia,Derby-West Kimberley
+Halls Creek,,0,1495.0,52.27,Western Australia,Halls Creek
+Kununurra,0.19,6,5304.0,38.9,Western Australia,Wyndham-East Kimberley
+Roebuck,,0,516.0,9.39,Western Australia,Broome
+Newman,1.6,44,7241.0,47.34,Western Australia,East Pilbara
+Port Hedland,1.88,47,4178.0,49.52,Western Australia,Port Hedland
+South Hedland,1.56,83,9471.0,45.98,Western Australia,Port Hedland
+Karratha,2.41,2,79.0,33.87,Western Australia,Karratha
+Roebourne,,0,975.0,46.56,Western Australia,Karratha
+Esperance,0.08,1,2144.0,35.83,Western Australia,Esperance
+Carnarvon,,0,204.0,27.7,Western Australia,Carnarvon
+Exmouth,0.22,4,2515.0,25.16,Western Australia,Exmouth
+Boulder,1.08,25,4831.0,27.83,Western Australia,Kalgoorlie/Boulder
+Kalgoorlie,1.24,24,3906.0,36.79,Western Australia,Kalgoorlie/Boulder
+Coolgardie,0.88,4,877.0,22.88,Western Australia,Coolgardie
+Norseman,,0,582.0,16.64,Western Australia,Dundas
+Leinster,,0,578.0,39.06,Western Australia,Leonora
+Leonora,,0,782.0,32.79,Western Australia,Leonora
+Geraldton,0.55,10,3149.0,34.07,Western Australia,Greater Geraldton
+Irwin,,0,84.0,7.84,Western Australia,Irwin
+Meekatharra,,0,714.0,33.53,Western Australia,Meekatharra
+Morawa,,0,534.0,28.97,Western Australia,Morawa
+Northampton,,0,812.0,16.84,Western Australia,Northampton
+Mullewa,0.36,1,447.0,27.97,Western Australia,Greater Geraldton
+Greenough,,0,281.0,9.49,Western Australia,Greater Geraldton
+Bridgewater,0.48,10,4043.0,46.29,Tasmania,Brighton
+Gagebrook,1.06,7,1436.0,61.95,Tasmania,Brighton
+Brighton,1.09,133,23256.0,21.03,Victoria,Bayside
+Pontville,0.42,1,615.0,8.04,Tasmania,Brighton
+Old Beach,0.36,7,3776.0,11.72,Tasmania,Brighton
+Otago,0.78,2,555.0,2.75,Tasmania,Clarence
+Bellerive,0.45,11,4500.0,25.27,Tasmania,Clarence
+Rosny,0.54,2,768.0,15.65,Tasmania,Clarence
+Cambridge,0.24,2,1160.0,11.4,Tasmania,Clarence
+Geilston Bay,0.47,8,3050.0,16.24,Tasmania,Clarence
+Risdon,,0,292.0,12.59,Tasmania,Clarence
+Howrah,0.37,16,8684.0,16.55,Tasmania,Clarence
+Tranmere,0.83,16,3755.0,26.33,South Australia,Campbelltown
+Lindisfarne,0.55,17,6181.0,22.12,Tasmania,Clarence
+Warrane,0.55,7,2433.0,43.89,Tasmania,Clarence
+Risdon Vale,0.37,5,2869.0,27.35,Tasmania,Clarence
+Rokeby,0.82,20,3376.0,36.97,Tasmania,Clarence
+South Arm,,0,885.0,11.3,Tasmania,Clarence
+Austins Ferry,0.25,3,2254.0,21.02,Tasmania,Glenorchy
+Granton,,0,1732.0,10.73,Tasmania,Derwent Valley
+Berriedale,0.63,8,2693.0,25.81,Tasmania,Glenorchy
+Chigwell,0.29,3,2003.0,30.93,Tasmania,Glenorchy
+Derwent Park,0.29,1,655.0,33.77,Tasmania,Glenorchy
+Lutana,0.67,8,2356.0,30.76,Tasmania,Glenorchy
+Glenorchy,0.74,41,10830.0,36.89,Tasmania,Glenorchy
+Rosetta,0.5,6,2729.0,24.08,Tasmania,Glenorchy
+Moonah,0.45,12,5420.0,32.13,Tasmania,Glenorchy
+New Norfolk,0.35,10,5432.0,30.35,Tasmania,Derwent Valley
+West Moonah,0.79,15,4011.0,32.4,Tasmania,Glenorchy
+Huntingfield,0.84,2,433.0,20.38,Tasmania,Kingborough
+Kingston Beach,0.19,2,1995.0,21.45,Tasmania,Kingborough
+Blackmans Bay,0.36,12,7143.0,18.86,Tasmania,Kingborough
+Snug,0.53,3,1205.0,19.43,Tasmania,Kingborough
+Taroona,0.38,5,3070.0,15.57,Tasmania,Kingborough
+Bonnet Hill,,0,509.0,4.76,Tasmania,Kingborough
+Hobart,2.31,42,2292.0,50.47,Tasmania,Hobart
+Lenah Valley,0.54,16,5940.0,21.5,Tasmania,Hobart
+Mount Stuart,0.88,10,2392.0,21.99,Tasmania,Hobart
+Mount Nelson,0.5,6,2495.0,23.56,Tasmania,Hobart
+Dynnyrne,1.47,9,1576.0,28.73,Tasmania,Hobart
+New Town,0.59,19,6123.0,34.17,Tasmania,Hobart
+Sandy Bay,0.89,50,11919.0,30.43,Tasmania,Hobart
+South Hobart,0.61,16,5313.0,28.95,Tasmania,Hobart
+Fern Tree,1.25,4,725.0,8.0,Tasmania,Hobart
+West Hobart,0.67,20,5956.0,31.2,Tasmania,Hobart
+Dodges Ferry,0.15,2,2470.0,15.43,Tasmania,Sorell
+Sorell,0.58,11,2905.0,23.39,Tasmania,Sorell
+Kings Meadows,0.74,15,3673.0,27.57,Tasmania,Launceston
+Launceston,2.85,54,2944.0,36.57,Tasmania,Launceston
+Legana,0.71,15,4027.0,13.8,Tasmania,West Tamar
+Mowbray,1.21,21,3730.0,42.43,Tasmania,Launceston
+Newnham,1.09,31,6451.0,31.87,Tasmania,Launceston
+Prospect Vale,0.22,6,5067.0,22.7,Tasmania,Meander Valley
+Blackstone,0.4,2,1025.0,23.7,Queensland,Ipswich
+Ravenswood,0.71,13,3621.0,42.66,Tasmania,Launceston
+Riverside,0.79,26,6466.0,21.9,Tasmania,West Tamar
+South Launceston,1.46,36,4592.0,37.74,Tasmania,Launceston
+Summerhill,0.55,8,3130.0,25.27,Tasmania,Launceston
+Trevallyn,0.93,20,4555.0,21.08,Tasmania,West Tamar
+Waverley,1.72,33,4346.0,40.07,New South Wales,Waverley
+West Launceston,1.19,25,4208.0,25.43,Tasmania,Launceston
+Youngtown,0.46,10,4054.0,20.85,Tasmania,Launceston
+Relbia,,0,675.0,6.58,Tasmania,Launceston
+Beauty Point,,0,1219.0,16.01,Tasmania,West Tamar
+Deloraine,0.52,8,2850.0,25.95,Tasmania,Meander Valley
+Grindelwald,,0,966.0,3.17,Tasmania,West Tamar
+Lanena,,0,316.0,16.22,Tasmania,West Tamar
+Hadspen,0.43,5,2273.0,17.23,Tasmania,Meander Valley
+Carrick,0.28,1,559.0,8.05,Tasmania,Meander Valley
+Westbury,0.42,5,2012.0,19.66,Tasmania,Meander Valley
+Dilston,0.45,1,531.0,6.22,Tasmania,Launceston
+George Town,1.37,32,4349.0,32.33,Tasmania,George Town
+Perth,2.2,187,11426.0,43.26,Western Australia,Perth
+Evandale,0.6,4,1373.0,31.18,South Australia,Norwood Payneham St Peters
+St Helens,0.7,10,2065.0,22.52,Tasmania,Break O'Day
+Scamander,0.56,3,643.0,11.92,Tasmania,Break O'Day
+Scottsdale,0.43,5,2370.0,24.13,Tasmania,Dorset
+Bridport,0.31,4,1569.0,13.77,Tasmania,Dorset
+Kettering,,0,800.0,13.01,Tasmania,Kingborough
+Cygnet,0.12,1,1559.0,20.7,Tasmania,Huon Valley
+Geeveston,0.29,2,1302.0,12.83,Tasmania,Huon Valley
+Dover,0.82,5,862.0,14.9,Tasmania,Huon Valley
+Huonville,0.66,9,2713.0,25.57,Tasmania,Huon Valley
+Franklin,1.82,49,6416.0,38.9,Australian Capital Territory,ACT
+Triabunna,0.69,4,875.0,22.48,Tasmania,Glamorgan/Spring Bay
+Bicheno,0.62,6,942.0,12.21,Tasmania,Glamorgan/Spring Bay
+Acton,,0,2088.0,,Australian Capital Territory,ACT
+Upper Burnie,0.28,3,1824.0,33.43,Tasmania,Burnie
+Burnie,1.91,9,603.0,34.18,Tasmania,Burnie
+Wivenhoe,0.95,1,224.0,34.69,Tasmania,Burnie
+Parklands,0.66,3,850.0,21.94,Tasmania,Burnie
+Camdale,,0,73.0,37.14,Tasmania,Burnie
+Penguin,0.41,8,3853.0,18.22,Tasmania,Central Coast
+Sulphur Creek,0.3,1,630.0,17.04,Tasmania,Central Coast
+Romaine,0.53,4,1707.0,18.71,Tasmania,Burnie
+Havenview,0.29,1,715.0,22.49,Tasmania,Burnie
+Somerset,0.29,6,3896.0,23.64,Tasmania,Waratah/Wynyard
+Ulverstone,0.21,7,6464.0,24.86,Tasmania,Central Coast
+West Ulverstone,0.19,4,4188.0,24.87,Tasmania,Central Coast
+Wynyard,0.5,17,6002.0,25.86,Tasmania,Waratah/Wynyard
+Devonport,0.6,43,13763.0,31.56,Tasmania,Devonport
+East Devonport,0.41,9,4052.0,36.4,Tasmania,Devonport
+Latrobe,0.41,10,4166.0,25.08,Tasmania,Latrobe
+Miandetta,0.76,6,1848.0,22.82,Tasmania,Devonport
+Don,,0,641.0,12.18,Tasmania,Devonport
+Port Sorell,0.44,5,2022.0,16.36,Tasmania,Latrobe
+Quoiba,,0,423.0,12.87,Tasmania,Devonport
+Spreyton,0.22,2,1670.0,15.79,Tasmania,Devonport
+Sheffield,0.13,1,1548.0,22.62,Tasmania,Kentish
+Railton,0.42,2,993.0,13.9,Tasmania,Kentish
+Turners Beach,0.22,2,1717.0,15.33,Tasmania,Central Coast
+Forth,0.6,2,718.0,11.61,Tasmania,Central Coast
+Smithton,0.43,8,3883.0,26.9,Tasmania,Circular Head
+Darwin City,3.15,137,6464.0,50.18,Northern Territory,Darwin
+East Point,,0,13.0,,Northern Territory,Darwin
+Fannie Bay,1.81,25,2625.0,34.72,Northern Territory,Darwin
+The Gardens,0.26,1,733.0,55.74,Northern Territory,Darwin
+Larrakeyah,1.88,35,3731.0,49.56,Northern Territory,Darwin
+Ludmilla,0.62,4,1748.0,34.38,Northern Territory,Darwin
+The Narrows,1.17,4,600.0,41.58,Northern Territory,Darwin
+Parap,2.22,30,2746.0,50.81,Northern Territory,Darwin
+Stuart Park,1.81,38,4148.0,46.08,Northern Territory,Darwin
+Woolner,2.44,11,932.0,45.48,Northern Territory,Darwin
+Winnellie,,0,205.0,38.14,Northern Territory,Darwin
+Alawa,0.63,5,2133.0,27.5,Northern Territory,Darwin
+Anula,0.35,3,2368.0,22.91,Northern Territory,Darwin
+Berrimah,0.55,4,785.0,27.99,Northern Territory,Darwin
+Brinkin,1.26,5,1274.0,35.0,Northern Territory,Darwin
+Nakara,1.05,7,1978.0,29.94,Northern Territory,Darwin
+Buffalo Creek,,0,,,Northern Territory,Darwin
+Charles Darwin,,0,,,Northern Territory,NT
+Coconut Grove,0.77,12,3057.0,45.85,Northern Territory,Darwin
+Jingili,0.59,4,1755.0,21.36,Northern Territory,Darwin
+Karama,0.56,10,4946.0,32.44,Northern Territory,Darwin
+Leanyer,0.48,9,4577.0,31.84,Northern Territory,Darwin
+Malak,0.5,6,2997.0,30.82,Northern Territory,Darwin
+Marrara,0.41,3,1548.0,23.39,Northern Territory,Darwin
+Millner,0.42,5,2548.0,38.18,Northern Territory,Darwin
+Moil,0.41,3,1998.0,28.65,Northern Territory,Darwin
+Nightcliff,1.37,29,3851.0,45.14,Northern Territory,Darwin
+Rapid Creek,2.05,32,3277.0,40.5,Northern Territory,Darwin
+Tiwi,0.42,4,2563.0,34.04,Northern Territory,Darwin
+Wagaman,0.82,6,2164.0,33.33,Northern Territory,Darwin
+Wanguri,0.3,2,1874.0,25.62,Northern Territory,Darwin
+Wulagi,0.23,2,2435.0,27.15,Northern Territory,Darwin
+Howard Springs,0.15,2,5139.0,14.88,Northern Territory,Litchfield
+Humpty Doo,0.11,2,4381.0,15.98,Northern Territory,Litchfield
+Koolpinyah,,0,,,Northern Territory,Litchfield
+Weddell,,0,66.0,13.79,Northern Territory,Litchfield
+Bakewell,0.3,4,3070.0,35.32,Northern Territory,Palmerston
+Driver,1.06,12,2882.0,36.52,Northern Territory,Palmerston
+Marlow Lagoon,0.38,1,723.0,10.67,Northern Territory,Palmerston
+Gray,0.49,7,3281.0,39.42,Northern Territory,Palmerston
+Moulden,0.79,10,2960.0,38.13,Northern Territory,Palmerston
+Palmerston,1.01,22,5523.0,27.48,Australian Capital Territory,ACT
+Bellamack,1.5,15,2467.0,51.34,Northern Territory,Palmerston
+Woodroffe,0.62,8,3234.0,34.93,Northern Territory,Palmerston
+East Side,0.44,6,2921.0,34.06,Northern Territory,Alice Springs
+Larapinta,0.31,3,2270.0,32.49,Northern Territory,Alice Springs
+Mount Johns,0.45,2,552.0,55.04,Northern Territory,Alice Springs
+Petermann,,0,184.0,9.27,Northern Territory,MacDonnell
+Simpson,0.38,1,573.0,20.85,Victoria,Corangamite
+Ross,0.26,2,710.0,17.38,Northern Territory,Alice Springs
+Sandover,,0,636.0,39.62,Northern Territory,Barkly
+Tanami,,0,374.0,41.21,Western Australia,Halls Creek
+Yuendumu,,0,764.0,66.34,Northern Territory,Central Desert
+Anmatjere,,0,484.0,38.94,Northern Territory,Central Desert
+Barkly,,0,44.0,,Victoria,Pyrenees
+Tennant Creek,0.31,5,2997.0,40.69,Northern Territory,Barkly
+Thamarrurr,,0,198.0,42.86,Northern Territory,West Daly
+Tiwi Islands,,0,121.0,47.14,Northern Territory,Tiwi Islands
+West Arnhem,,0,680.0,27.65,Northern Territory,West Arnhem
+Anindilyakwa,,0,116.0,20.59,Northern Territory,East Arnhem
+East Arnhem,,0,1007.0,41.79,Northern Territory,East Arnhem
+Nhulunbuy,0.06,1,3236.0,60.15,Northern Territory,East Arnhem
+Elsey,,0,40.0,17.14,Northern Territory,Roper Gulf
+Katherine,1.02,7,1493.0,40.34,Northern Territory,Katherine
+Victoria River,,0,148.0,28.77,Northern Territory,Victoria Daly
+Aranda,0.5,5,2398.0,17.22,Australian Capital Territory,ACT
+Belconnen,2.17,104,6654.0,57.88,Australian Capital Territory,ACT
+Bruce,1.5,49,6999.0,51.32,Australian Capital Territory,ACT
+Charnwood,0.31,4,2974.0,28.12,Australian Capital Territory,ACT
+Cook,0.67,9,2807.0,22.21,Australian Capital Territory,ACT
+Dunlop,0.27,7,7197.0,17.69,Australian Capital Territory,ACT
+Evatt,0.57,12,5325.0,18.75,Australian Capital Territory,ACT
+Florey,0.86,17,4765.0,32.48,Australian Capital Territory,ACT
+Giralang,0.51,7,3317.0,19.57,Australian Capital Territory,ACT
+Hawker,0.93,12,2954.0,23.29,Australian Capital Territory,ACT
+Higgins,0.43,6,3072.0,19.25,Australian Capital Territory,ACT
+Holt,0.76,20,4619.0,26.28,Australian Capital Territory,ACT
+Kaleen,0.59,18,7271.0,20.28,Australian Capital Territory,ACT
+Latham,0.4,6,3635.0,18.61,Australian Capital Territory,ACT
+Macquarie,1.23,18,2703.0,39.01,Australian Capital Territory,ACT
+McKellar,0.39,4,2746.0,19.28,Australian Capital Territory,ACT
+Melba,0.47,6,3144.0,19.59,Australian Capital Territory,ACT
+Page,0.66,9,3020.0,35.43,Australian Capital Territory,ACT
+Scullin,0.54,7,2934.0,30.54,Australian Capital Territory,ACT
+Spence,0.1,1,2582.0,20.14,Australian Capital Territory,ACT
+Weetangera,0.28,3,2578.0,13.29,Australian Capital Territory,ACT
+Hume,,0,,,Australian Capital Territory,ACT
+Canberra Airport,,0,100.0,93.75,Australian Capital Territory,ACT
+Amaroo,1.03,22,5709.0,22.69,Australian Capital Territory,ACT
+Bonner,1.19,26,6730.0,26.48,Australian Capital Territory,ACT
+Casey,0.91,22,5756.0,23.16,Australian Capital Territory,ACT
+Crace,1.25,21,4458.0,29.48,Australian Capital Territory,ACT
+Forde,0.55,8,4313.0,21.08,Australian Capital Territory,ACT
+Gungahlin,1.41,61,6138.0,49.46,Australian Capital Territory,ACT
+Hall,,0,275.0,16.94,Australian Capital Territory,ACT
+Harrison,1.58,46,7688.0,39.88,Australian Capital Territory,ACT
+Mitchell,,0,1310.0,56.05,New South Wales,Bathurst Regional
+Ngunnawal,0.74,31,10483.0,26.23,Australian Capital Territory,ACT
+Nicholls,0.49,12,6868.0,15.23,Australian Capital Territory,ACT
+Jacka,0.93,5,666.0,19.34,Australian Capital Territory,ACT
+Moncrieff,21.11,19,103.0,,Australian Capital Territory,ACT
+Throsby,,8,,,Australian Capital Territory,ACT
+Ainslie,0.86,20,5186.0,33.48,Australian Capital Territory,ACT
+Braddon,2.73,127,5504.0,56.76,Australian Capital Territory,ACT
+Dickson,2.64,58,2150.0,44.37,Australian Capital Territory,ACT
+Downer,1.24,22,3660.0,34.14,Australian Capital Territory,ACT
+Hackett,1.37,18,2997.0,23.55,Australian Capital Territory,ACT
+Lyneham,1.7,53,5114.0,45.46,Australian Capital Territory,ACT
+Turner,2.22,60,4048.0,52.91,Australian Capital Territory,ACT
+Watson,1.32,44,5864.0,36.26,Australian Capital Territory,ACT
+Black Mountain,,0,1439.0,10.72,Queensland,Noosa
+Campbell,2.32,62,5003.0,32.56,Australian Capital Territory,ACT
+Reid,2.37,37,1634.0,45.31,Australian Capital Territory,ACT
+Deakin,1.09,15,2873.0,21.6,Australian Capital Territory,ACT
+Forrest,2.32,23,1612.0,25.31,Australian Capital Territory,ACT
+Narrabundah,0.96,30,5964.0,35.26,Australian Capital Territory,ACT
+Yarralumla,1.39,20,2892.0,21.51,Australian Capital Territory,ACT
+Barton,2.43,27,1436.0,39.73,Australian Capital Territory,ACT
+Fyshwick,,0,58.0,100.0,Australian Capital Territory,ACT
+Banks,0.27,5,4968.0,18.5,Australian Capital Territory,ACT
+Bonython,0.64,10,3784.0,29.6,Australian Capital Territory,ACT
+Calwell,0.51,11,5758.0,17.53,Australian Capital Territory,ACT
+Chisholm,0.45,9,5123.0,18.52,Australian Capital Territory,ACT
+Conder,,0,5058.0,18.96,Australian Capital Territory,ACT
+Fadden,0.54,6,2950.0,7.19,Australian Capital Territory,ACT
+Gilmore,0.68,7,2750.0,24.49,Australian Capital Territory,ACT
+Greenway,1.83,45,1890.0,44.51,Australian Capital Territory,ACT
+Isabella Plains,0.29,5,4401.0,20.95,Australian Capital Territory,ACT
+Kambah,0.3,19,14899.0,20.32,Australian Capital Territory,ACT
+Macarthur,,0,1430.0,9.51,Australian Capital Territory,ACT
+Monash,0.22,5,5434.0,19.85,Australian Capital Territory,ACT
+Mount Taylor,,0,290.0,11.9,Victoria,East Gippsland
+Richardson,0.34,4,3009.0,23.27,Australian Capital Territory,ACT
+Theodore,0.28,4,3804.0,18.0,Australian Capital Territory,ACT
+Wanniassa,0.32,10,7510.0,19.72,Australian Capital Territory,ACT
+Chapman,0.55,6,2683.0,10.14,Australian Capital Territory,ACT
+Duffy,0.3,4,3166.0,18.92,Australian Capital Territory,ACT
+Fisher,0.68,9,3005.0,16.85,Australian Capital Territory,ACT
+Holder,0.76,9,2609.0,18.81,Australian Capital Territory,ACT
+Rivett,0.5,7,3189.0,24.14,Australian Capital Territory,ACT
+Waramanga,0.33,4,2630.0,27.12,Australian Capital Territory,ACT
+Weston,0.49,8,3690.0,23.33,New South Wales,Cessnock
+Curtin,0.85,19,5231.0,23.39,Australian Capital Territory,ACT
+Farrer,0.96,14,3225.0,18.58,Australian Capital Territory,ACT
+Garran,1.4,20,3495.0,28.81,Australian Capital Territory,ACT
+Hughes,1.11,14,2989.0,22.49,Australian Capital Territory,ACT
+Isaacs,1.1,11,2341.0,18.15,Australian Capital Territory,ACT
+Mawson,1.1,18,3251.0,35.13,Australian Capital Territory,ACT
+O'Malley,1.66,6,991.0,7.12,Australian Capital Territory,ACT
+Pearce,1.19,14,2577.0,24.53,Australian Capital Territory,ACT
+Phillip,4.22,149,2935.0,50.55,Australian Capital Territory,ACT
+Torrens,1.17,11,2205.0,23.73,Australian Capital Territory,ACT
+Coombs,1.4,35,1806.0,12.39,Australian Capital Territory,ACT
+Denman Prospect,,55,,,Australian Capital Territory,ACT
+Wright,1.61,30,2758.0,18.83,Australian Capital Territory,ACT
+Christmas Island,,0,1845.0,40.52,Other Territories,Unincorp. Other Territories
+Jervis Bay,,0,392.0,61.86,Other Territories,Unincorp. Other Territories
+Norfolk Island,,0,1745.0,20.65,Other Territories,Unincorp. Other Territories
+East Jindabyne,2.18,12,699.0,15.8,New South Wales,Snowy Monaro Regional
+North Batemans Bay,0.65,3,564.0,16.42,New South Wales,Eurobodalla
+North Narooma,,0,620.0,12.21,New South Wales,Eurobodalla
+North Gosford,0.81,19,3695.0,38.9,New South Wales,Central Coast
+East Gosford,0.71,16,4237.0,35.55,New South Wales,Central Coast
+West Gosford,1.29,12,1333.0,40.85,New South Wales,Central Coast
+South Springfield,,0,25.0,42.86,Tasmania,Dorset
+South Bathurst,1.05,8,1584.0,31.34,New South Wales,Bathurst Regional
+West Bathurst,1.16,20,3677.0,31.67,New South Wales,Bathurst Regional
+South Grafton,0.83,24,6069.0,29.48,New South Wales,Clarence Valley
+South Maclean,0.85,11,1360.0,11.3,Queensland,Logan
+North Dorrigo,,0,187.0,10.31,New South Wales,Bellingen
+North Bourke,,0,285.0,8.88,New South Wales,Bourke
+East Branxton,1.37,10,1810.0,30.67,New South Wales,Cessnock
+South Maitland,1.19,3,467.0,20.63,New South Wales,Maitland
+East Seaham,0.67,1,326.0,15.6,New South Wales,Port Stephens
+East Corrimal,0.78,13,3404.0,35.29,New South Wales,Wollongong
+North Wollongong,2.42,31,2602.0,51.79,New South Wales,Wollongong
+West Wollongong,1.6,35,4827.0,32.3,New South Wales,Wollongong
+East Kempsey,0.63,4,1358.0,29.7,New South Wales,Kempsey
+South Kempsey,0.82,9,2305.0,25.13,New South Wales,Kempsey
+West Kempsey,0.58,13,4922.0,35.06,New South Wales,Kempsey
+North Macksville,,0,597.0,15.3,New South Wales,Nambucca
+North Albury,1.51,46,6058.0,31.42,New South Wales,Albury
+East Albury,1.25,39,6097.0,29.03,New South Wales,Albury
+South Albury,1.58,15,1380.0,45.37,New South Wales,Albury
+West Albury,1.24,22,3853.0,26.68,New South Wales,Albury
+North Tamworth,1.91,57,5141.0,34.46,New South Wales,Tamworth Regional
+East Tamworth,1.11,29,5341.0,27.6,New South Wales,Tamworth Regional
+South Tamworth,1.26,42,6562.0,37.57,New South Wales,Tamworth Regional
+West Tamworth,1.28,34,5199.0,40.28,New South Wales,Tamworth Regional
+South Dudley,0.41,1,458.0,23.48,Victoria,Bass Coast
+East Ballina,0.67,19,5567.0,26.58,New South Wales,Ballina
+South Ballina,,0,37.0,,New South Wales,Ballina
+West Ballina,0.66,10,3020.0,26.33,New South Wales,Ballina
+North Casino,,0,949.0,4.73,New South Wales,Richmond Valley
+North Lismore,,0,774.0,20.92,New South Wales,Lismore
+East Lismore,1.07,25,4988.0,33.79,New South Wales,Lismore
+South Lismore,0.71,6,1876.0,28.86,New South Wales,Lismore
+South Murwillumbah,,0,1121.0,27.39,New South Wales,Tweed
+South Gundagai,0.74,3,812.0,18.62,New South Wales,Gundagai
+North Wagga Wagga,0.96,3,718.0,15.17,New South Wales,Wagga Wagga
+East Wagga Wagga,1.46,2,236.0,24.53,New South Wales,Wagga Wagga
+South Nowra,1.31,15,1929.0,23.51,New South Wales,Shoalhaven
+West Nowra,0.7,5,1412.0,35.09,New South Wales,Shoalhaven
+Central Colo,,0,31.0,,New South Wales,Hawkesbury
+West Croydon,0.5,9,4135.0,24.36,South Australia,Charles Sturt
+North Willoughby,1.38,23,4180.0,28.33,New South Wales,Willoughby
+East Killara,1.0,10,2977.0,12.99,New South Wales,Ku-ring-gai
+East Lindfield,1.59,20,3714.0,14.32,New South Wales,Ku-ring-gai
+West Pymble,1.04,19,5297.0,10.99,New South Wales,Ku-ring-gai
+North Turramurra,0.29,5,4258.0,10.78,New South Wales,Ku-ring-gai
+South Turramurra,0.47,5,3087.0,8.87,New South Wales,Ku-ring-gai
+North Balgowlah,0.33,4,3660.0,13.24,New South Wales,Northern Beaches
+North Manly,0.53,6,3087.0,15.63,New South Wales,Northern Beaches
+North Richmond,0.62,17,4978.0,28.47,New South Wales,Hawkesbury
+West Richmond,0.4,2,969.0,30.29,South Australia,West Torrens
+South Windsor,0.91,24,5896.0,40.49,New South Wales,Hawkesbury
+South Guildford,0.69,13,3316.0,16.34,Western Australia,Swan
+North Bendigo,1.76,39,4060.0,37.35,Victoria,Greater Bendigo
+West Bendigo,,0,376.0,18.63,Victoria,Greater Bendigo
+East Geelong,0.88,17,3863.0,25.41,Victoria,Greater Geelong
+South Geelong,1.51,9,991.0,33.41,Victoria,Greater Geelong
+North Wangaratta,,0,286.0,19.42,Victoria,Wangaratta
+East Wangaratta,,0,72.0,,Victoria,Wangaratta
+East Bairnsdale,0.51,4,1301.0,30.33,Victoria,East Gippsland
+North Wonthaggi,0.42,7,2801.0,17.87,Victoria,Bass Coast
+East Sale,,0,,,Victoria,Wellington
+South Preston,,0,10.0,,Tasmania,Central Coast
+North Lilydale,,0,82.0,,Tasmania,Launceston
+South Kingsville,1.47,18,1948.0,36.21,Victoria,Hobsons Bay
+East Trinity,,0,213.0,17.44,Queensland,Cairns
+East Innisfail,0.35,3,1854.0,34.06,Queensland,Cassowary Coast
+South Innisfail,,0,509.0,23.14,Queensland,Cassowary Coast
+North Johnstone,,0,75.0,,Queensland,Tablelands
+South Johnstone,,0,420.0,20.31,Queensland,Cassowary Coast
+East Greenmount,,0,363.0,14.97,Queensland,Toowoomba
+West Rockhampton,0.65,6,1829.0,28.91,Queensland,Rockhampton
+South Gladstone,1.86,35,3300.0,35.45,Queensland,Gladstone
+East Ipswich,0.62,7,2408.0,34.34,Queensland,Ipswich
+West Ipswich,1.17,3,494.0,44.34,Queensland,Ipswich
+North Tivoli,,0,100.0,38.1,Queensland,Ipswich
+South Ripley,1.66,25,713.0,23.28,Queensland,Ipswich
+North Eton,,0,186.0,20.24,Queensland,Mackay
+South Golden Beach,0.71,3,817.0,26.36,New South Wales,Byron
+East Toowoomba,1.55,45,5245.0,33.59,Queensland,Toowoomba
+South Toowoomba,1.3,38,5226.0,38.3,Queensland,Toowoomba
+East Nanango,,0,259.0,5.93,Queensland,South Burnett
+South East Nanango,,0,292.0,10.37,Queensland,South Burnett
+South Nanango,0.19,1,861.0,13.24,Queensland,South Burnett
+South Stirling,,0,14.0,,Western Australia,Albany
+North Blackwood,,0,52.0,,Victoria,Hepburn
+East Beverley,,0,99.0,8.16,Western Australia,Beverley
+West Hindmarsh,0.4,3,1532.0,32.96,South Australia,Charles Sturt
+North Plympton,0.18,3,3224.0,32.01,South Australia,West Torrens
+South Plympton,0.83,20,4176.0,27.91,South Australia,Marion
+North Moonta,0.24,1,541.0,20.6,South Australia,Copper Coast
+East Moonta,,0,151.0,10.53,South Australia,Copper Coast
+East Augusta,,0,28.0,,Western Australia,Augusta-Margaret River
+West Busselton,0.26,12,8520.0,26.63,Western Australia,Busselton
+West Pinjarra,,0,409.0,6.99,Western Australia,Murray
+East Cannington,0.54,14,5467.0,30.2,Western Australia,Canning
+North Fremantle,1.02,23,3338.0,26.79,Western Australia,Fremantle
+South Fremantle,0.56,10,3082.0,23.67,Western Australia,Fremantle
+East Rockingham,,0,263.0,14.61,Western Australia,Rockingham
+West Toodyay,,0,463.0,5.28,Western Australia,Toodyay
+East Carnarvon,0.57,3,904.0,20.45,Western Australia,Carnarvon
+South Carnarvon,0.2,1,972.0,28.99,Western Australia,Carnarvon
+South Boulder,0.76,5,1378.0,22.76,Western Australia,Kalgoorlie/Boulder
+South Kalgoorlie,1.16,24,4914.0,30.56,Western Australia,Kalgoorlie/Boulder
+West Kalgoorlie,,0,,,Western Australia,Kalgoorlie/Boulder
+South Greenough,,0,94.0,,Western Australia,Greater Geraldton
+North Brighton,0.28,3,2270.0,16.59,South Australia,Holdfast Bay
+South Brighton,0.46,6,2502.0,22.87,South Australia,Holdfast Bay
+North Hobart,1.41,23,2490.0,44.52,Tasmania,Hobart
+East Launceston,1.82,19,2141.0,26.19,Tasmania,Launceston
+West Perth,1.79,73,5606.0,46.35,Western Australia,Perth
+North Scottsdale,,0,123.0,,Tasmania,Dorset
+West Scottsdale,,0,61.0,12.5,Tasmania,Dorset
+South Burnie,1.02,2,338.0,19.23,Tasmania,Burnie
+South Spreyton,0.53,1,513.0,2.23,Tasmania,Kentish
+East Palmerston,,0,176.0,15.29,Queensland,Cassowary Coast
+East Russell,,0,70.0,2.97,Queensland,Cairns
+East Chapman,,0,41.0,100.0,Western Australia,Greater Geraldton
