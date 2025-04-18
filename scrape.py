@@ -1,5 +1,7 @@
 import requests
 import pandas as pd
+from functools import reduce
+import numpy as np
 from tqdm import tqdm
 import re
 import pickle
@@ -12,7 +14,8 @@ from datetime import datetime
 
 # load in global vars
 load_dotenv()
-uri = os.getenv('DATABASE_URL')
+scrape_url = os.getenv("SCRAPE_URL")
+uri = os.getenv("DATABASE_URL")
 
 def main():
     db = connect_to_db(uri)
@@ -22,7 +25,70 @@ def main():
     valid_suburbs = [sub.lower().replace(" ", "+") for sub in suburbs]
 
     # scrape
-    suburb_tables, suburb_other_data = scrape_tables_and_data(valid_suburbs)
+    tables, data = scrape_tables_and_data(valid_suburbs)
+
+    # clean data
+    df_suburbs, df_regions, df_states = clean_data(data)
+
+    # clean tables
+    
+
+def clean_data(data):
+    date_today = get_ym_today()
+
+    data_suburbs, data_regions, data_states = split_data(data)
+
+    df_suburbs = combine_clean_data(data_suburbs)
+    df_regions = combine_clean_data(data_regions)
+    df_states = combine_clean_data(data_states)
+
+    return df_suburbs, df_regions, df_states
+
+def combine_clean_data(data):
+    df_data = pd.concat(data, axis=1)
+    df_data.columns = df_data.iloc[0]
+    df_data = df_data.iloc[1:,:]
+    df_data = df_data.T
+    
+    if data[0].name == "region":
+        df_data.drop(columns=["region"], inplace=True)
+    elif data[0].name == "state":
+        df_data.drop(columns=["region", "state"], inplace=True)
+
+    df_data["vacancy_rate"] = df_data["vacancy_rate"].apply(lambda x: x.replace("%", ""))
+    df_data["rental_stock"] = df_data["rental_stock"].apply(lambda x: x.replace(",", ""))
+    df_data["population"] = df_data["population"].apply(lambda x: x.replace(",", ""))
+    df_data["rental_pop"] = df_data["rental_pop"].apply(lambda x: x.replace("%", ""))
+    df_data.iloc[:, :4] = df_data.iloc[:, :4].replace("NA", np.nan).apply(pd.to_numeric)
+    
+    return df_data.drop_duplicates()
+
+def split_data(data):
+    """Split data into suburb, region and state level."""
+    data_ = []
+    for x in data.values():
+        if len(x.columns) == 3:
+            x.loc["state"] = [x.loc["name", "state"]]*3
+            x.loc["region"] = [x.loc["name", "region"]]*3
+            data_.append(x)
+
+    data_suburbs = [x.iloc[:, 0] for x in data_]
+    data_regions = [x.iloc[:, 1] for x in data_]
+    data_states = [x.iloc[:, 2] for x in data_]
+
+    return data_suburbs, data_regions, data_states
+
+def get_ym_today():
+    # create dir path
+    now = datetime.today()
+
+    current_year = str(now.year)
+    current_month = str(now.month)
+
+    if len(current_month) < 2:
+        current_month = "0"+current_month
+
+    return datetime.strptime(current_year+current_month, "%Y%m")
 
 def scrape_tables_and_data(valid_suburbs):
     suburb_tables = {}
@@ -30,7 +96,7 @@ def scrape_tables_and_data(valid_suburbs):
 
     for suburb in tqdm(valid_suburbs, desc="Scraping"):
         # get html
-        page = requests.get(f'https://www.realestateinvestar.com.au/property/{suburb}')
+        page = requests.get(os.path.join(scrape_url, suburb))
         
         # save soup
         soup = BeautifulSoup(page.text, 'html.parser')
