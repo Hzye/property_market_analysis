@@ -23,6 +23,7 @@ def main():
     # use this to index
     suburbs = db["locations"].distinct("name")
     valid_suburbs = [sub.lower().replace(" ", "+") for sub in suburbs]
+    print(valid_suburbs)
 
     # scrape
     tables, data = scrape_tables_and_data(valid_suburbs)
@@ -31,9 +32,67 @@ def main():
     df_suburbs, df_regions, df_states = clean_data(data)
 
     # clean tables
+    df_houses, df_town_houses, df_units = clean_tables(suburbs, tables)
+
+def clean_tables(suburbs, tables):
+    """Clean tabular data from scraping."""
+    cols = get_table_cols(tables)
+
+    df_houses, df_town_houses, df_units  = separate_tables(cols, suburbs, tables)
+
+    df_houses = df_to_numeric(df_houses)
+    df_town_houses = df_to_numeric(df_town_houses)
+    df_units = df_to_numeric(df_units)
+
+    df_houses.index.name = "Suburb"
+    df_town_houses.index.name = "Suburb"
+    df_units.index.name = "Suburb"
+
+    return df_houses, df_town_houses, df_units
+
+def separate_tables(cols, suburbs, tables):
+    """Separate tabular data into property type."""
+    # init empty df
+    df_houses = pd.DataFrame(index=suburbs, columns=cols)
+    df_town_houses = pd.DataFrame(index=suburbs, columns=cols)
+    df_units = pd.DataFrame(index=suburbs, columns=cols)
+
+    for suburb in suburbs:
+        suburb_ = suburb.lower().replace(" ", "+")
+        df_sub_table = pd.concat([
+            tables[suburb_]["median"], 
+            tables[suburb_]["rental"], 
+            tables[suburb_]["sales"]
+        ])
+        
+        df_houses.loc[suburb, :] = df_sub_table["House"].values
+        df_town_houses.loc[suburb, :] = df_sub_table["Townhouses"].values
+        df_units.loc[suburb, :] = df_sub_table["Units"].values
+
+    return df_houses, df_town_houses, df_units
+
+def df_to_numeric(df):
+    """Convert table columns to numeric type."""
+    df = df.dropna(axis=1)
+    df = df.map(lambda x: x.replace("$", "").replace(",", "").replace("%", ""))
+    return df.map(pd.to_numeric, errors="coerce")
+
+def get_table_cols(tables):
+    """Get tabular data column headers."""
+    cols = list(tables["abbotsbury"]["median"]["Metric"].values) \
+        + list(tables["abbotsbury"]["rental"]["Metric"].values) \
+        + list(tables["abbotsbury"]["sales"]["Metric"].values)
     
+    cols[1] = "Median price change - last quarter (%)"
+    cols[2] = "Median price change - 1 year (%)"
+    cols[3] = "Median price change - 2 years (%)"
+    cols[6] = "Median rent change - 1 year (%)"
+    cols[-2] = "Stock variance vs. last year (%)"
+
+    return cols
 
 def clean_data(data):
+    """Clean other data (not tabular) from scrape."""
     date_today = get_ym_today()
 
     data_suburbs, data_regions, data_states = split_data(data)
@@ -45,6 +104,7 @@ def clean_data(data):
     return df_suburbs, df_regions, df_states
 
 def combine_clean_data(data):
+    """Combine non-tabular data into appropriate SA level."""
     df_data = pd.concat(data, axis=1)
     df_data.columns = df_data.iloc[0]
     df_data = df_data.iloc[1:,:]
@@ -79,6 +139,7 @@ def split_data(data):
     return data_suburbs, data_regions, data_states
 
 def get_ym_today():
+    """Get YYYYMM today."""
     # create dir path
     now = datetime.today()
 
@@ -91,6 +152,7 @@ def get_ym_today():
     return datetime.strptime(current_year+current_month, "%Y%m")
 
 def scrape_tables_and_data(valid_suburbs):
+    """Scrape tabular and non-tabular data."""
     suburb_tables = {}
     suburb_other_data = {}
 
@@ -107,6 +169,7 @@ def scrape_tables_and_data(valid_suburbs):
     return suburb_tables, suburb_other_data
 
 def scrape_tables(soup):
+    """Scrape tabular data."""
     # get all tables from soup
     tables = soup.find_all('table')
     
@@ -134,6 +197,7 @@ def scrape_tables(soup):
     return dfs
 
 def scrape_other_data(suburb, soup):
+    """Scrape non-tabular data."""
     other_data = {}
 
     paras = soup.find_all('p')
@@ -189,6 +253,7 @@ def scrape_other_data(suburb, soup):
     return other_data
 
 def connect_to_db(uri):
+    """Connect to db."""
     # establish db connection
     client = MongoClient(uri, server_api=ServerApi('1'))
 
