@@ -3,11 +3,8 @@ import pandas as pd
 from functools import reduce
 import numpy as np
 from tqdm import tqdm
-import re
-import pickle
 from bs4 import BeautifulSoup
-from pymongo.mongo_client import MongoClient
-from pymongo.server_api import ServerApi
+from database import connect_to_db, add_to_collection
 from dotenv import load_dotenv
 import os
 from datetime import datetime
@@ -33,6 +30,34 @@ def main():
 
     # clean tables
     df_houses, df_town_houses, df_units = clean_tables(suburbs, tables)
+
+    # add date
+    dfs = [
+        df_suburbs, df_regions, df_states,
+        df_houses, df_town_houses, df_units
+    ]
+    dfs = [add_date_col(df) for df in dfs]
+
+    # add files to collections
+    collection_names = [
+        "data_suburbs",
+        "data_regions",
+        "data_states",
+        "tables_houses",
+        "tables_town_houses",
+        "tables_units"
+    ]
+
+    for (collection_name, df) in zip(collection_names, dfs):
+        add_to_collection(db, collection_name, df)
+
+def add_date_col(df):
+    """Add date col to df."""
+    date_today = get_ym_today()
+
+    df["Date"] = date_today
+    return df[["Date"] + [x for x in df.columns if "Date" not in x]]
+
 
 def clean_tables(suburbs, tables):
     """Clean tabular data from scraping."""
@@ -93,7 +118,6 @@ def get_table_cols(tables):
 
 def clean_data(data):
     """Clean other data (not tabular) from scrape."""
-    date_today = get_ym_today()
 
     data_suburbs, data_regions, data_states = split_data(data)
 
@@ -251,22 +275,6 @@ def scrape_other_data(suburb, soup):
         other_data[sa]["rental_pop"] = rp
         
     return other_data
-
-def connect_to_db(uri):
-    """Connect to db."""
-    # establish db connection
-    client = MongoClient(uri, server_api=ServerApi('1'))
-
-    # ping
-    try:
-        client.admin.command('ping')
-        print("Connected to db.")
-    except Exception as e:
-        print(e)
-
-    # connect to db
-    db = client["aus_prop"]
-    return db
 
 if __name__ == '__main__':
     main()
