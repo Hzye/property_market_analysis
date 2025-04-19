@@ -15,7 +15,7 @@ scrape_url = os.getenv("SCRAPE_URL")
 uri = os.getenv("DATABASE_URL")
 
 def main():
-    db = connect_to_db(uri)
+    db = connect_to_db()
 
     # use this to index
     suburbs = db["locations"].distinct("name")
@@ -48,8 +48,8 @@ def main():
         "tables_units"
     ]
 
-    for (collection_name, df) in zip(collection_names, dfs):
-        add_to_collection(db, collection_name, df)
+    # for (collection_name, df) in zip(collection_names, dfs):
+    #     add_to_collection(db, collection_name, df)
 
 def add_date_col(df):
     """Add date col to df."""
