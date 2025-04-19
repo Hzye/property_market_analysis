@@ -18,7 +18,7 @@ def main():
     db = connect_to_db(uri)
 
     # use this to index
-    suburbs = db["locations"].distinct("name")[:3]
+    suburbs = db["locations"].distinct("name")
     valid_suburbs = [sub.lower().replace(" ", "+") for sub in suburbs]
     print(valid_suburbs)
 
