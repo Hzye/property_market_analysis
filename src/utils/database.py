@@ -1,7 +1,9 @@
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 from config import Config
+import streamlit as st
 
+@st.cache_resource
 def connect_to_db():
     """Connect to db."""
     # establish db connection
