@@ -1,0 +1,122 @@
+/* Custom styles for Streamlit app */
+
+/* Main app styling */
+header[data-testid="stHeader"] {
+    background-color: #004080;  /* Deep blue */
+}
+header[data-testid="stHeader"]::before {
+    content: "";
+    display: block;
+    height: 0px;
+    background: none;
+}
+header[data-testid="stHeader"] * {
+    color: #ffffff !important;       /* Text color */
+    stroke: #ffffff !important;      /* For line icons */
+}
+.stApp {
+    background: rgba(255,255,255,0.9);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Optional: Sidebar text color */
+section[data-testid="stSidebar"] * {
+    color: #333333 !important;
+}
+
+h1 {
+    color: #4b78e6;
+    margin-bottom: 0.5rem;
+}
+
+h2, h3, h4 {
+    color: #1f4287;
+    margin-top: 1rem;
+}
+
+.subtitle {
+    color: #e1e7ef;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+/* Card styling */
+.st-emotion-cache-1r6slb0 {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Metric styling */
+.st-emotion-cache-1vbkxwb p {
+    font-weight: bold;
+}
+
+/* Improve table styling */
+.st-emotion-cache-13q0vrt {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.st-emotion-cache-13q0vrt th {
+    background-color: #f1f5f9;
+    font-weight: 600;
+}
+
+/* Sidebar background */
+section[data-testid="stSidebar"] {
+    background-color: #b0b0c7;  /* light gray or your custom color */
+}
+/* Sidebar styling */
+.st-emotion-cache-16txtl3 {
+    padding: 2rem 1rem;
+    background-color: #e1e7ed;
+}
+/* Style sidebar page links */
+section[data-testid="stSidebar"] a {
+    color: #333 !important;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+    border-radius: 8px;
+    transition: background 0.2s;
+}
+
+/* Hover effect */
+section[data-testid="stSidebar"] a:hover {
+    background-color: #e0e0ff !important;
+    color: #000066 !important;
+}
+
+/* Active (current page) link */
+section[data-testid="stSidebar"] a:has(svg[aria-current="page"]) {
+    background-color: #004080 !important;
+    color: white !important;
+}
+/* Button styling */
+.st-bc {
+    background-color: #d7dcea !important;
+}
+
+.st-bc:hover {
+    background-color: #3a5ec0 !important;
+}
+
+/* Filter section styling */
+[data-testid="stExpander"] {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+/* Chart container styling */
+[data-testid="stVerticalBlock"] > [data-testid="stVerticalBlock"] > [style*="flex-direction: column"] > [data-testid="stVerticalBlock"] {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 1rem;
+}

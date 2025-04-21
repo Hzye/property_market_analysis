@@ -1,10 +1,9 @@
 import requests
 import pandas as pd
-from functools import reduce
 import numpy as np
 from tqdm import tqdm
 from bs4 import BeautifulSoup
-from database import connect_to_db, add_to_collection
+from src.utils.database import connect_to_db
 from dotenv import load_dotenv
 import os
 from datetime import datetime
@@ -20,7 +19,6 @@ def main():
     # use this to index
     suburbs = db["locations"].distinct("name")
     valid_suburbs = [sub.lower().replace(" ", "+") for sub in suburbs]
-    print(valid_suburbs)
 
     # scrape
     tables, data = scrape_tables_and_data(valid_suburbs)
