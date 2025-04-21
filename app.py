@@ -19,6 +19,8 @@ st.set_page_config(
 def init_session_state():
     defaults = {
         "df_suburbs": None,
+        "df_regions": None,
+        "df_states": None,
         "df_houses": None,
         "df_town_houses": None,
         "df_units": None,
@@ -44,9 +46,11 @@ def main():
     #render_sidebar()
 
     # load data
-    df_suburbs, df_houses, df_town_houses, df_units = load_data()
+    df_suburbs, df_regions, df_states, df_houses, df_town_houses, df_units = load_data()
 
     st.session_state.df_suburbs = df_suburbs
+    st.session_state.df_regions = df_regions
+    st.session_state.df_states = df_states
     st.session_state.df_houses = df_houses
     st.session_state.df_town_houses = df_town_houses
     st.session_state.df_units = df_units

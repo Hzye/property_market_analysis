@@ -1,33 +1,38 @@
 import streamlit as st
 from config import Config
-from src.utils.data_loader import load_filter_df
+from src.utils.data_loader import load_filter_df, load_data, compute_monthly_delta
+from src.utils.helper import get_ym_last_month
 
 def page():
     st.markdown(f"# {Config.APP_TITLE}")
 
     st.markdown("## Home")
     st.write("""
-    This is a multi-page Streamlit application with MongoDB integration and Plotly visualizations.
-    Use the sidebar to navigate between different pages or select options below.
+        Welcome to my Australian property market analysis tool. The purpose of this project is for me to practice the Data Science pipeline in
+        its entirety. 
     """)
     
     st.sidebar.header("Home")
 
-    df_suburbs = st.session_state.get("df_suburbs")
-    st.dataframe(df_suburbs)
+    st.markdown("### Monthly Snapshot")
+    st.write("Compare the change in metrics within:")
+
+    delta_vac_rate, delta_rent_stock = compute_monthly_delta()
 
     # Quick stats cards
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        st.metric(label="Total Suburbs", value="1,234")
+        st.metric(label="Total Suburbs", value=f"{len(st.session_state.df_suburbs)}")
     
     with col2:
-        st.metric(label="Active Users", value="567", delta="12%")
+        st.metric(label="Avg. Vacancy Rate", value=f"{st.session_state.df_suburbs['vacancy_rate'].mean():.2f}%", delta=f"{delta_vac_rate:.2f}%")
     
     with col3:
-        st.metric(label="Data Points", value="89.5K", delta="-3%")
+        st.metric(label="Avg. Rental Stock", value=f"{st.session_state.df_suburbs['rental_stock'].mean().astype(int)}", delta=f"{delta_rent_stock:.2f}%")
     
+    st.write("Compared to last month.")
+
     st.markdown("---")
     st.subheader("Navigation")
     

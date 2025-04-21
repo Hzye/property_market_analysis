@@ -1,5 +1,6 @@
 import streamlit as st
 from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
 def df_prop_select(prop_select):
     """Select prop dataframe based on user input"""
@@ -23,3 +24,9 @@ def get_ym_today():
         current_month = "0"+current_month
 
     return datetime.strptime(current_year+current_month, "%Y%m")
+
+def get_ym_last_month():
+    """Get YYYYMM last month."""
+    today_ym = get_ym_today()
+
+    return today_ym - relativedelta(months=1)
