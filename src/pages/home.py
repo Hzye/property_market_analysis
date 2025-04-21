@@ -1,14 +1,17 @@
 import streamlit as st
 from config import Config
 
-def main():
+def page():
     st.markdown(f"# {Config.APP_TITLE}")
 
+    st.markdown("## Home")
     st.write("""
     This is a multi-page Streamlit application with MongoDB integration and Plotly visualizations.
     Use the sidebar to navigate between different pages or select options below.
     """)
     
+    st.sidebar.header("Home")
+
     # Quick stats cards
     col1, col2, col3 = st.columns(3)
     
@@ -37,4 +40,4 @@ def main():
         st.info("📈 **Analysis**  \nPerform advanced data analysis")
 
 if __name__ == "__main__":
-    main()
+    page()

@@ -1,10 +1,10 @@
 import streamlit as st
+from config import Config
 
-# st.set_page_config(
-#     page_title="Choropleth", 
-#     page_icon="🏠",
-#     layout="wide"
-# )
+def page():
+    st.markdown(f"# {Config.APP_TITLE}")
+    st.markdown("## Choropleth Plot")
+    st.sidebar.header("Choropleth Plot")
 
-st.markdown("# 🌏Choropleth plot")
-st.sidebar.header("Choropleth plot")
+if __name__ == "__main__":
+    page()
