@@ -2,7 +2,7 @@ import streamlit as st
 from src.utils.data_loader import load_data
 from src.utils.data_utils import merge_suburb
 from src.utils.plot_utils import create_basic_plot
-from src.utils.misc import df_prop_select
+from src.utils.helper import df_prop_select
 from config import Config
 
 def page():

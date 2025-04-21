@@ -1,5 +1,6 @@
 import streamlit as st
 from config import Config
+from src.utils.data_loader import load_filter_df
 
 def page():
     st.markdown(f"# {Config.APP_TITLE}")
@@ -11,6 +12,9 @@ def page():
     """)
     
     st.sidebar.header("Home")
+
+    df_suburbs = st.session_state.get("df_suburbs")
+    st.dataframe(df_suburbs)
 
     # Quick stats cards
     col1, col2, col3 = st.columns(3)

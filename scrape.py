@@ -7,6 +7,7 @@ from src.utils.database import connect_to_db
 from dotenv import load_dotenv
 import os
 from datetime import datetime
+from src.utils.helper import get_ym_today
 
 # load in global vars
 load_dotenv()
@@ -55,7 +56,6 @@ def add_date_col(df):
 
     df["Date"] = date_today
     return df[["Date"] + [x for x in df.columns if "Date" not in x]]
-
 
 def clean_tables(suburbs, tables):
     """Clean tabular data from scraping."""
@@ -159,19 +159,6 @@ def split_data(data):
     data_states = [x.iloc[:, 2] for x in data_]
 
     return data_suburbs, data_regions, data_states
-
-def get_ym_today():
-    """Get YYYYMM today."""
-    # create dir path
-    now = datetime.today()
-
-    current_year = str(now.year)
-    current_month = str(now.month)
-
-    if len(current_month) < 2:
-        current_month = "0"+current_month
-
-    return datetime.strptime(current_year+current_month, "%Y%m")
 
 def scrape_tables_and_data(valid_suburbs):
     """Scrape tabular and non-tabular data."""

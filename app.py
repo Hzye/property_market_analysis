@@ -43,13 +43,13 @@ def main():
 
     #render_sidebar()
 
-    # # load data
-    # df_suburbs, df_houses, df_town_houses, df_units = load_data(year_month_select)
+    # load data
+    df_suburbs, df_houses, df_town_houses, df_units = load_data()
 
-    # st.session_state.df_suburbs = df_suburbs
-    # st.session_state.df_houses = df_houses
-    # st.session_state.df_town_houses = df_town_houses
-    # st.session_state.df_units = df_units
+    st.session_state.df_suburbs = df_suburbs
+    st.session_state.df_houses = df_houses
+    st.session_state.df_town_houses = df_town_houses
+    st.session_state.df_units = df_units
 
     pg = st.navigation([home_page, basic_plot_page, choropleth_plot_page])
     pg.run()

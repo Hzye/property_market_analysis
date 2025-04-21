@@ -10,9 +10,6 @@ def render_sidebar():
                    unsafe_allow_html=True)
         
         st.markdown("---")
-        
-        # Database connection status
-        db = st.session_state.get("db")
 
         # Filter section
         st.subheader("Filters")
