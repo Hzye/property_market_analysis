@@ -15,10 +15,13 @@ def page():
     st.sidebar.header("Home")
 
     st.markdown("### Monthly Snapshot")
-    st.write("Compare the change in metrics within:")
+
+    col1, col2 = st.columns([1, 3])
+    with col1:
+        subdiv = st.selectbox("Compare the change in metrics within:", ["a", "b"])
 
     delta_vac_rate, delta_rent_stock = compute_monthly_delta()
-
+    
     # Quick stats cards
     col1, col2, col3 = st.columns(3)
     
