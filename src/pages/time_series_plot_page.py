@@ -7,6 +7,11 @@ def page():
     st.session_state.df_suburbs_historical = load_historical_data()
     st.markdown(f"# {Config.APP_TITLE}")
     st.markdown("## Time Series Plots")
+    st.write("""
+        Time series plots allow us to identify patterns or trends in metrics over time. 
+
+        This page currently only supports plotting a single metric of a suburb.    
+    """)
 
     # side bar selections
     st.sidebar.header("Basic Plots")

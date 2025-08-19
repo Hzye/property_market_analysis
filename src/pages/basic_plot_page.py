@@ -8,6 +8,11 @@ from config import Config
 def page():
     st.markdown(f"# {Config.APP_TITLE}")
     st.markdown("## Basic Plots")
+    st.write("""
+        This page allows for basic scatter plots between common property metrics such as listing price and yield for different property types.
+
+        This page currently only supports regional filtering down to the state level. 
+    """)
 
     # side bar selections
     st.sidebar.header("Basic Plots")
