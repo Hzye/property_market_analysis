@@ -33,9 +33,10 @@ def init_session_state():
 
 init_session_state()
 
-home_page = st.Page("src/pages/home.py", title="Home", icon=":material/add_circle:")
-basic_plot_page = st.Page("src/pages/basic_plot_page.py", title="Basic Plot", icon=":material/add_circle:")
-choropleth_plot_page = st.Page("src/pages/choropleth_plot_page.py", title="Choropleth Plot", icon=":material/delete:")
+home_page = st.Page("src/pages/home.py", title="Home", icon="🏠")
+basic_plot_page = st.Page("src/pages/basic_plot_page.py", title="Basic Plot", icon="📊")
+time_series_plot_page = st.Page("src/pages/time_series_plot_page.py", title="Time Series Plot", icon="📈")
+choropleth_plot_page = st.Page("src/pages/choropleth_plot_page.py", title="Choropleth Plot", icon="🌍")
 
 def main():
     db = connect_to_db()
@@ -56,8 +57,9 @@ def main():
     st.session_state.df_units = df_units
 
     st.session_state.states = list(df_states["name"].values)
+    st.session_state.suburbs = list(df_suburbs["name"].values)
 
-    pg = st.navigation([home_page, basic_plot_page, choropleth_plot_page])
+    pg = st.navigation([home_page, basic_plot_page, time_series_plot_page, choropleth_plot_page])
     pg.run()
 
 if __name__ == "__main__":

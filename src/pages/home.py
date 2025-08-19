@@ -24,10 +24,10 @@ def page():
     with col1:
         subdiv = st.selectbox(
             "Compare the change in metrics within:", 
-            list(st.session_state["df_suburbs"]["name"]))
+            st.session_state.suburbs)
         delta_vacancy_rate, delta_rental_stock = compute_monthly_delta_suburb(subdiv)
 
-    delta_vac_rate, delta_rent_stock = compute_monthly_delta()
+    #delta_vac_rate, delta_rent_stock = compute_monthly_delta()
     
     # Quick stats cards
     col1, col2, col3 = st.columns(3)
@@ -38,12 +38,12 @@ def page():
     with col2:
         st.metric(label="Avg. Vacancy Rate", 
         value=f"{st.session_state.df_suburbs.query('name == @subdiv')['vacancy_rate'].iloc[0]:.2f}%", 
-        delta=f"{delta_vac_rate:.2f}%")
+        delta=f"{delta_vacancy_rate:.2f}%")
     
     with col3:
         st.metric(label="Avg. Rental Stock", 
         value=f"{st.session_state.df_suburbs.query('name == @subdiv')['rental_stock'].iloc[0].astype(int)}", 
-        delta=f"{delta_rent_stock:.2f}%")
+        delta=f"{delta_rental_stock:.2f}%")
     
     st.write("Compared to last month.")
 

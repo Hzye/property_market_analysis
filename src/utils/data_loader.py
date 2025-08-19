@@ -16,12 +16,14 @@ def load_data(date=None):
         st.session_state["year"] = date.year
         st.session_state["month"] = date.strftime("%B")
 
+    # load snapshot data
     df_suburbs = load_filter_df(db, "data_suburbs", {"Date": date})
     df_regions = load_filter_df(db, "data_regions", {"Date": date})
     df_states = load_filter_df(db, "data_states", {"Date": date})
     df_houses = load_filter_df(db, "tables_houses", {"Date": date})
     df_town_houses = load_filter_df(db, "tables_town_houses", {"Date": date})
     df_units = load_filter_df(db, "tables_units", {"Date": date})
+
     return (
         df_suburbs, 
         df_regions,
@@ -30,6 +32,13 @@ def load_data(date=None):
         df_town_houses,
         df_units
     )
+
+@st.cache_data
+def load_historical_data():
+    db = st.session_state.get("db")
+
+    # load historical data
+    return pd.DataFrame(list(db["data_suburbs"].find())).drop(columns="_id")
 
 def load_df(db, name):
     coll = db[name]
