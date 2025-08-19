@@ -1,3 +1,6 @@
 data/
 geojson_data.geojson
 .env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
