@@ -13,6 +13,8 @@ def load_data(date=None):
 
     if date is None:
         date = get_ym_today()
+        st.session_state["year"] = date.year
+        st.session_state["month"] = date.strftime("%B")
 
     df_suburbs = load_filter_df(db, "data_suburbs", {"Date": date})
     df_regions = load_filter_df(db, "data_regions", {"Date": date})
@@ -46,6 +48,18 @@ def filter_df(df, condition):
 def load_filter_df(db, name, condition):
     df = load_df(db, name)
     return filter_df(df, condition)
+
+def compute_monthly_delta_suburb(suburb):
+    df_suburbs_cur = st.session_state.df_suburbs
+    df_suburbs_prev, _, _, _, _, _ = load_data(get_ym_last_month())
+
+    cur = df_suburbs_cur.query("name == @suburb")[["vacancy_rate", "rental_stock"]]
+    prev = df_suburbs_prev.query("name == @suburb")[["vacancy_rate", "rental_stock"]]
+
+    delta_vacancy_rate = (cur["vacancy_rate"].values - prev["vacancy_rate"].values)/prev["vacancy_rate"].values*100
+    delta_rental_stock = (cur["rental_stock"].values - prev["rental_stock"].values)/prev["rental_stock"].values*100
+
+    return delta_vacancy_rate[0], delta_rental_stock[0]
 
 def compute_monthly_delta():
 

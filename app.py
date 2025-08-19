@@ -58,33 +58,5 @@ def main():
     pg = st.navigation([home_page, basic_plot_page, choropleth_plot_page])
     pg.run()
 
-    # year_months = os.listdir("data_inv")[:-1][::-1]
-    # year_month_select = st.sidebar.selectbox(
-    #     "Choose year and month:", 
-    #     year_months,
-    #     index=0
-    # )
-
-    # states = list(df_suburbs["state"].unique()[:-1])
-    # st.session_state.states = states
-
-    # stats = [
-    #     "vacancy_rate", 
-    #     "rental_stock", 
-    #     "population", 
-    #     "rental_pop"
-    # ]
-
-    # stat_select = st.sidebar.selectbox(
-    #     "Select statistic:", 
-    #     stats,
-    # )
-
-    # create_distplot_by_state(
-    #     stat=stat_select,
-    #     df=df_suburbs,
-    #     states=states
-    # )
-
 if __name__ == "__main__":
     main()
