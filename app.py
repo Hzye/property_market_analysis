@@ -55,6 +55,8 @@ def main():
     st.session_state.df_town_houses = df_town_houses
     st.session_state.df_units = df_units
 
+    st.session_state.states = list(df_states["name"].values)
+
     pg = st.navigation([home_page, basic_plot_page, choropleth_plot_page])
     pg.run()
 
