@@ -23,7 +23,7 @@ def connect_to_db():
 def add_to_collection(db, collection_name, df):
     """Add data to collection."""
     collection = db[collection_name]
-    collection.insert_many(df.to_dict("index").values())
+    collection.insert_many(df.to_dict("records"))
 
 def get_collection_names():
     """Get list of collections in the database"""

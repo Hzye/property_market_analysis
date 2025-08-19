@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 from bs4 import BeautifulSoup
-from src.utils.database import connect_to_db
+from src.utils.database import connect_to_db, add_to_collection
 from dotenv import load_dotenv
 import os
 from datetime import datetime
@@ -12,7 +12,7 @@ from src.utils.helper import get_ym_today
 # load in global vars
 load_dotenv()
 scrape_url = os.getenv("SCRAPE_URL")
-uri = os.getenv("DATABASE_URL")
+uri = os.getenv("MONGO_URL")
 
 def main():
     db = connect_to_db()
@@ -47,8 +47,8 @@ def main():
         "tables_units"
     ]
 
-    # for (collection_name, df) in zip(collection_names, dfs):
-    #     add_to_collection(db, collection_name, df)
+    for (collection_name, df) in zip(collection_names, dfs):
+        add_to_collection(db, collection_name, df.reset_index())
 
 def add_date_col(df):
     """Add date col to df."""
